@@ -20,3 +20,19 @@
 	-  [ ] University of Houston football schedule
 	-  [ ] Rice University football schelude
 	-  [ ] Texas Southern University football schedule
+
+
+## Installation
+
+### Create enviroment from the yaml file
+
+1. create the enviroment from teh `enviroment.yml` file
+
+```bash
+conda env create -f environment.yml
+```
+
+2. activate the new enviroment
+
+- windows : `activate sbc`
+- osx & linux : `source activate sbc`
