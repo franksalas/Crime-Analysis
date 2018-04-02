@@ -1,0 +1,65 @@
+date,opponent,result,score,record,duration,attendance
+08/27/2017,at Florida A&M,L,29-Jul,0-1,03:39,15401
+09/07/2017,vs Houston Baptist,L,17-24,0-2,03:07,6218
+09/23/2017,at Alabama A&M,L,13-30,"0-3 , 0-1",02:50,6356
+09/29/2017,vs Alcorn State,L,17-24,0-4,03:07,2785
+10/07/2017,at Kennesaw State,L,Mar-48,0-5,02:39,6743
+10/14/2017,vs Alabama State,L,16-23,"0-6 , 0-2",03:16,8462
+10/28/2017,at Grambling State,L,24-50,"0-7 , 0-4",03:09,18350
+11/04/2017,at Mississippi Valley,W,38-21,"1-8 , 1-4",02:39,2987
+11/17/2017,at Arkansas-Pine Bluff,W,24-10,"2-8 , 2-4",02:20,1220
+11/25/2017,vs Prairie View A&M,L,16-30,"2-9 , 2-5",03:14,14102
+09/04/2016,at Prairie View A&M,L,25-29,"0-1 , 0-1",05:25,14982
+09/10/2016,at Houston Baptist,L,20-24,0-2,03:22,4125
+09/17/2016,vs Mississippi Valley,W,31-0,"1-2 , 1-1",02:43,1524
+09/24/2016,at Alabama State,W,31-27,"2-2 , 2-1",03:05,5860
+10/01/2016,vs Alabama A&M,W,34-31,"3-2 , 3-1",03:02,4282
+10/15/2016,at Alcorn State,L,20-23,"3-3 , 3-2",03:08,11142
+10/22/2016,vs Jackson State,L,13-21,"3-4 , 3-3",02:58,10121
+10/29/2016,at Sam Houston State,L,17-66,05-Mar,03:27,8611
+11/05/2016,at Southern U.,L,26-Oct,"3-6 , 3-4",02:33,7259
+11/12/2016,vs Arkansas-Pine Bluff,W,27-10,"4-6 , 4-4",02:52,1782
+11/19/2016,vs Grambling State,L,28-47,"4-7 , 4-5",03:14,9146
+09/05/2015,vs Prairie View A&M,L,Nov-38,"0-1 , 0-1",03:39,19075
+09/11/2015,vs Bacone,W,63-0,"1-1 , 0-1",03:15,1202
+09/19/2015,at Arkansas -Pine Bluff,W,24-20,"2-1 , 1-1",02:55,6064
+09/26/2015,at Jackson State Tigers,L,30-34,"2-2 , 1-2",03:25,8517
+10/01/2015,vs Alabama State,L,23-41,"2-3 , 1-3",03:41,2827
+10/17/2015,at Mississippi Valley,W,49-21,"3-3 , 2-3",03:10,4297
+10/24/2015,vs Southern,L,21-40,"3-4 , 2-4",03:20,10127
+11/07/2015,at Grambling State,L,15-41,"3-5 , 2-5",03:15,9868
+11/14/2015,vs ALCORN,L,13-65,"3-6 , 2-6",03:01,2145
+11/28/2015,at Alabama A&M,L,Jul-38,07-Mar,-,1200
+08/31/2014,at Prairie View A&M,W,37-35,"1-0 , 1-0",03:25,19189
+09/04/2014,vs Texas College,W,52-14,Feb-00,03:05,2135
+09/13/2014,vs Central State,W,30-16,Mar-00,03:10,7802
+09/20/2014,vs Alabama A&M,W,45-23,"4-0 , 2-0",03:30,2146
+09/27/2014,at Alabama State,L,Mar-38,"4-1 , 2-1",02:45,8014
+10/04/2014,vs Mississippi Valley,W,20-16,"5-1 , 3-1",3hrs,1564
+10/18/2014,at Alcorn State,L,25-40,"5-2 , 3-2",3h 15min,15513
+10/25/2014,vs Arkansas-Pine Bluff,L,37-38,"5-3 , 3-3",03:30,8210
+11/01/2014,vs Grambling State,L,Jul-35,"5-4 , 3-4",03:32,9027
+11/08/2014,at Southern U.,L,20-30,"5-5 , 3-5",02:53,14649
+11/15/2014,vs Jackson State,L,15-Oct,"5-6 , 3-6",02:55,2824
+08/31/2013,vs Prairie View A&M,L,13-37,"0-1 , 0-1",03:10,18361
+09/14/2013,at Sam Houston State,L,17-55,0-2,03:07,6403
+09/19/2013,at Jackson State Tigers,L,Jul-35,"0-3 , 0-2",3hr 25m,13801
+09/28/2013,at Alabama A&M,L,12-Oct,"0-4 , 0-3",02:55,7267
+10/05/2013,vs Alabama State,L,Feb-34,"0-5 , 0-4",03:15,2186
+10/12/2013,at Arkansas-Pine Bluff,W,41-28,"1-5 , 1-4",03:09,4491
+10/19/2013,vs Alcorn,L,13-20,"1-6 , 1-5",03:30,4582
+10/26/2013,at Grambling State Univ,W,23-17,"2-6 , 2-5",03:09,7670
+11/01/2013,vs Southern,L,24-31,"2-7 , 2-6",3hr15min,6406
+11/09/2013,at Miss. Valley State,L,17-20,"2-8 , 2-7",03:06,2706
+11/16/2013,vs Howard,L,Jun-40,"2-9 , 2-7",3hr20min,1562
+09/01/2012,at Prairie View A&M,W,44-41,"1-0 , 1-0",03:30,22516
+09/07/2012,at North Texas,L,Jul-34,01-Jan,03:18,22259
+09/15/2012,vs Jackson State,L,35-45,"1-2 , 1-1",03:15,14623
+09/22/2012,vs Alabama A&M,L,13-42,"1-3 , 1-2",03:01,4484
+09/27/2012,vs SHSU,L,Jun-50,"1-4 , 1-2",2h50m,4443
+10/06/2012,at Alabama State,L,0-45,"1-5 , 1-3",02:50,3356
+10/13/2012,at Southern U.,L,Jul-34,"1-6 , 1-4",02:58,25400
+10/27/2012,vs Grambling,W,23-20,"2-6 , 2-4",03:01,2966
+11/03/2012,vs Arkansas-Pine Bluff,L,Mar-49,"2-7 , 2-5",03:51,2968
+11/10/2012,at Alcorn State,L,24-34,"2-8 , 2-6",3h 10min,4309
+11/17/2012,vs Mississippi Valley,L,Mar-34,"2-9 , 2-7",3h15m,954

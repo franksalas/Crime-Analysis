@@ -13,13 +13,20 @@
 -  offers a free 90 day data trial (API) for new users.
 - format: JSON
 
-	-  [ ] Houston Texans game schedule
-	-  [ ] Houston Astros game schedule
-	-  [ ] Houston Dash game schedule
+	-  [x] Houston Texans game schedule
+		- 17 years of every NFL score from sportradar.us
+		- 2001 - 2017
+		- date_time|home|h_score|away|a_score|winner
+	-  [x] Houston Astros game schedule
+		- 2008 - 2017 Houston Astros regular season
+		- site
 	-  [ ] Houston Rockets game schedule
-	-  [ ] University of Houston football schedule
-	-  [ ] Rice University football schelude
-	-  [ ] Texas Southern University football schedule
+	-  [x] University of Houston football schedule
+		- 2008 - 2017 schedule
+	-  [x] Rice University football schelude
+		- 2008 - 2017 schedule
+	-  [x] Texas Southern University football schedule
+		- 2008 - 2017 schedule
 
 
 ## Installation
