@@ -1,0 +1,113 @@
+full_date,Day,Opponent,Result,away_home,win_lost
+2008-08-30,Sat,PV A&M,34-14,home,L
+2008-09-06,Sat,Arkansas State,83-10,away,L
+2008-09-13,Sat,Shaw,40-29,away,W
+2008-09-20,Sat,Texas College,28-13,away,W
+2008-09-27,Sat,Concordia Col.,45-27,home,W
+2008-10-04,Sat,Texas State,63-39,away,L
+2008-10-11,Sat,Southern,45-14,away,L
+2008-10-18,Sat,Jackson State,30-14,home,L
+2008-10-25,Sat,Alcorn State,30-29,away,W
+2008-11-08,Sat,Miss Valley St,58-44,home,L
+2008-11-20,Thu,Grambling,33-7,home,L
+2008-11-29,Sat,AR-Pine Bluff,28-7,away,L
+2009-09-05,Sat,PV A&M,17-7,away,L
+2009-09-12,Sat,UL Monroe,58-0,away,L
+2009-09-19,Sat,Texas College,75-6,home,W
+2009-09-26,Sat,Texas State,52-18,away,L
+2009-10-10,Sat,Rutgers,42-0,away,L
+2009-10-17,Sat,Jackson State,19-17,away,W
+2009-10-31,Sat,Alcorn State,51-21,home,W
+2009-11-07,Sat,Miss Valley St,30-7,away,W
+2009-11-12,Thu,Grambling,47-33,away,L
+2009-11-28,Sat,AR-Pine Bluff,14-10,home,W
+2009-12-05,Sat,Southern,30-25,home,W
+2010-09-05,Sun,PV A&M,16-14,home,L
+2010-09-11,Sat,UConn,62-3,away,L
+2010-09-18,Sat,Alabama A&M,32-9,home,W
+2010-09-25,Sat,Tuskegee,21-14,home,L
+2010-10-02,Sat,Alabama State,21-7,away,W
+2010-10-09,Sat,Alcorn State,30-20,away,W
+2010-10-23,Sat,Jackson State,21-18,home,W
+2010-10-30,Sat,Miss Valley St,38-7,home,W
+2010-11-06,Sat,Southern,54-7,away,W
+2010-11-11,Thu,Grambling,41-34 OT,home,W
+2010-11-20,Sat,AR-Pine Bluff,20-13,home,W
+2010-12-11,Sat,Alabama State,11-6,home,W
+2011-09-10,Sat,PV A&M,37-34,home,L
+2011-09-17,Sat,Texas College,49-6,home,W
+2011-09-24,Sat,Alcorn State,14-7,home,W
+2011-09-29,Thu,Jackson State,58-13,away,L
+2011-10-08,Sat,Alabama State,43-29,home,L
+2011-10-13,Thu,Alabama A&M,24-21,away,L
+2011-10-22,Sat,Central St,42-11,home,W
+2011-10-29,Sat,Miss Valley St,12-9,away,L
+2011-11-05,Sat,Southern,29-15,home,W
+2011-11-12,Sat,Grambling,29-25,away,L
+2011-11-19,Sat,AR-Pine Bluff,42-6,away,L
+2012-09-01,Sat,PV A&M,44-41,home,W
+2012-09-08,Sat,North Texas,34-7,away,L
+2012-09-15,Sat,Jackson State,45-35,home,L
+2012-09-22,Sat,Alabama A&M,42-13,home,L
+2012-09-27,Thu,Sam Houston,50-6,home,L
+2012-10-06,Sat,Alabama State,45-0,away,L
+2012-10-13,Sat,Southern,34-7,away,L
+2012-10-27,Sat,Grambling,23-20,home,W
+2012-11-03,Sat,AR-Pine Bluff,49-3,home,L
+2012-11-10,Sat,Alcorn State,34-24,away,L
+2012-11-17,Sat,Miss Valley St,34-3,home,L
+2013-08-31,Sat,PV A&M,37-13,home,L
+2013-09-14,Sat,Sam Houston,55-17,away,L
+2013-09-19,Thu,Jackson State,35-7,away,L
+2013-09-28,Sat,Alabama A&M,12-10,away,L
+2013-10-05,Sat,Alabama State,34-2,home,L
+2013-10-12,Sat,AR-Pine Bluff,41-28,away,W
+2013-10-19,Sat,Alcorn State,20-13,home,L
+2013-10-26,Sat,Grambling,23-17 OT,away,W
+2013-11-01,Fri,Southern,31-24,home,L
+2013-11-09,Sat,Miss Valley St,20-17,away,L
+2013-11-16,Sat,Howard,40-6,home,L
+2014-08-31,Sun,PV A&M,37-35,home,W
+2014-09-04,Thu,Texas College,52-14,home,W
+2014-09-13,Sat,Central St,30-16,home,W
+2014-09-20,Sat,Alabama A&M,45-23,home,W
+2014-09-27,Sat,Alabama State,38-3,away,L
+2014-10-04,Sat,Miss Valley St,20-16,home,W
+2014-10-18,Sat,Alcorn State,40-25,away,L
+2014-10-25,Sat,AR-Pine Bluff,38-37,home,L
+2014-11-01,Sat,Grambling,35-7,home,L
+2014-11-08,Sat,Southern,30-20,away,L
+2014-11-15,Sat,Jackson State,15-10,home,L
+2015-09-05,Sat,PV A&M,38-11,home,L
+2015-09-11,Fri,Bacone College,63-0,home,W
+2015-09-19,Sat,AR-Pine Bluff,24-20,away,W
+2015-09-26,Sat,Jackson State,34-30,away,L
+2015-10-01,Thu,Alabama State,41-23,home,L
+2015-10-17,Sat,Miss Valley St,49-21,away,W
+2015-10-24,Sat,Southern,40-21,home,L
+2015-10-31,Sat,Faith-Arkansas,Canceled,home,W
+2015-11-07,Sat,Grambling,41-15,away,L
+2015-11-14,Sat,Alcorn State,65-13,home,L
+2015-11-28,Sat,Alabama A&M,38-7,away,L
+2016-09-04,Sun,PV A&M,29-25,away,L
+2016-09-10,Sat,Houston Baptist,24-20,away,L
+2016-09-17,Sat,Miss Valley St,31-0,home,W
+2016-09-24,Sat,Alabama State,31-27,away,W
+2016-10-01,Sat,Alabama A&M,34-31,home,W
+2016-10-15,Sat,Alcorn State,23-20,away,L
+2016-10-22,Sat,Jackson State,21-13,home,L
+2016-10-29,Sat,Sam Houston,66-17,away,L
+2016-11-05,Sat,Southern,26-10,away,L
+2016-11-12,Sat,AR-Pine Bluff,27-10,home,W
+2016-11-19,Sat,Grambling,47-28,home,L
+2017-08-26,Sat,Florida A&M,29-7,away,L
+2017-09-07,Thu,Houston Baptist,24-17,home,L
+2017-09-23,Sat,Alabama A&M,30-13,away,L
+2017-09-29,Fri,Alcorn State,24-17,home,L
+2017-10-07,Sat,Kennesaw St,48-3,away,L
+2017-10-14,Sat,Alabama State,23-16,home,L
+2017-10-28,Sat,Grambling,50-24,away,L
+2017-11-04,Sat,Miss Valley St,38-21,away,W
+2017-11-11,Sat,Southern,33-7,home,L
+2017-11-18,Sat,AR-Pine Bluff,24-10,home,W
+2017-11-25,Sat,PV A&M,30-16,home,L
