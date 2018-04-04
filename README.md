@@ -3,7 +3,7 @@
 
 ### Crime data
 - [x] [Houston Police Department Crime Statistics](http://www.houstontx.gov/police/cs/crime-stats-archives.htm)
-	- years: 2009 - 2016
+	- years: 2009 - 2017
 	- format: Access or Excel
 
 ### Sports Team schedule & scores
@@ -20,7 +20,7 @@
 	-  [x] Houston Astros game schedule
 		- 2008 - 2017 Houston Astros regular season
 		- site
-	-  [ ] Houston Rockets game schedule
+	-  [x] Houston Rockets game schedule
 	-  [x] University of Houston football schedule
 		- 2008 - 2017 schedule
 	-  [x] Rice University football schelude
