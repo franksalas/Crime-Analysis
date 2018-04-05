@@ -592,7 +592,7 @@ markers = gmaps.marker_layer(locations)
 fig.add_layer(markers)
 fig
 ```
-![map](/Houston_crime_Data/img/map2.png)
+![map](./Houston_Crime_Data/img/map2.png)
  what if you wanted a heat map version
  
  ```python
@@ -601,4 +601,4 @@ fig.add_layer(gmaps.heatmap_layer(locations))
 fig
 ```
 
-![map](/Houston_crime_Data/img/map_heat.png)
+![map](./Houston_Crime_Data/img/map_heat.png)
