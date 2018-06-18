@@ -38,8 +38,3 @@ Data was composed of excel files for each month from 2010 to 2017 combining arou
 - UH Football [sports-reference.com](https://www.sports-reference.com/cfb/schools/houston/2017-schedule.html): web scraping
 - Rice Football [sports-reference.com](https://www.sports-reference.com/cfb/schools/rice/2017-schedule.html): web scrappiing
 
-
-
-
-## Explain your initial findings
-will be used to find the type of crime around a sporting event given its stadium location.
