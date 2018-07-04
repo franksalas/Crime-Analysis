@@ -21,9 +21,10 @@ def gm_geocode(address,API_KEY):
     loc = '{}, Houston, TX'.format(address)
     gmaps = googlemaps.Client(key=API_KEY)
     r = gmaps.geocode(loc)
-    lat_lng = tuple(r[0]['geometry']['location'].values())
-    full_add = r[0]['formatted_address']
-    return lat_lng, full_add
+    #lat_lng = tuple(r[0]['geometry']['location'].values())
+    #full_add = r[0]['formatted_address']
+    #return lat_lng, full_add
+    return r
 
 
 
