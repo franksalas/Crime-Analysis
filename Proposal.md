@@ -34,12 +34,7 @@ Since the primary purpose is to predict the likelihood of crime given spots aren
 
 ## Limitations
 
-The prediction of the model will depend on how good the crime dataset is,
-
-
-In other words. If we want to predict the likelihood of crime around a stadium, some crimes are not reported until days later or not even at all.  Time of the crime could also affect the result; a police report might write down the time the crime is reported and not when it happens.
-
-
+The prediction of the model will depend on how good the crime dataset is. In other words. If we want to predict the likelihood of crime around a stadium, some crimes are not reported until days later or not even at all.  Time of the crime could also affect the result; a police report might write down the time the crime is reported and not when it happens.
 
 ## Deliverables
 
