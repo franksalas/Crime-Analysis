@@ -1,0 +1,289 @@
+full_date,away_score,away_team,home_score,home_team,season,winner
+2011-10-30 00:00:00,2 ,Houston Dynamo,         1,Philadelphia Union,plo,
+2011-11-03 00:00:00,0 ,Philadelphia Union,          1,Houston Dynamo,plo,
+2011-11-06 00:00:00,2,Houston Dynamo,          0,Sporting Kansas City,plo,
+2011-11-20 00:00:00,0,Houston Dynamo,        1,Los Angeles Galaxy,plo,
+2012-10-31 00:00:00,2 ,Houston Dynamo,          1,Chicago Fire,plo,
+2012-11-04 00:00:00,0 ,Sporting Kansas City,        2,Houston Dynamo,plo,
+2012-11-07 00:00:00,0 ,Houston Dynamo,         1,Sporting Kansas City,plo,
+2012-11-11 00:00:00,1,Washington D.C. United,         3,Houston Dynamo,plo,
+2012-11-18 00:00:00,1,Houston Dynamo,       1,Washington D.C. United,plo,
+2012-12-01 00:00:00,1 ,Houston Dynamo, 3,Los Angeles Galaxy,plo,
+2013-10-31 00:00:00,0 ,Montreal Impact,        3,Houston Dynamo,plo,
+2013-11-03 00:00:00,2 ,New York Red Bulls,    2,Houston Dynamo,plo,
+2013-11-06 00:00:00,1 ,Houston Dynamo,     1,New York Red Bull,plo,
+2013-11-09 00:00:00,0 ,Sporting Kansas City,         0,Houston Dynamo,plo,
+2013-11-23 00:00:00,1 ,Houston Dynamo,      2,Sporting Kansas City,plo,
+2017-10-26 00:00:00,0,Kansas City,1,Houston Dynamo,plo,
+2017-10-30 00:00:00,0,Portland Tumbers,0,Houston Dynamo,plo,
+2017-11-05 00:00:00,2,Houston Dynamo,1,Portland Tumbers,plo,
+2017-11-21 00:00:00,2,Seattle,0,Houston Dynamo,plo,
+2017-11-30 00:00:00,0,Houston Dynamo,3,Seattle,plo,
+2010-03-27,1,HOU,1,FC Dallas,reg,HOU
+2010-04-01,1,Real Salt Lake,2,Houston Dynamo,reg,HOU
+2010-04-10,2,LA Galaxy,0,Houston Dynamo,reg,LA Galaxy
+2010-04-17,0,Chivas USA,3,Houston Dynamo,reg,HOU
+2010-04-24,0,HOU,2,Chicago,reg,Chicago
+2010-05-01,0,Sporting KC,3,Houston Dynamo,reg,HOU
+2010-05-05,1,FC Dallas,0,Houston Dynamo,reg,FC Dallas
+2010-05-08,2,HOU,0,Chivas USA,reg,HOU
+2010-05-13,1,HOU,3,Real Salt Lake,reg,Real Salt Lake
+2010-05-22,0,D.C. United,2,Houston Dynamo,reg,HOU
+2010-05-29,3,Philadelphia,2,Houston Dynamo,reg,Philadelphia
+2010-06-02,1,HOU,2,NY Red Bulls,reg,NY Red Bulls
+2010-06-05,1,HOU,4,LA Galaxy,reg,LA Galaxy
+2010-06-26,2,Colorado,2,Houston Dynamo,reg,Colorado
+2010-07-01,1,HOU,1,Toronto FC,reg,HOU
+2010-07-10,0,Columbus,0,Houston Dynamo,reg,Columbus
+2010-07-24,0,HOU,3,Columbus,reg,Columbus
+2010-07-31,2,NY Red Bulls,2,Houston Dynamo,reg,NY Red Bulls
+2010-08-08,0,HOU,2,Seattle,reg,Seattle
+2010-08-14,0,HOU,1,New England,reg,New England
+2010-08-21,3,Chicago,4,Houston Dynamo,reg,HOU
+2010-08-28,0,HOU,3,Colorado,reg,Colorado
+2010-09-05,2,San Jose,1,Houston Dynamo,reg,San Jose
+2010-09-18,2,Toronto FC,1,Houston Dynamo,reg,Toronto FC
+2010-09-22,3,HOU,4,Sporting KC,reg,Sporting KC
+2010-09-25,3,HOU,1,D.C. United,reg,HOU
+2010-10-02,1,HOU,1,Philadelphia,reg,HOU
+2010-10-10,2,New England,1,Houston Dynamo,reg,New England
+2010-10-16,1,HOU,0,San Jose,reg,HOU
+2010-10-23,1,HOU,2,Seattle,reg,Seattle
+2011-03-19,1,Philadelphia,0,Houston Dynamo,reg,Philadelphia
+2011-03-25,1,HOU,1,Seattle,reg,HOU
+2011-04-02,1,HOU,1,NY Red Bulls,reg,HOU
+2011-04-10,1,Vancouver,3,Houston Dynamo,reg,HOU
+2011-04-17,0,New England,1,Houston Dynamo,reg,HOU
+2011-04-23,1,HOU,1,Chicago,reg,HOU
+2011-04-29,1,D.C. United,4,Houston Dynamo,reg,HOU
+2011-05-04,2,Colorado,1,Houston Dynamo,reg,Colorado
+2011-05-07,1,HOU,2,Toronto FC,reg,Toronto FC
+2011-05-14,0,HOU,0,Real Salt Lake,reg,HOU
+2011-05-21,2,NY Red Bulls,2,Houston Dynamo,reg,NY Red Bulls
+2011-05-25,0,HOU,1,LA Galaxy,reg,LA Galaxy
+2011-05-28,2,FC Dallas,2,Houston Dynamo,reg,FC Dallas
+2011-06-04,0,HOU,2,San Jose,reg,San Jose
+2011-06-11,1,Chivas USA,2,Houston Dynamo,reg,HOU
+2011-06-18,2,Columbus,0,Houston Dynamo,reg,Columbus
+2011-06-25,2,HOU,2,D.C. United,reg,HOU
+2011-07-03,0,HOU,0,Colorado,reg,HOU
+2011-07-09,0,Toronto FC,2,Houston Dynamo,reg,HOU
+2011-07-16,1,Sporting KC,1,Houston Dynamo,reg,Sporting KC
+2011-07-23,0,HOU,3,Chivas USA,reg,Chivas USA
+2011-07-30,1,HOU,3,Seattle,reg,Seattle
+2011-08-06,1,HOU,1,Philadelphia,reg,HOU
+2011-08-14,1,Portland,2,Houston Dynamo,reg,HOU
+2011-08-17,1,HOU,1,New England,reg,HOU
+2011-08-20,2,Real Salt Lake,3,Houston Dynamo,reg,HOU
+2011-08-27,0,HOU,1,Vancouver,reg,Vancouver
+2011-09-10,0,HOU,3,Sporting KC,reg,Sporting KC
+2011-09-14,2,HOU,2,Columbus,reg,HOU
+2011-09-17,1,San Jose,2,Houston Dynamo,reg,HOU
+2011-09-24,1,HOU,0,FC Dallas,reg,HOU
+2011-10-01,1,Chicago,1,Houston Dynamo,reg,Chicago
+2011-10-14,2,HOU,0,Portland,reg,HOU
+2011-10-23,1,LA Galaxy,3,Houston Dynamo,reg,HOU
+2012-03-11,1,HOU,0,Chivas USA,reg,HOU
+2012-03-17,1,HOU,0,San Jose,reg,HOU
+2012-03-23,0,HOU,2,Seattle,reg,Seattle
+2012-04-15,1,HOU,1,Chicago,reg,HOU
+2012-04-21,2,HOU,2,Columbus,reg,HOU
+2012-04-28,2,HOU,3,D.C. United,reg,D.C. United
+2012-05-09,0,HOU,1,NY Red Bulls,reg,NY Red Bulls
+2012-05-12,0,D.C. United,1,Houston Dynamo,reg,HOU
+2012-05-15,0,Portland,0,Houston Dynamo,reg,Portland
+2012-05-19,2,HOU,2,New England,reg,HOU
+2012-05-26,1,LA Galaxy,2,Houston Dynamo,reg,HOU
+2012-06-10,1,HOU,3,Vancouver,reg,Vancouver
+2012-06-16,1,FC Dallas,2,Houston Dynamo,reg,HOU
+2012-06-20,3,Toronto FC,3,Houston Dynamo,reg,Toronto FC
+2012-06-23,2,HOU,4,Montreal,reg,Montreal
+2012-06-30,1,Philadelphia,2,Houston Dynamo,reg,HOU
+2012-07-03,0,Chicago,0,Houston Dynamo,reg,Chicago
+2012-07-07,0,HOU,0,Sporting KC,reg,HOU
+2012-07-15,0,D.C. United,4,Houston Dynamo,reg,HOU
+2012-07-18,1,Sporting KC,2,Houston Dynamo,reg,HOU
+2012-07-21,0,Montreal,3,Houston Dynamo,reg,HOU
+2012-07-28,2,HOU,0,Toronto FC,reg,HOU
+2012-08-03,0,NY Red Bulls,2,Houston Dynamo,reg,HOU
+2012-08-10,0,HOU,2,NY Red Bulls,reg,NY Red Bulls
+2012-08-19,2,Columbus,2,Houston Dynamo,reg,Columbus
+2012-08-25,1,Toronto FC,1,Houston Dynamo,reg,Toronto FC
+2012-09-02,1,HOU,3,Chicago,reg,Chicago
+2012-09-06,0,Real Salt Lake,1,Houston Dynamo,reg,HOU
+2012-09-14,1,HOU,1,Sporting KC,reg,HOU
+2012-09-23,1,HOU,3,Philadelphia,reg,Philadelphia
+2012-09-29,0,New England,2,Houston Dynamo,reg,HOU
+2012-10-06,1,Montreal,1,Houston Dynamo,reg,Montreal
+2012-10-20,1,Philadelphia,3,Houston Dynamo,reg,HOU
+2012-10-27,0,HOU,2,Colorado,reg,Colorado
+2013-03-02,0,D.C. United,2,Houston Dynamo,reg,HOU
+2013-03-17,2,HOU,3,FC Dallas,reg,FC Dallas
+2013-03-23,1,Vancouver,2,Houston Dynamo,reg,HOU
+2013-03-30,0,San Jose,2,Houston Dynamo,reg,HOU
+2013-04-06,0,HOU,2,Portland,reg,Portland
+2013-04-14,1,Chicago,2,Houston Dynamo,reg,HOU
+2013-04-20,1,HOU,1,Toronto FC,reg,HOU
+2013-04-28,1,Colorado,1,Houston Dynamo,reg,Colorado
+2013-05-05,1,HOU,0,LA Galaxy,reg,HOU
+2013-05-08,4,HOU,0,D.C. United,reg,HOU
+2013-05-12,1,Sporting KC,0,Houston Dynamo,reg,Sporting KC
+2013-05-18,2,New England,0,Houston Dynamo,reg,New England
+2013-05-26,1,HOU,1,Sporting KC,reg,HOU
+2013-06-01,1,HOU,1,Columbus,reg,HOU
+2013-06-19,0,HOU,2,Montreal,reg,Montreal
+2013-06-22,0,Toronto FC,0,Houston Dynamo,reg,Toronto FC
+2013-06-30,0,HOU,2,NY Red Bulls,reg,NY Red Bulls
+2013-07-06,0,Philadelphia,1,Houston Dynamo,reg,HOU
+2013-07-13,2,HOU,1,New England,reg,HOU
+2013-07-27,1,Chicago,1,Houston Dynamo,reg,Chicago
+2013-08-03,1,Columbus,3,Houston Dynamo,reg,HOU
+2013-08-10,0,HOU,1,Real Salt Lake,reg,Real Salt Lake
+2013-08-17,1,HOU,3,Seattle,reg,Seattle
+2013-08-24,0,HOU,5,Montreal,reg,Montreal
+2013-09-01,1,HOU,1,Chicago,reg,HOU
+2013-09-04,0,HOU,2,Columbus,reg,Columbus
+2013-09-08,4,NY Red Bulls,1,Houston Dynamo,reg,NY Red Bulls
+2013-09-14,1,HOU,0,Philadelphia,reg,HOU
+2013-09-21,1,Chivas USA,5,Houston Dynamo,reg,HOU
+2013-09-28,1,HOU,1,New England,reg,HOU
+2013-10-04,0,Montreal,1,Houston Dynamo,reg,HOU
+2013-10-09,0,Sporting KC,0,Houston Dynamo,reg,Sporting KC
+2013-10-20,3,NY Red Bulls,0,Houston Dynamo,reg,NY Red Bulls
+2013-10-27,2,HOU,1,D.C. United,reg,HOU
+2014-03-08,0,New England,4,Houston Dynamo,reg,HOU
+2014-03-15,0,Montreal,1,Houston Dynamo,reg,HOU
+2014-03-29,1,HOU,2,Vancouver,reg,Vancouver
+2014-04-05,4,FC Dallas,1,Houston Dynamo,reg,FC Dallas
+2014-04-12,0,HOU,2,New England,reg,New England
+2014-04-19,0,HOU,0,Philadelphia,reg,HOU
+2014-04-23,0,HOU,4,NY Red Bulls,reg,NY Red Bulls
+2014-04-27,1,Portland,1,Houston Dynamo,reg,Portland
+2014-05-03,4,HOU,1,Chivas USA,reg,HOU
+2014-05-07,0,Columbus,1,Houston Dynamo,reg,HOU
+2014-05-11,5,Real Salt Lake,2,Houston Dynamo,reg,Real Salt Lake
+2014-05-17,0,LA Galaxy,1,Houston Dynamo,reg,HOU
+2014-05-21,0,HOU,2,D.C. United,reg,D.C. United
+2014-05-25,0,HOU,3,San Jose,reg,San Jose
+2014-06-01,0,HOU,3,Colorado,reg,Colorado
+2014-06-06,2,Sporting KC,0,Houston Dynamo,reg,Sporting KC
+2014-06-29,0,HOU,3,Montreal,reg,Montreal
+2014-07-04,2,NY Red Bulls,2,Houston Dynamo,reg,NY Red Bulls
+2014-07-12,2,HOU,4,Toronto FC,reg,Toronto FC
+2014-07-19,2,Toronto FC,2,Houston Dynamo,reg,Toronto FC
+2014-08-03,0,D.C. United,1,Houston Dynamo,reg,HOU
+2014-08-10,0,HOU,2,Seattle,reg,Seattle
+2014-08-15,0,Philadelphia,2,Houston Dynamo,reg,HOU
+2014-08-23,0,HOU,3,Columbus,reg,Columbus
+2014-08-29,3,HOU,1,Sporting KC,reg,HOU
+2014-09-06,2,Montreal,3,Houston Dynamo,reg,HOU
+2014-09-13,2,Columbus,2,Houston Dynamo,reg,Columbus
+2014-09-20,0,HOU,0,Philadelphia,reg,HOU
+2014-09-28,0,Chicago,2,Houston Dynamo,reg,HOU
+2014-10-04,0,HOU,1,NY Red Bulls,reg,NY Red Bulls
+2014-10-08,1,HOU,0,Toronto FC,reg,HOU
+2014-10-12,3,D.C. United,1,Houston Dynamo,reg,D.C. United
+2014-10-16,2,New England,1,Houston Dynamo,reg,New England
+2014-10-24,1,HOU,2,Chicago,reg,Chicago
+2015-03-07,0,Columbus,1,Houston Dynamo,reg,HOU
+2015-03-13,1,Orlando,0,Houston Dynamo,reg,Orlando
+2015-03-21,1,HOU,1,LA Galaxy,reg,HOU
+2015-03-28,0,Colorado,0,Houston Dynamo,reg,Colorado
+2015-04-04,0,HOU,1,Seattle,reg,Seattle
+2015-04-11,0,Montreal,3,Houston Dynamo,reg,HOU
+2015-04-18,1,HOU,1,D.C. United,reg,HOU
+2015-04-25,4,Sporting KC,4,Houston Dynamo,reg,Sporting KC
+2015-05-01,4,FC Dallas,1,Houston Dynamo,reg,FC Dallas
+2015-05-05,1,San Jose,0,Houston Dynamo,reg,San Jose
+2015-05-10,2,HOU,1,Toronto FC,reg,HOU
+2015-05-16,1,Portland,3,Houston Dynamo,reg,HOU
+2015-05-22,0,HOU,1,LA Galaxy,reg,LA Galaxy
+2015-05-30,1,HOU,1,NYCFC,reg,HOU
+2015-06-05,2,NY Red Bulls,4,Houston Dynamo,reg,HOU
+2015-06-20,0,HOU,2,Portland,reg,Portland
+2015-06-26,0,HOU,2,FC Dallas,reg,FC Dallas
+2015-07-03,1,Chicago,1,Houston Dynamo,reg,Chicago
+2015-07-10,2,HOU,0,San Jose,reg,HOU
+2015-07-18,0,HOU,2,Real Salt Lake,reg,Real Salt Lake
+2015-07-25,0,LA Galaxy,3,Houston Dynamo,reg,HOU
+2015-08-01,1,HOU,1,Sporting KC,reg,HOU
+2015-08-08,1,San Jose,2,Houston Dynamo,reg,HOU
+2015-08-15,0,HOU,2,New England,reg,New England
+2015-08-21,2,HOU,2,Portland,reg,HOU
+2015-08-26,1,HOU,2,Colorado,reg,Colorado
+2015-08-29,0,Vancouver,2,Houston Dynamo,reg,HOU
+2015-09-12,3,Real Salt Lake,1,Houston Dynamo,reg,Real Salt Lake
+2015-09-20,0,HOU,2,Philadelphia,reg,Philadelphia
+2015-09-23,0,Sporting KC,1,Houston Dynamo,reg,HOU
+2015-09-26,2,Colorado,3,Houston Dynamo,reg,HOU
+2015-10-04,1,HOU,4,FC Dallas,reg,FC Dallas
+2015-10-18,1,HOU,1,Seattle,reg,HOU
+2015-10-25,0,HOU,3,Vancouver,reg,Vancouver
+2016-03-06,3,New England,3,Houston Dynamo,reg,New England
+2016-03-12,0,FC Dallas,5,Houston Dynamo,reg,HOU
+2016-03-19,3,HOU,4,NY Red Bulls,reg,NY Red Bulls
+2016-03-26,0,HOU,1,Vancouver,reg,Vancouver
+2016-04-10,1,HOU,1,Seattle,reg,HOU
+2016-04-15,4,LA Galaxy,1,Houston Dynamo,reg,LA Galaxy
+2016-04-23,0,HOU,1,Columbus,reg,Columbus
+2016-04-30,1,HOU,2,Real Salt Lake,reg,Real Salt Lake
+2016-05-07,0,Sporting KC,2,Houston Dynamo,reg,HOU
+2016-05-11,1,HOU,3,San Jose,reg,San Jose
+2016-05-15,0,Real Salt Lake,1,Houston Dynamo,reg,HOU
+2016-05-21,0,HOU,1,Chicago,reg,Chicago
+2016-05-28,1,HOU,1,Vancouver,reg,HOU
+2016-06-02,1,HOU,1,FC Dallas,reg,HOU
+2016-06-18,0,D.C. United,0,Houston Dynamo,reg,D.C. United
+2016-06-26,2,HOU,3,Portland,reg,Portland
+2016-07-02,0,Philadelphia,1,Houston Dynamo,reg,HOU
+2016-07-08,0,HOU,0,Orlando,reg,HOU
+2016-07-15,0,HOU,1,LA Galaxy,reg,LA Galaxy
+2016-07-23,0,Vancouver,0,Houston Dynamo,reg,Vancouver
+2016-07-31,1,San Jose,1,Houston Dynamo,reg,San Jose
+2016-08-06,0,HOU,1,Montreal,reg,Montreal
+2016-08-14,1,Toronto FC,1,Houston Dynamo,reg,Toronto FC
+2016-08-19,2,HOU,1,San Jose,reg,HOU
+2016-08-24,1,HOU,1,Seattle,reg,HOU
+2016-08-27,3,FC Dallas,1,Houston Dynamo,reg,FC Dallas
+2016-09-09,3,HOU,3,Sporting KC,reg,HOU
+2016-09-17,1,HOU,0,Real Salt Lake,reg,HOU
+2016-09-24,1,Portland,3,Houston Dynamo,reg,HOU
+2016-09-30,2,NYCFC,0,Houston Dynamo,reg,NYCFC
+2016-10-08,3,Colorado,2,Houston Dynamo,reg,Colorado
+2016-10-12,0,HOU,0,Seattle,reg,HOU
+2016-10-16,1,LA Galaxy,0,Houston Dynamo,reg,LA Galaxy
+2016-10-23,1,HOU,1,Colorado,reg,HOU
+2017-03-04,1,Seattle,2,Houston Dynamo,reg,HOU
+2017-03-11,1,Columbus,3,Houston Dynamo,reg,HOU
+2017-03-18,2,HOU,4,Portland,reg,Portland
+2017-04-01,1,NY Red Bulls,4,Houston Dynamo,reg,HOU
+2017-04-08,0,HOU,2,New England,reg,New England
+2017-04-15,2,Minnesota,2,Houston Dynamo,reg,Minnesota
+2017-04-22,0,San Jose,2,Houston Dynamo,reg,HOU
+2017-04-28,0,HOU,2,Toronto FC,reg,Toronto FC
+2017-05-06,0,Orlando,4,Houston Dynamo,reg,HOU
+2017-05-12,1,Vancouver,2,Houston Dynamo,reg,HOU
+2017-05-17,0,HOU,2,Philadelphia,reg,Philadelphia
+2017-05-20,1,HOU,4,Atlanta,reg,Atlanta
+2017-05-28,0,HOU,0,FC Dallas,reg,HOU
+2017-05-31,1,Real Salt Lake,5,Houston Dynamo,reg,HOU
+2017-06-04,0,HOU,1,Seattle,reg,Seattle
+2017-06-17,2,HOU,2,LA Galaxy,reg,HOU
+2017-06-23,1,FC Dallas,1,Houston Dynamo,reg,FC Dallas
+2017-07-01,1,HOU,3,Colorado,reg,Colorado
+2017-07-05,1,Montreal,3,Houston Dynamo,reg,HOU
+2017-07-19,0,HOU,0,Minnesota,reg,HOU
+2017-07-22,3,HOU,1,D.C. United,reg,HOU
+2017-07-29,2,Portland,2,Houston Dynamo,reg,Portland
+2017-08-05,0,HOU,0,Real Salt Lake,reg,HOU
+2017-08-12,0,San Jose,3,Houston Dynamo,reg,HOU
+2017-08-19,1,HOU,2,Vancouver,reg,Vancouver
+2017-08-23,3,HOU,3,FC Dallas,reg,HOU
+2017-09-09,1,Colorado,0,Houston Dynamo,reg,Colorado
+2017-09-16,0,HOU,1,San Jose,reg,San Jose
+2017-09-23,1,HOU,1,NYCFC,reg,HOU
+2017-09-27,3,LA Galaxy,3,Houston Dynamo,reg,LA Galaxy
+2017-09-30,1,Minnesota,2,Houston Dynamo,reg,HOU
+2017-10-11,1,Sporting KC,2,Houston Dynamo,reg,HOU
+2017-10-15,0,HOU,0,Sporting KC,reg,HOU
+2017-10-22,0,Chicago,3,Houston Dynamo,reg,HOU

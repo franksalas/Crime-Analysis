@@ -17,6 +17,24 @@ def block_split(df):
     return med
 
 
+# get day, weekday,month ,year
+
+crimes['day'] = crimes.index.strftime('%d')
+crimes['weekday'] = crimes.index.strftime('%A')
+crimes['month'] = crimes.index.strftime('%b')
+crimes['year'] = crimes.index.strftime('%Y')
+# set date as datetime, index & sort
+crimes.Date = pd.to_datetime(crimes.Date)
+crimes = crimes.set_index('Date').sort_index(ascending=True)
+
+# replace extra ' with empty space
+crimes['Beat'] = crimes.Beat.str.replace("'", " ")
+
+# strip empty spaces
+crimes.Beat = crimes.Beat.str.strip()
+
+
+
 def gm_geocode(address,API_KEY):
     loc = '{}, Houston, TX'.format(address)
     gmaps = googlemaps.Client(key=API_KEY)

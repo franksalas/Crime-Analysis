@@ -12,3 +12,12 @@ The goal of this project is to develop such a predictive model for only crime ar
 The crime data is acquired from [Houston Police Department Crime Statistics](http://www.houstontx.gov/police/cs/crime-stats-archives.htm) site.
 Sports dataset is acquired from several locations including [sportradar.us](https://developer.sportradar.com/)
 for this study, the data is obtained only from the years 2010 to 2017 inclusive.
+
+
+```python
+# replace extra ' with empty space
+crimes['Beat'] = crimes.Beat.str.replace("'", " ")
+
+# strip empty spaces
+crimes.Beat = crimes.Beat.str.strip()
+```
