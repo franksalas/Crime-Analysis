@@ -5,6 +5,14 @@ import seaborn as sns
 from matplotlib import rcParams
 rcParams.update({'figure.autolayout': True})
 
+
+df['address']  = df[['block', 'StreetName']].apply(lambda x: ' '.join(x), axis=1)
+
+
+
+
+
+
 def offense_df(df):
     fs = {}
     aa = df.OffenseType == 'Aggravated Assault'
