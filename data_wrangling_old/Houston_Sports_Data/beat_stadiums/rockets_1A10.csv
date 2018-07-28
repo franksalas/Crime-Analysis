@@ -1,0 +1,344 @@
+,Date,Team,Team_score,Location,Opponent,season,beat
+2,2009-10-31,Houston Rockets,111,home,Portland Trail Blazers,reg,1A10
+4,2009-11-04,Houston Rockets,102,home,Los Angeles Lakers,reg,1A10
+5,2009-11-06,Houston Rockets,105,home,Oklahoma City Thunder,reg,1A10
+7,2009-11-11,Houston Rockets,104,home,Memphis Grizzlies,reg,1A10
+10,2009-11-17,Houston Rockets,105,home,Phoenix Suns,reg,1A10
+13,2009-11-21,Houston Rockets,113,home,Sacramento Kings,reg,1A10
+14,2009-11-25,Houston Rockets,99,home,Dallas Mavericks,reg,1A10
+15,2009-11-27,Houston Rockets,84,home,San Antonio Spurs,reg,1A10
+20,2009-12-09,Houston Rockets,95,home,Cleveland Cavaliers,reg,1A10
+23,2009-12-15,Houston Rockets,107,home,Detroit Pistons,reg,1A10
+26,2009-12-19,Houston Rockets,95,home,Oklahoma City Thunder,reg,1A10
+27,2009-12-22,Houston Rockets,108,home,Los Angeles Clippers,reg,1A10
+31,2009-12-29,Houston Rockets,108,home,New Orleans Hornets,reg,1A10
+32,2009-12-31,Houston Rockets,97,home,Dallas Mavericks,reg,1A10
+36,2010-01-09,Houston Rockets,105,home,New York Knicks,reg,1A10
+38,2010-01-13,Houston Rockets,120,home,Minnesota Timberwolves,reg,1A10
+39,2010-01-15,Houston Rockets,106,home,Miami Heat,reg,1A10
+40,2010-01-18,Houston Rockets,101,home,Milwaukee Bucks,reg,1A10
+42,2010-01-23,Houston Rockets,97,home,Chicago Bulls,reg,1A10
+43,2010-01-25,Houston Rockets,95,home,Atlanta Hawks,reg,1A10
+44,2010-01-27,Houston Rockets,92,home,Denver Nuggets,reg,1A10
+45,2010-01-29,Houston Rockets,104,home,Portland Trail Blazers,reg,1A10
+46,2010-01-31,Houston Rockets,111,home,Phoenix Suns,reg,1A10
+47,2010-02-02,Houston Rockets,119,home,Golden State Warriors,reg,1A10
+49,2010-02-06,Houston Rockets,95,home,Philadelphia 76ers,reg,1A10
+51,2010-02-16,Houston Rockets,95,home,Utah Jazz,reg,1A10
+53,2010-02-20,Houston Rockets,115,home,Indiana Pacers,reg,1A10
+55,2010-02-24,Houston Rockets,92,home,Orlando Magic,reg,1A10
+56,2010-02-26,Houston Rockets,109,home,San Antonio Spurs,reg,1A10
+58,2010-03-01,Houston Rockets,116,home,Toronto Raptors,reg,1A10
+59,2010-03-03,Houston Rockets,81,home,Sacramento Kings,reg,1A10
+63,2010-03-13,Houston Rockets,116,home,New Jersey Nets,reg,1A10
+64,2010-03-15,Houston Rockets,125,home,Denver Nuggets,reg,1A10
+65,2010-03-17,Houston Rockets,107,home,Memphis Grizzlies,reg,1A10
+66,2010-03-19,Houston Rockets,87,home,Boston Celtics,reg,1A10
+70,2010-03-25,Houston Rockets,93,home,Los Angeles Clippers,reg,1A10
+71,2010-03-27,Houston Rockets,101,home,Los Angeles Lakers,reg,1A10
+72,2010-03-30,Houston Rockets,98,home,Washington Wizards,reg,1A10
+77,2010-04-07,Houston Rockets,113,home,Utah Jazz,reg,1A10
+78,2010-04-09,Houston Rockets,97,home,Charlotte Bobcats,reg,1A10
+81,2010-04-14,Houston Rockets,115,home,New Orleans Hornets,reg,1A10
+84,2010-10-30,Houston Rockets,94,home,Denver Nuggets,reg,1A10
+85,2010-11-03,Houston Rockets,99,home,New Orleans Hornets,reg,1A10
+87,2010-11-07,Houston Rockets,120,home,Minnesota Timberwolves,reg,1A10
+91,2010-11-16,Houston Rockets,92,home,Chicago Bulls,reg,1A10
+94,2010-11-22,Houston Rockets,116,home,Phoenix Suns,reg,1A10
+95,2010-11-24,Houston Rockets,111,home,Golden State Warriors,reg,1A10
+97,2010-11-28,Houston Rockets,99,home,Oklahoma City Thunder,reg,1A10
+99,2010-12-01,Houston Rockets,109,home,Los Angeles Lakers,reg,1A10
+102,2010-12-07,Houston Rockets,97,home,Detroit Pistons,reg,1A10
+104,2010-12-11,Houston Rockets,110,home,Cleveland Cavaliers,reg,1A10
+105,2010-12-14,Houston Rockets,118,home,Sacramento Kings,reg,1A10
+107,2010-12-17,Houston Rockets,103,home,Memphis Grizzlies,reg,1A10
+111,2010-12-27,Houston Rockets,100,home,Washington Wizards,reg,1A10
+112,2010-12-29,Houston Rockets,119,home,Miami Heat,reg,1A10
+113,2010-12-31,Houston Rockets,114,home,Toronto Raptors,reg,1A10
+116,2011-01-05,Houston Rockets,100,home,Portland Trail Blazers,reg,1A10
+118,2011-01-08,Houston Rockets,99,home,Utah Jazz,reg,1A10
+120,2011-01-12,Houston Rockets,112,home,Oklahoma City Thunder,reg,1A10
+121,2011-01-14,Houston Rockets,105,home,New Orleans Hornets,reg,1A10
+123,2011-01-17,Houston Rockets,93,home,Milwaukee Bucks,reg,1A10
+124,2011-01-19,Houston Rockets,104,home,New York Knicks,reg,1A10
+126,2011-01-22,Houston Rockets,104,home,Orlando Magic,reg,1A10
+128,2011-01-26,Houston Rockets,96,home,Los Angeles Clippers,reg,1A10
+133,2011-02-05,Houston Rockets,95,home,Memphis Grizzlies,reg,1A10
+135,2011-02-08,Houston Rockets,108,home,Minnesota Timberwolves,reg,1A10
+136,2011-02-12,Houston Rockets,102,home,Dallas Mavericks,reg,1A10
+137,2011-02-14,Houston Rockets,121,home,Denver Nuggets,reg,1A10
+138,2011-02-16,Houston Rockets,105,home,Philadelphia 76ers,reg,1A10
+141,2011-02-26,Houston Rockets,123,home,New Jersey Nets,reg,1A10
+145,2011-03-05,Houston Rockets,112,home,Indiana Pacers,reg,1A10
+148,2011-03-12,Houston Rockets,107,home,San Antonio Spurs,reg,1A10
+149,2011-03-14,Houston Rockets,95,home,Phoenix Suns,reg,1A10
+150,2011-03-16,Houston Rockets,94,home,Charlotte Bobcats,reg,1A10
+151,2011-03-18,Houston Rockets,93,home,Boston Celtics,reg,1A10
+152,2011-03-20,Houston Rockets,110,home,Utah Jazz,reg,1A10
+153,2011-03-23,Houston Rockets,131,home,Golden State Warriors,reg,1A10
+157,2011-04-01,Houston Rockets,119,home,San Antonio Spurs,reg,1A10
+158,2011-04-03,Houston Rockets,114,home,Atlanta Hawks,reg,1A10
+159,2011-04-05,Houston Rockets,101,home,Sacramento Kings,reg,1A10
+161,2011-04-09,Houston Rockets,99,home,Los Angeles Clippers,reg,1A10
+162,2011-04-11,Houston Rockets,91,home,Dallas Mavericks,reg,1A10
+165,2011-12-29,Houston Rockets,105,home,San Antonio Spurs,reg,1A10
+167,2011-12-31,Houston Rockets,95,home,Atlanta Hawks,reg,1A10
+171,2012-01-07,Houston Rockets,95,home,Oklahoma City Thunder,reg,1A10
+174,2012-01-13,Houston Rockets,103,home,Sacramento Kings,reg,1A10
+175,2012-01-14,Houston Rockets,107,home,Portland Trail Blazers,reg,1A10
+177,2012-01-17,Houston Rockets,97,home,Detroit Pistons,reg,1A10
+178,2012-01-19,Houston Rockets,90,home,New Orleans Hornets,reg,1A10
+179,2012-01-21,Houston Rockets,105,home,San Antonio Spurs,reg,1A10
+181,2012-01-25,Houston Rockets,99,home,Milwaukee Bucks,reg,1A10
+182,2012-01-27,Houston Rockets,103,home,Washington Wizards,reg,1A10
+183,2012-01-28,Houston Rockets,97,home,New York Knicks,reg,1A10
+184,2012-01-30,Houston Rockets,108,home,Minnesota Timberwolves,reg,1A10
+186,2012-02-03,Houston Rockets,99,home,Phoenix Suns,reg,1A10
+193,2012-02-15,Houston Rockets,96,home,Oklahoma City Thunder,reg,1A10
+194,2012-02-17,Houston Rockets,98,home,Minnesota Timberwolves,reg,1A10
+195,2012-02-19,Houston Rockets,101,home,Utah Jazz,reg,1A10
+196,2012-02-20,Houston Rockets,97,home,Memphis Grizzlies,reg,1A10
+197,2012-02-22,Houston Rockets,93,home,Philadelphia 76ers,reg,1A10
+198,2012-02-28,Houston Rockets,88,home,Toronto Raptors,reg,1A10
+200,2012-03-02,Houston Rockets,105,home,Denver Nuggets,reg,1A10
+201,2012-03-04,Houston Rockets,103,home,Los Angeles Clippers,reg,1A10
+207,2012-03-14,Houston Rockets,107,home,Charlotte Bobcats,reg,1A10
+210,2012-03-20,Houston Rockets,107,home,Los Angeles Lakers,reg,1A10
+211,2012-03-22,Houston Rockets,109,home,Golden State Warriors,reg,1A10
+212,2012-03-24,Houston Rockets,99,home,Dallas Mavericks,reg,1A10
+213,2012-03-26,Houston Rockets,113,home,Sacramento Kings,reg,1A10
+215,2012-03-30,Houston Rockets,98,home,Memphis Grizzlies,reg,1A10
+216,2012-04-01,Houston Rockets,102,home,Indiana Pacers,reg,1A10
+221,2012-04-11,Houston Rockets,91,home,Utah Jazz,reg,1A10
+222,2012-04-13,Houston Rockets,105,home,Phoenix Suns,reg,1A10
+224,2012-04-16,Houston Rockets,102,home,Denver Nuggets,reg,1A10
+227,2012-04-21,Houston Rockets,99,home,Golden State Warriors,reg,1A10
+229,2012-04-26,Houston Rockets,84,home,New Orleans Hornets,reg,1A10
+232,2012-11-03,Houston Rockets,85,home,Portland Trail Blazers,reg,1A10
+233,2012-11-07,Houston Rockets,87,home,Denver Nuggets,reg,1A10
+235,2012-11-10,Houston Rockets,96,home,Detroit Pistons,reg,1A10
+236,2012-11-12,Houston Rockets,110,home,Miami Heat,reg,1A10
+237,2012-11-14,Houston Rockets,100,home,New Orleans Hornets,reg,1A10
+241,2012-11-21,Houston Rockets,93,home,Chicago Bulls,reg,1A10
+242,2012-11-23,Houston Rockets,131,home,New York Knicks,reg,1A10
+243,2012-11-27,Houston Rockets,117,home,Toronto Raptors,reg,1A10
+245,2012-12-01,Houston Rockets,124,home,Utah Jazz,reg,1A10
+246,2012-12-04,Houston Rockets,107,home,Los Angeles Lakers,reg,1A10
+248,2012-12-08,Houston Rockets,109,home,Dallas Mavericks,reg,1A10
+249,2012-12-10,Houston Rockets,126,home,San Antonio Spurs,reg,1A10
+250,2012-12-12,Houston Rockets,99,home,Washington Wizards,reg,1A10
+251,2012-12-14,Houston Rockets,101,home,Boston Celtics,reg,1A10
+254,2012-12-19,Houston Rockets,125,home,Philadelphia 76ers,reg,1A10
+255,2012-12-22,Houston Rockets,121,home,Memphis Grizzlies,reg,1A10
+259,2012-12-29,Houston Rockets,94,home,Oklahoma City Thunder,reg,1A10
+260,2012-12-31,Houston Rockets,123,home,Atlanta Hawks,reg,1A10
+261,2013-01-02,Houston Rockets,104,home,New Orleans Hornets,reg,1A10
+264,2013-01-08,Houston Rockets,125,home,Los Angeles Lakers,reg,1A10
+268,2013-01-15,Houston Rockets,109,home,Los Angeles Clippers,reg,1A10
+273,2013-01-23,Houston Rockets,95,home,Denver Nuggets,reg,1A10
+275,2013-01-26,Houston Rockets,119,home,Brooklyn Nets,reg,1A10
+278,2013-02-02,Houston Rockets,109,home,Charlotte Bobcats,reg,1A10
+279,2013-02-05,Houston Rockets,140,home,Golden State Warriors,reg,1A10
+281,2013-02-08,Houston Rockets,118,home,Portland Trail Blazers,reg,1A10
+285,2013-02-20,Houston Rockets,122,home,Oklahoma City Thunder,reg,1A10
+288,2013-02-27,Houston Rockets,107,home,Milwaukee Bucks,reg,1A10
+290,2013-03-03,Houston Rockets,136,home,Dallas Mavericks,reg,1A10
+294,2013-03-13,Houston Rockets,111,home,Phoenix Suns,reg,1A10
+295,2013-03-15,Houston Rockets,108,home,Minnesota Timberwolves,reg,1A10
+296,2013-03-17,Houston Rockets,78,home,Golden State Warriors,reg,1A10
+297,2013-03-20,Houston Rockets,100,home,Utah Jazz,reg,1A10
+298,2013-03-22,Houston Rockets,116,home,Cleveland Cavaliers,reg,1A10
+299,2013-03-24,Houston Rockets,96,home,San Antonio Spurs,reg,1A10
+300,2013-03-27,Houston Rockets,91,home,Indiana Pacers,reg,1A10
+302,2013-03-30,Houston Rockets,98,home,Los Angeles Clippers,reg,1A10
+303,2013-04-01,Houston Rockets,111,home,Orlando Magic,reg,1A10
+307,2013-04-09,Houston Rockets,101,home,Phoenix Suns,reg,1A10
+308,2013-04-12,Houston Rockets,78,home,Memphis Grizzlies,reg,1A10
+309,2013-04-14,Houston Rockets,121,home,Sacramento Kings,reg,1A10
+312,2013-10-30,Houston Rockets,96,home,Charlotte Bobcats,reg,1A10
+313,2013-11-01,Houston Rockets,113,home,Dallas Mavericks,reg,1A10
+317,2013-11-07,Houston Rockets,98,home,Los Angeles Lakers,reg,1A10
+318,2013-11-09,Houston Rockets,94,home,Los Angeles Clippers,reg,1A10
+319,2013-11-11,Houston Rockets,110,home,Toronto Raptors,reg,1A10
+322,2013-11-16,Houston Rockets,122,home,Denver Nuggets,reg,1A10
+323,2013-11-19,Houston Rockets,109,home,Boston Celtics,reg,1A10
+325,2013-11-23,Houston Rockets,112,home,Minnesota Timberwolves,reg,1A10
+327,2013-11-27,Houston Rockets,113,home,Atlanta Hawks,reg,1A10
+328,2013-11-29,Houston Rockets,114,home,Brooklyn Nets,reg,1A10
+331,2013-12-04,Houston Rockets,88,home,Phoenix Suns,reg,1A10
+332,2013-12-06,Houston Rockets,105,home,Golden State Warriors,reg,1A10
+333,2013-12-08,Houston Rockets,98,home,Orlando Magic,reg,1A10
+337,2013-12-18,Houston Rockets,109,home,Chicago Bulls,reg,1A10
+340,2013-12-23,Houston Rockets,104,home,Dallas Mavericks,reg,1A10
+342,2013-12-26,Houston Rockets,100,home,Memphis Grizzlies,reg,1A10
+343,2013-12-28,Houston Rockets,107,home,New Orleans Pelicans,reg,1A10
+345,2013-12-31,Houston Rockets,106,home,Sacramento Kings,reg,1A10
+346,2014-01-03,Houston Rockets,102,home,New York Knicks,reg,1A10
+347,2014-01-08,Houston Rockets,113,home,Los Angeles Lakers,reg,1A10
+352,2014-01-16,Houston Rockets,92,home,Oklahoma City Thunder,reg,1A10
+353,2014-01-18,Houston Rockets,114,home,Milwaukee Bucks,reg,1A10
+354,2014-01-20,Houston Rockets,126,home,Portland Trail Blazers,reg,1A10
+355,2014-01-22,Houston Rockets,119,home,Sacramento Kings,reg,1A10
+356,2014-01-24,Houston Rockets,87,home,Memphis Grizzlies,reg,1A10
+358,2014-01-28,Houston Rockets,97,home,San Antonio Spurs,reg,1A10
+360,2014-02-01,Houston Rockets,106,home,Cleveland Cavaliers,reg,1A10
+361,2014-02-05,Houston Rockets,122,home,Phoenix Suns,reg,1A10
+364,2014-02-12,Houston Rockets,113,home,Washington Wizards,reg,1A10
+370,2014-03-01,Houston Rockets,118,home,Detroit Pistons,reg,1A10
+371,2014-03-04,Houston Rockets,106,home,Miami Heat,reg,1A10
+373,2014-03-07,Houston Rockets,112,home,Indiana Pacers,reg,1A10
+374,2014-03-09,Houston Rockets,118,home,Portland Trail Blazers,reg,1A10
+378,2014-03-17,Houston Rockets,124,home,Utah Jazz,reg,1A10
+379,2014-03-20,Houston Rockets,129,home,Minnesota Timberwolves,reg,1A10
+382,2014-03-27,Houston Rockets,120,home,Philadelphia 76ers,reg,1A10
+383,2014-03-29,Houston Rockets,107,home,Los Angeles Clippers,reg,1A10
+386,2014-04-04,Houston Rockets,111,home,Oklahoma City Thunder,reg,1A10
+387,2014-04-06,Houston Rockets,130,home,Denver Nuggets,reg,1A10
+391,2014-04-12,Houston Rockets,111,home,New Orleans Pelicans,reg,1A10
+392,2014-04-14,Houston Rockets,104,home,San Antonio Spurs,reg,1A10
+396,2014-11-01,Houston Rockets,104,home,Boston Celtics,reg,1A10
+399,2014-11-06,Houston Rockets,98,home,San Antonio Spurs,reg,1A10
+400,2014-11-08,Houston Rockets,87,home,Golden State Warriors,reg,1A10
+402,2014-11-14,Houston Rockets,88,home,Philadelphia 76ers,reg,1A10
+405,2014-11-19,Houston Rockets,92,home,Los Angeles Lakers,reg,1A10
+406,2014-11-22,Houston Rockets,95,home,Dallas Mavericks,reg,1A10
+407,2014-11-24,Houston Rockets,91,home,New York Knicks,reg,1A10
+408,2014-11-26,Houston Rockets,102,home,Sacramento Kings,reg,1A10
+409,2014-11-28,Houston Rockets,85,home,Los Angeles Clippers,reg,1A10
+411,2014-12-03,Houston Rockets,105,home,Memphis Grizzlies,reg,1A10
+413,2014-12-06,Houston Rockets,100,home,Phoenix Suns,reg,1A10
+416,2014-12-13,Houston Rockets,108,home,Denver Nuggets,reg,1A10
+418,2014-12-18,Houston Rockets,90,home,New Orleans Pelicans,reg,1A10
+419,2014-12-20,Houston Rockets,97,home,Atlanta Hawks,reg,1A10
+420,2014-12-22,Houston Rockets,110,home,Portland Trail Blazers,reg,1A10
+423,2014-12-29,Houston Rockets,103,home,Washington Wizards,reg,1A10
+424,2014-12-31,Houston Rockets,102,home,Charlotte Hornets,reg,1A10
+426,2015-01-03,Houston Rockets,115,home,Miami Heat,reg,1A10
+430,2015-01-10,Houston Rockets,97,home,Utah Jazz,reg,1A10
+433,2015-01-15,Houston Rockets,112,home,Oklahoma City Thunder,reg,1A10
+434,2015-01-17,Houston Rockets,106,home,Golden State Warriors,reg,1A10
+435,2015-01-19,Houston Rockets,110,home,Indiana Pacers,reg,1A10
+439,2015-01-28,Houston Rockets,99,home,Dallas Mavericks,reg,1A10
+442,2015-02-04,Houston Rockets,101,home,Chicago Bulls,reg,1A10
+443,2015-02-06,Houston Rockets,117,home,Milwaukee Bucks,reg,1A10
+444,2015-02-08,Houston Rockets,98,home,Portland Trail Blazers,reg,1A10
+448,2015-02-21,Houston Rockets,98,home,Toronto Raptors,reg,1A10
+449,2015-02-23,Houston Rockets,113,home,Minnesota Timberwolves,reg,1A10
+450,2015-02-25,Houston Rockets,110,home,Los Angeles Clippers,reg,1A10
+451,2015-02-27,Houston Rockets,102,home,Brooklyn Nets,reg,1A10
+452,2015-03-01,Houston Rockets,105,home,Cleveland Cavaliers,reg,1A10
+454,2015-03-04,Houston Rockets,100,home,Memphis Grizzlies,reg,1A10
+455,2015-03-06,Houston Rockets,103,home,Detroit Pistons,reg,1A10
+460,2015-03-17,Houston Rockets,107,home,Orlando Magic,reg,1A10
+461,2015-03-19,Houston Rockets,118,home,Denver Nuggets,reg,1A10
+462,2015-03-21,Houston Rockets,102,home,Phoenix Suns,reg,1A10
+465,2015-03-27,Houston Rockets,120,home,Minnesota Timberwolves,reg,1A10
+468,2015-04-01,Houston Rockets,115,home,Sacramento Kings,reg,1A10
+472,2015-04-10,Houston Rockets,103,home,San Antonio Spurs,reg,1A10
+473,2015-04-12,Houston Rockets,121,home,New Orleans Pelicans,reg,1A10
+475,2015-04-15,Houston Rockets,117,home,Utah Jazz,reg,1A10
+476,2015-10-28,Houston Rockets,85,home,Denver Nuggets,reg,1A10
+477,2015-10-30,Houston Rockets,92,home,Golden State Warriors,reg,1A10
+479,2015-11-02,Houston Rockets,110,home,Oklahoma City Thunder,reg,1A10
+480,2015-11-04,Houston Rockets,119,home,Orlando Magic,reg,1A10
+483,2015-11-11,Houston Rockets,98,home,Brooklyn Nets,reg,1A10
+485,2015-11-14,Houston Rockets,98,home,Dallas Mavericks,reg,1A10
+486,2015-11-16,Houston Rockets,95,home,Boston Celtics,reg,1A10
+487,2015-11-18,Houston Rockets,108,home,Portland Trail Blazers,reg,1A10
+489,2015-11-21,Houston Rockets,102,home,New York Knicks,reg,1A10
+490,2015-11-25,Houston Rockets,93,home,Memphis Grizzlies,reg,1A10
+491,2015-11-27,Houston Rockets,116,home,Philadelphia 76ers,reg,1A10
+494,2015-12-02,Houston Rockets,108,home,New Orleans Pelicans,reg,1A10
+496,2015-12-05,Houston Rockets,120,home,Sacramento Kings,reg,1A10
+499,2015-12-12,Houston Rockets,126,home,Los Angeles Lakers,reg,1A10
+503,2015-12-19,Houston Rockets,107,home,Los Angeles Clippers,reg,1A10
+504,2015-12-21,Houston Rockets,102,home,Charlotte Hornets,reg,1A10
+506,2015-12-25,Houston Rockets,88,home,San Antonio Spurs,reg,1A10
+508,2015-12-29,Houston Rockets,115,home,Atlanta Hawks,reg,1A10
+509,2015-12-31,Houston Rockets,110,home,Golden State Warriors,reg,1A10
+512,2016-01-07,Houston Rockets,103,home,Utah Jazz,reg,1A10
+513,2016-01-10,Houston Rockets,107,home,Indiana Pacers,reg,1A10
+515,2016-01-13,Houston Rockets,107,home,Minnesota Timberwolves,reg,1A10
+516,2016-01-15,Houston Rockets,77,home,Cleveland Cavaliers,reg,1A10
+519,2016-01-20,Houston Rockets,114,home,Detroit Pistons,reg,1A10
+520,2016-01-22,Houston Rockets,102,home,Milwaukee Bucks,reg,1A10
+521,2016-01-24,Houston Rockets,115,home,Dallas Mavericks,reg,1A10
+525,2016-01-30,Houston Rockets,122,home,Washington Wizards,reg,1A10
+526,2016-02-02,Houston Rockets,115,home,Miami Heat,reg,1A10
+528,2016-02-06,Houston Rockets,79,home,Portland Trail Blazers,reg,1A10
+534,2016-02-27,Houston Rockets,94,home,San Antonio Spurs,reg,1A10
+536,2016-03-02,Houston Rockets,100,home,New Orleans Pelicans,reg,1A10
+542,2016-03-14,Houston Rockets,130,home,Memphis Grizzlies,reg,1A10
+543,2016-03-16,Houston Rockets,106,home,Los Angeles Clippers,reg,1A10
+544,2016-03-18,Houston Rockets,116,home,Minnesota Timberwolves,reg,1A10
+547,2016-03-23,Houston Rockets,87,home,Utah Jazz,reg,1A10
+548,2016-03-25,Houston Rockets,112,home,Toronto Raptors,reg,1A10
+551,2016-03-31,Houston Rockets,100,home,Chicago Bulls,reg,1A10
+552,2016-04-03,Houston Rockets,118,home,Oklahoma City Thunder,reg,1A10
+554,2016-04-07,Houston Rockets,115,home,Phoenix Suns,reg,1A10
+555,2016-04-10,Houston Rockets,130,home,Los Angeles Lakers,reg,1A10
+557,2016-04-13,Houston Rockets,116,home,Sacramento Kings,reg,1A10
+560,2016-10-30,Houston Rockets,93,home,Dallas Mavericks,reg,1A10
+566,2016-11-12,Houston Rockets,100,home,San Antonio Spurs,reg,1A10
+567,2016-11-14,Houston Rockets,115,home,Philadelphia 76ers,reg,1A10
+569,2016-11-17,Houston Rockets,126,home,Portland Trail Blazers,reg,1A10
+570,2016-11-19,Houston Rockets,111,home,Utah Jazz,reg,1A10
+572,2016-11-23,Houston Rockets,102,home,Toronto Raptors,reg,1A10
+578,2016-12-05,Houston Rockets,107,home,Boston Celtics,reg,1A10
+579,2016-12-07,Houston Rockets,134,home,Los Angeles Lakers,reg,1A10
+581,2016-12-10,Houston Rockets,109,home,Dallas Mavericks,reg,1A10
+582,2016-12-12,Houston Rockets,122,home,Brooklyn Nets,reg,1A10
+583,2016-12-14,Houston Rockets,132,home,Sacramento Kings,reg,1A10
+584,2016-12-16,Houston Rockets,122,home,New Orleans Pelicans,reg,1A10
+586,2016-12-20,Houston Rockets,100,home,San Antonio Spurs,reg,1A10
+589,2016-12-26,Houston Rockets,131,home,Phoenix Suns,reg,1A10
+591,2016-12-30,Houston Rockets,140,home,Los Angeles Clippers,reg,1A10
+592,2016-12-31,Houston Rockets,129,home,New York Knicks,reg,1A10
+593,2017-01-02,Houston Rockets,101,home,Washington Wizards,reg,1A10
+594,2017-01-05,Houston Rockets,118,home,Oklahoma City Thunder,reg,1A10
+597,2017-01-10,Houston Rockets,121,home,Charlotte Hornets,reg,1A10
+599,2017-01-13,Houston Rockets,105,home,Memphis Grizzlies,reg,1A10
+602,2017-01-18,Houston Rockets,111,home,Milwaukee Bucks,reg,1A10
+603,2017-01-20,Houston Rockets,108,home,Golden State Warriors,reg,1A10
+609,2017-01-31,Houston Rockets,105,home,Sacramento Kings,reg,1A10
+610,2017-02-02,Houston Rockets,108,home,Atlanta Hawks,reg,1A10
+611,2017-02-03,Houston Rockets,121,home,Chicago Bulls,reg,1A10
+612,2017-02-07,Houston Rockets,128,home,Orlando Magic,reg,1A10
+614,2017-02-11,Houston Rockets,133,home,Phoenix Suns,reg,1A10
+615,2017-02-15,Houston Rockets,109,home,Miami Heat,reg,1A10
+617,2017-02-25,Houston Rockets,142,home,Minnesota Timberwolves,reg,1A10
+618,2017-02-27,Houston Rockets,108,home,Indiana Pacers,reg,1A10
+620,2017-03-04,Houston Rockets,123,home,Memphis Grizzlies,reg,1A10
+622,2017-03-08,Houston Rockets,108,home,Utah Jazz,reg,1A10
+624,2017-03-12,Houston Rockets,117,home,Cleveland Cavaliers,reg,1A10
+625,2017-03-15,Houston Rockets,139,home,Los Angeles Lakers,reg,1A10
+628,2017-03-20,Houston Rockets,125,home,Denver Nuggets,reg,1A10
+629,2017-03-24,Houston Rockets,117,home,New Orleans Pelicans,reg,1A10
+630,2017-03-26,Houston Rockets,137,home,Oklahoma City Thunder,reg,1A10
+631,2017-03-28,Houston Rockets,106,home,Golden State Warriors,reg,1A10
+635,2017-04-05,Houston Rockets,110,home,Denver Nuggets,reg,1A10
+636,2017-04-07,Houston Rockets,109,home,Detroit Pistons,reg,1A10
+639,2017-04-12,Houston Rockets,123,home,Minnesota Timberwolves,reg,1A10
+2,2013-04-27,Houston Rockets,101,home,Oklahoma City Thunder,plo,1A10
+3,2013-04-29,Houston Rockets,105,home,Oklahoma City Thunder,plo,1A10
+5,2013-05-03,Houston Rockets,94,home,Oklahoma City Thunder,plo,1A10
+6,2014-04-20,Houston Rockets,120,home,Portland Trail Blazers,plo,1A10
+7,2014-04-23,Houston Rockets,105,home,Portland Trail Blazers,plo,1A10
+10,2014-04-30,Houston Rockets,108,home,Portland Trail Blazers,plo,1A10
+12,2015-04-18,Houston Rockets,118,home,Dallas Mavericks,plo,1A10
+13,2015-04-21,Houston Rockets,111,home,Dallas Mavericks,plo,1A10
+16,2015-04-28,Houston Rockets,103,home,Dallas Mavericks,plo,1A10
+17,2015-05-04,Houston Rockets,101,home,Los Angeles Clippers,plo,1A10
+18,2015-05-06,Houston Rockets,115,home,Los Angeles Clippers,plo,1A10
+21,2015-05-12,Houston Rockets,124,home,Los Angeles Clippers,plo,1A10
+23,2015-05-17,Houston Rockets,113,home,Los Angeles Clippers,plo,1A10
+26,2015-05-23,Houston Rockets,80,home,Golden State Warriors,plo,1A10
+27,2015-05-25,Houston Rockets,128,home,Golden State Warriors,plo,1A10
+31,2016-04-21,Houston Rockets,97,home,Golden State Warriors,plo,1A10
+32,2016-04-24,Houston Rockets,94,home,Golden State Warriors,plo,1A10
+34,2017-04-16,Houston Rockets,118,home,Oklahoma City Thunder,plo,1A10
+35,2017-04-19,Houston Rockets,115,home,Oklahoma City Thunder,plo,1A10
+38,2017-04-25,Houston Rockets,105,home,Oklahoma City Thunder,plo,1A10
+41,2017-05-05,Houston Rockets,92,home,San Antonio Spurs,plo,1A10
+42,2017-05-07,Houston Rockets,125,home,San Antonio Spurs,plo,1A10
+44,2017-05-11,Houston Rockets,75,home,San Antonio Spurs,plo,1A10

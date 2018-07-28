@@ -1,0 +1,126 @@
+Date,Day,School,Pts,home_away,Opponent,Opp,win_lost
+2008-08-29,Fri,Rice,56,home,SMU,27,W
+2008-09-06,Sat,Rice,42,away,Memphis,35,W
+2008-09-13,Sat,Rice,21,away,Vanderbilt,38,L
+2008-09-20,Sat,Rice,10,away,Texas,52,L
+2008-09-27,Sat,Rice,77,home,North Texas,20,W
+2008-10-04,Sat,Rice,28,away,Tulsa,63,L
+2008-10-18,Sat,Rice,45,home,Southern Mississippi,40,W
+2008-10-25,Sat,Rice,42,away,Tulane,17,W
+2008-11-01,Sat,Rice,49,away,UTEP,44,W
+2008-11-08,Sat,Rice,38,home,Army,31,W
+2008-11-22,Sat,Rice,35,home,Marshall,10,W
+2008-11-29,Sat,Rice,56,home,Houston,42,W
+2008-12-30,Tue,Rice,38,home,Western Michigan,14,W
+2009-09-05,Sat,Rice,24,away,UAB,44,L
+2009-09-12,Sat,Rice,10,away,Texas Tech,55,L
+2009-09-19,Sat,Rice,24,away,Oklahoma State,41,L
+2009-09-26,Sat,Rice,17,home,Vanderbilt,36,L
+2009-10-03,Sat,Rice,10,home,Tulsa,27,L
+2009-10-10,Sat,Rice,14,home,Navy,63,L
+2009-10-17,Sat,Rice,13,away,East Carolina,49,L
+2009-10-24,Sat,Rice,7,home,UCF,49,L
+2009-11-07,Sat,Rice,28,away,SMU,31,L
+2009-11-14,Sat,Rice,28,home,Tulane,20,W
+2009-11-21,Sat,Rice,30,home,UTEP,29,W
+2009-11-28,Sat,Rice,14,away,Houston,73,L
+2010-09-04,Sat,Rice,17,home,Texas,34,L
+2010-09-11,Sat,Rice,32,away,North Texas,31,W
+2010-09-18,Sat,Rice,13,home,Northwestern,30,L
+2010-09-25,Sat,Rice,13,home,Baylor,30,L
+2010-10-02,Sat,Rice,31,home,SMU,42,L
+2010-10-09,Sat,Rice,24,away,UTEP,44,L
+2010-10-16,Sat,Rice,34,home,Houston,31,W
+2010-10-23,Sat,Rice,14,away,UCF,41,L
+2010-11-06,Sat,Rice,27,away,Tulsa,64,L
+2010-11-13,Sat,Rice,49,away,Tulane,54,L
+2010-11-20,Sat,Rice,62,home,East Carolina,38,W
+2010-11-27,Sat,Rice,28,home,UAB,23,W
+2011-09-03,Sat,Rice,9,away,Texas,34,L
+2011-09-10,Sat,Rice,24,home,Purdue,22,W
+2011-09-24,Sat,Rice,31,away,Baylor,56,L
+2011-10-01,Sat,Rice,24,away,Southern Mississippi,48,L
+2011-10-08,Sat,Rice,28,home,Memphis,6,W
+2011-10-15,Sat,Rice,20,away,Marshall,24,L
+2011-10-22,Sat,Rice,20,home,Tulsa,38,L
+2011-10-27,Thu,Rice,34,away,Houston,73,L
+2011-11-05,Sat,Rice,41,home,UTEP,37,W
+2011-11-12,Sat,Rice,6,away,Northwestern,28,L
+2011-11-19,Sat,Rice,19,home,Tulane,7,W
+2011-11-26,Sat,Rice,24,away,SMU,27,L
+2012-08-30,Thu,Rice,24,home,UCLA,49,L
+2012-09-08,Sat,Rice,25,away,Kansas,24,W
+2012-09-15,Sat,Rice,37,away,Louisiana Tech,56,L
+2012-09-22,Sat,Rice,51,home,Marshall,54,L
+2012-09-29,Sat,Rice,14,away,Houston,35,L
+2012-10-06,Sat,Rice,10,away,Memphis,14,L
+2012-10-13,Sat,Rice,34,home,UTSA,14,W
+2012-10-20,Sat,Rice,24,away,Tulsa,28,L
+2012-10-27,Sat,Rice,44,home,Southern Mississippi,17,W
+2012-11-03,Sat,Rice,49,away,Tulane,47,W
+2012-11-17,Sat,Rice,36,home,SMU,20,W
+2012-11-24,Sat,Rice,33,away,UTEP,24,W
+2012-12-29,Sat,Rice,33,away,Air Force,14,W
+2013-08-31,Sat,Rice,31,away,Texas A&M,52,L
+2013-09-14,Sat,Rice,23,home,Kansas,14,W
+2013-09-21,Sat,Rice,26,away,Houston,31,L
+2013-09-28,Sat,Rice,18,home,Florida Atlantic,14,W
+2013-10-05,Sat,Rice,30,away,Tulsa,27,W
+2013-10-12,Sat,Rice,27,away,UTSA,21,W
+2013-10-19,Sat,Rice,45,away,New Mexico State,19,W
+2013-10-26,Sat,Rice,45,home,UTEP,7,W
+2013-10-31,Thu,Rice,16,away,North Texas,28,L
+2013-11-16,Sat,Rice,52,home,Louisiana Tech,14,W
+2013-11-21,Thu,Rice,37,away,UAB,34,W
+2013-11-30,Sat,Rice,17,home,Tulane,13,W
+2013-12-07,Sat,Rice,41,home,Marshall,24,W
+2013-12-31,Tue,Rice,7,away,Mississippi State,44,L
+2014-08-30,Sat,Rice,17,away,Notre Dame,48,L
+2014-09-13,Sat,Rice,10,away,Texas A&M,38,L
+2014-09-20,Sat,Rice,42,home,Old Dominion,45,L
+2014-09-27,Sat,Rice,41,away,Southern Mississippi,23,W
+2014-10-04,Sat,Rice,28,home,Hawaii,14,W
+2014-10-11,Sat,Rice,41,away,Army,21,W
+2014-10-25,Sat,Rice,41,home,North Texas,21,W
+2014-11-01,Sat,Rice,31,away,Florida International,17,W
+2014-11-08,Sat,Rice,17,home,UTSA,7,W
+2014-11-15,Sat,Rice,14,away,Marshall,41,L
+2014-11-21,Fri,Rice,31,home,UTEP,13,W
+2014-11-29,Sat,Rice,31,away,Louisiana Tech,76,L
+2014-12-24,Wed,Rice,30,away,Fresno State,6,W
+2015-09-05,Sat,Rice,56,home,Wagner,16,W
+2015-09-12,Sat,Rice,28,away,Texas,42,L
+2015-09-19,Sat,Rice,38,away,North Texas,24,W
+2015-09-26,Sat,Rice,17,away,Baylor,70,L
+2015-10-03,Sat,Rice,10,home,Western Kentucky,49,L
+2015-10-10,Sat,Rice,27,away,Florida Atlantic,26,W
+2015-10-24,Sat,Rice,38,home,Army,31,W
+2015-10-30,Fri,Rice,17,home,Louisiana Tech,42,L
+2015-11-06,Fri,Rice,21,away,UTEP,24,L
+2015-11-14,Sat,Rice,10,home,Southern Mississippi,65,L
+2015-11-21,Sat,Rice,24,away,UTSA,34,L
+2015-11-28,Sat,Rice,27,home,Charlotte,7,W
+2016-09-01,Thu,Rice,14,away,Western Kentucky,46,L
+2016-09-10,Sat,Rice,14,away,Army,31,L
+2016-09-16,Fri,Rice,10,home,Baylor,38,L
+2016-09-24,Sat,Rice,35,home,North Texas,42,L
+2016-10-01,Sat,Rice,28,away,Southern Mississippi,44,L
+2016-10-15,Sat,Rice,13,home,UTSA,14,L
+2016-10-22,Sat,Rice,65,home,Prairie View A&M,44,W
+2016-10-29,Sat,Rice,16,away,Louisiana Tech,61,L
+2016-11-05,Sat,Rice,25,home,Florida Atlantic,42,L
+2016-11-12,Sat,Rice,22,away,Charlotte,21,W
+2016-11-19,Sat,Rice,44,home,UTEP,24,W
+2016-11-26,Sat,Rice,17,away,Stanford,41,L
+2017-08-26,Sat,Rice,7,away,Stanford,62,L
+2017-09-09,Sat,Rice,31,away,UTEP,14,W
+2017-09-16,Sat,Rice,3,away,Houston,38,L
+2017-09-23,Sat,Rice,7,home,Florida International,13,L
+2017-09-30,Sat,Rice,10,away,Pitt,42,L
+2017-10-07,Sat,Rice,12,home,Army,49,L
+2017-10-21,Sat,Rice,7,away,UTSA,20,L
+2017-10-28,Sat,Rice,28,home,Louisiana Tech,42,L
+2017-11-04,Sat,Rice,21,away,UAB,52,L
+2017-11-11,Sat,Rice,34,home,Southern Mississippi,43,L
+2017-11-18,Sat,Rice,21,away,Old Dominion,24,L
+2017-11-25,Sat,Rice,14,home,North Texas,30,L

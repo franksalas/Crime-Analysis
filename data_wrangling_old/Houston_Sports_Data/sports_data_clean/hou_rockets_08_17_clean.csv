@@ -1,0 +1,869 @@
+Date,Time,Team,Team_score,Location,Opponent,Opponent_score,Result
+2007-10-30,7:30p ET,Houston Rockets,95,away,Los Angeles Lakers,93,W
+2007-11-01,7:00p ET,Houston Rockets,106,away,Utah Jazz,95,W
+2007-11-03,7:30p ET,Houston Rockets,89,home,Portland Trail Blazers,80,W
+2007-11-05,7:30p ET,Houston Rockets,98,away,Dallas Mavericks,107,L
+2007-11-06,7:30p ET,Houston Rockets,89,home,San Antonio Spurs,81,W
+2007-11-09,7:30p ET,Houston Rockets,104,home,Milwaukee Bucks,88,W
+2007-11-11,6:00p ET,Houston Rockets,85,away,Charlotte Bobcats,82,W
+2007-11-13,7:00p ET,Houston Rockets,99,away,Memphis Grizzlies,105,L
+2007-11-14,8:00p ET,Houston Rockets,90,home,Los Angeles Lakers,93,L
+2007-11-16,7:00p ET,Houston Rockets,84,away,San Antonio Spurs,90,L
+2007-11-17,7:30p ET,Houston Rockets,105,home,Phoenix Suns,115,L
+2007-11-21,6:30p ET,Houston Rockets,94,home,Dallas Mavericks,100,L
+2007-11-23,8:00p ET,Houston Rockets,91,away,Miami Heat,98,L
+2007-11-24,7:30p ET,Houston Rockets,109,home,Denver Nuggets,81,W
+2007-11-26,7:30p ET,Houston Rockets,88,away,Los Angeles Clippers,71,W
+2007-11-28,7:00p ET,Houston Rockets,100,away,Phoenix Suns,94,W
+2007-11-29,7:30p ET,Houston Rockets,94,away,Golden State Warriors,113,L
+2007-12-01,7:00p ET,Houston Rockets,99,away,Sacramento Kings,107,L
+2007-12-05,7:30p ET,Houston Rockets,105,home,Memphis Grizzlies,92,W
+2007-12-07,7:30p ET,Houston Rockets,96,away,New Jersey Nets,89,W
+2007-12-09,12:30p ET,Houston Rockets,80,away,Toronto Raptors,93,L
+2007-12-10,7:00p ET,Houston Rockets,88,away,Philadelphia 76ers,100,L
+2007-12-12,7:00p ET,Houston Rockets,80,home,Detroit Pistons,77,W
+2007-12-15,7:30p ET,Houston Rockets,83,home,Dallas Mavericks,96,L
+2007-12-19,7:30p ET,Houston Rockets,92,home,Orlando Magic,97,L
+2007-12-20,8:30p ET,Houston Rockets,111,away,Denver Nuggets,112,L
+2007-12-22,7:30p ET,Houston Rockets,116,away,Chicago Bulls,98,W
+2007-12-23,6:00p ET,Houston Rockets,82,away,Detroit Pistons,94,L
+2007-12-28,7:00p ET,Houston Rockets,103,away,Memphis Grizzlies,83,W
+2007-12-29,7:30p ET,Houston Rockets,91,home,Toronto Raptors,79,W
+2007-12-31,6:00p ET,Houston Rockets,95,home,Golden State Warriors,112,L
+2008-01-02,7:30p ET,Houston Rockets,93,away,Boston Celtics,97,L
+2008-01-04,7:00p ET,Houston Rockets,96,away,Orlando Magic,94,W
+2008-01-05,7:30p ET,Houston Rockets,103,home,New York Knicks,91,W
+2008-01-08,7:00p ET,Houston Rockets,92,away,Washington Wizards,84,W
+2008-01-09,7:30p ET,Houston Rockets,101,away,New York Knicks,92,W
+2008-01-11,7:30p ET,Houston Rockets,113,home,Minnesota Timberwolves,82,W
+2008-01-13,1:30p ET,Houston Rockets,82,home,New Orleans Hornets,87,L
+2008-01-15,7:30p ET,Houston Rockets,107,home,Philadelphia 76ers,111,L
+2008-01-19,7:30p ET,Houston Rockets,83,home,San Antonio Spurs,81,W
+2008-01-21,1:30p ET,Houston Rockets,96,home,Seattle SuperSonics,89,W
+2008-01-23,7:00p ET,Houston Rockets,109,away,Seattle SuperSonics,107,W
+2008-01-25,7:00p ET,Houston Rockets,89,away,Portland Trail Blazers,79,W
+2008-01-27,6:00p ET,Houston Rockets,89,home,Utah Jazz,97,L
+2008-01-29,7:30p ET,Houston Rockets,111,home,Golden State Warriors,107,W
+2008-02-01,7:00p ET,Houston Rockets,106,away,Indiana Pacers,103,W
+2008-02-02,7:30p ET,Houston Rockets,91,away,Milwaukee Bucks,83,W
+2008-02-04,7:00p ET,Houston Rockets,92,away,Minnesota Timberwolves,86,W
+2008-02-07,7:00p ET,Houston Rockets,92,home,Cleveland Cavaliers,77,W
+2008-02-09,7:30p ET,Houston Rockets,108,home,Atlanta Hawks,89,W
+2008-02-11,7:30p ET,Houston Rockets,95,home,Portland Trail Blazers,83,W
+2008-02-13,7:30p ET,Houston Rockets,89,home,Sacramento Kings,87,W
+2008-02-19,7:00p ET,Houston Rockets,93,away,Cleveland Cavaliers,85,W
+2008-02-21,7:00p ET,Houston Rockets,112,home,Miami Heat,100,W
+2008-02-22,7:00p ET,Houston Rockets,100,away,New Orleans Hornets,80,W
+2008-02-24,7:00p ET,Houston Rockets,110,home,Chicago Bulls,97,W
+2008-02-26,7:30p ET,Houston Rockets,94,home,Washington Wizards,69,W
+2008-02-29,7:30p ET,Houston Rockets,116,home,Memphis Grizzlies,95,W
+2008-03-02,7:00p ET,Houston Rockets,103,home,Denver Nuggets,89,W
+2008-03-05,7:30p ET,Houston Rockets,117,home,Indiana Pacers,99,W
+2008-03-06,8:30p ET,Houston Rockets,113,away,Dallas Mavericks,98,W
+2008-03-08,7:30p ET,Houston Rockets,106,home,New Orleans Hornets,96,W
+2008-03-10,7:30p ET,Houston Rockets,91,home,New Jersey Nets,73,W
+2008-03-12,7:00p ET,Houston Rockets,83,away,Atlanta Hawks,75,W
+2008-03-14,7:30p ET,Houston Rockets,89,home,Charlotte Bobcats,80,W
+2008-03-16,2:30p ET,Houston Rockets,104,home,Los Angeles Lakers,92,W
+2008-03-18,8:30p ET,Houston Rockets,74,home,Boston Celtics,94,L
+2008-03-19,7:00p ET,Houston Rockets,69,away,New Orleans Hornets,90,L
+2008-03-21,7:30p ET,Houston Rockets,109,away,Golden State Warriors,106,W
+2008-03-22,7:00p ET,Houston Rockets,113,away,Phoenix Suns,122,L
+2008-03-24,7:30p ET,Houston Rockets,108,home,Sacramento Kings,100,W
+2008-03-26,7:30p ET,Houston Rockets,97,home,Minnesota Timberwolves,86,W
+2008-03-30,12:00p ET,Houston Rockets,88,away,San Antonio Spurs,109,L
+2008-04-01,7:00p ET,Houston Rockets,98,away,Sacramento Kings,99,L
+2008-04-03,7:30p ET,Houston Rockets,95,away,Portland Trail Blazers,86,W
+2008-04-04,7:30p ET,Houston Rockets,79,away,Seattle SuperSonics,66,W
+2008-04-06,6:30p ET,Houston Rockets,105,away,Los Angeles Clippers,79,W
+2008-04-09,7:30p ET,Houston Rockets,103,home,Seattle SuperSonics,80,W
+2008-04-11,7:30p ET,Houston Rockets,101,home,Phoenix Suns,90,W
+2008-04-13,7:00p ET,Houston Rockets,94,away,Denver Nuggets,111,L
+2008-04-14,7:00p ET,Houston Rockets,96,away,Utah Jazz,105,L
+2008-04-16,7:30p ET,Houston Rockets,93,home,Los Angeles Clippers,75,W
+2008-04-19,8:30p ET,Houston Rockets,82,home,Utah Jazz,93,L
+2008-04-21,8:30p ET,Houston Rockets,84,home,Utah Jazz,90,L
+2008-04-24,8:30p ET,Houston Rockets,94,away,Utah Jazz,92,W
+2008-04-26,8:30p ET,Houston Rockets,82,away,Utah Jazz,86,L
+2008-04-29,8:30p ET,Houston Rockets,95,home,Utah Jazz,69,W
+2008-05-02,8:30p ET,Houston Rockets,91,away,Utah Jazz,113,L
+2008-10-29,7:30p ET,Houston Rockets,82,home,Memphis Grizzlies,71,W
+2008-10-30,7:00p ET,Houston Rockets,112,away,Dallas Mavericks,102,W
+2008-11-01,7:30p ET,Houston Rockets,89,home,Oklahoma City Thunder,77,W
+2008-11-04,7:30p ET,Houston Rockets,99,home,Boston Celtics,103,L
+2008-11-06,7:30p ET,Houston Rockets,99,away,Portland Trail Blazers,101,L
+2008-11-07,7:30p ET,Houston Rockets,92,away,Los Angeles Clippers,83,W
+2008-11-09,6:30p ET,Houston Rockets,82,away,Los Angeles Lakers,111,L
+2008-11-12,8:30p ET,Houston Rockets,94,away,Phoenix Suns,82,W
+2008-11-14,7:30p ET,Houston Rockets,75,away,San Antonio Spurs,77,L
+2008-11-15,7:30p ET,Houston Rockets,91,home,New Orleans Hornets,82,W
+2008-11-17,7:00p ET,Houston Rockets,100,away,Oklahoma City Thunder,89,W
+2008-11-19,7:00p ET,Houston Rockets,86,home,Dallas Mavericks,96,L
+2008-11-21,7:00p ET,Houston Rockets,103,away,Washington Wizards,91,W
+2008-11-22,7:00p ET,Houston Rockets,100,away,Orlando Magic,95,W
+2008-11-24,7:30p ET,Houston Rockets,107,away,Miami Heat,98,W
+2008-11-26,7:30p ET,Houston Rockets,90,home,Indiana Pacers,91,L
+2008-11-29,7:30p ET,Houston Rockets,103,home,San Antonio Spurs,84,W
+2008-11-30,6:00p ET,Houston Rockets,94,away,Denver Nuggets,104,L
+2008-12-03,7:30p ET,Houston Rockets,103,home,Los Angeles Clippers,96,W
+2008-12-05,7:30p ET,Houston Rockets,131,home,Golden State Warriors,112,W
+2008-12-08,7:00p ET,Houston Rockets,97,away,Memphis Grizzlies,109,L
+2008-12-09,7:30p ET,Houston Rockets,92,home,Atlanta Hawks,84,W
+2008-12-12,7:30p ET,Houston Rockets,119,away,Golden State Warriors,108,W
+2008-12-13,7:30p ET,Houston Rockets,82,away,Los Angeles Clippers,95,L
+2008-12-16,7:30p ET,Houston Rockets,108,home,Denver Nuggets,96,W
+2008-12-19,7:30p ET,Houston Rockets,107,home,Sacramento Kings,96,W
+2008-12-20,7:00p ET,Houston Rockets,109,away,Minnesota Timberwolves,102,W
+2008-12-22,7:30p ET,Houston Rockets,114,away,New Jersey Nets,91,W
+2008-12-23,7:00p ET,Houston Rockets,90,away,Cleveland Cavaliers,99,L
+2008-12-26,7:00p ET,Houston Rockets,79,away,New Orleans Hornets,88,L
+2008-12-27,7:30p ET,Houston Rockets,120,home,Utah Jazz,115,W
+2008-12-29,7:30p ET,Houston Rockets,87,home,Washington Wizards,89,L
+2008-12-31,6:00p ET,Houston Rockets,85,home,Milwaukee Bucks,81,W
+2009-01-02,7:00p ET,Houston Rockets,73,away,Toronto Raptors,94,L
+2009-01-03,7:00p ET,Houston Rockets,100,away,Atlanta Hawks,103,L
+2009-01-06,7:00p ET,Houston Rockets,96,away,Philadelphia 76ers,104,L
+2009-01-07,7:30p ET,Houston Rockets,89,away,Boston Celtics,85,W
+2009-01-09,7:00p ET,Houston Rockets,98,away,Oklahoma City Thunder,96,W
+2009-01-10,7:30p ET,Houston Rockets,96,home,New York Knicks,76,W
+2009-01-13,7:30p ET,Houston Rockets,100,home,Los Angeles Lakers,105,L
+2009-01-17,7:30p ET,Houston Rockets,93,home,Miami Heat,86,W
+2009-01-19,1:00p ET,Houston Rockets,115,home,Denver Nuggets,113,W
+2009-01-21,7:30p ET,Houston Rockets,108,home,Utah Jazz,99,W
+2009-01-23,7:00p ET,Houston Rockets,102,away,Indiana Pacers,107,L
+2009-01-25,6:30p ET,Houston Rockets,108,away,Detroit Pistons,105,W
+2009-01-26,7:30p ET,Houston Rockets,98,away,New York Knicks,104,L
+2009-01-28,7:30p ET,Houston Rockets,93,home,Philadelphia 76ers,95,L
+2009-01-31,7:30p ET,Houston Rockets,110,home,Golden State Warriors,93,W
+2009-02-03,7:30p ET,Houston Rockets,107,home,Chicago Bulls,100,W
+2009-02-04,7:00p ET,Houston Rockets,93,away,Memphis Grizzlies,104,L
+2009-02-07,7:30p ET,Houston Rockets,107,home,Minnesota Timberwolves,90,W
+2009-02-09,7:00p ET,Houston Rockets,112,away,Milwaukee Bucks,124,L
+2009-02-11,7:30p ET,Houston Rockets,94,home,Sacramento Kings,82,W
+2009-02-17,7:30p ET,Houston Rockets,114,home,New Jersey Nets,88,W
+2009-02-20,7:00p ET,Houston Rockets,93,home,Dallas Mavericks,86,W
+2009-02-22,4:00p ET,Houston Rockets,99,home,Charlotte Bobcats,78,W
+2009-02-24,7:30p ET,Houston Rockets,98,home,Portland Trail Blazers,94,W
+2009-02-26,7:00p ET,Houston Rockets,93,home,Cleveland Cavaliers,74,W
+2009-02-28,7:30p ET,Houston Rockets,102,away,Chicago Bulls,105,L
+2009-03-01,6:00p ET,Houston Rockets,105,away,Minnesota Timberwolves,94,W
+2009-03-03,7:30p ET,Houston Rockets,107,home,Toronto Raptors,97,W
+2009-03-04,7:00p ET,Houston Rockets,94,away,Utah Jazz,101,L
+2009-03-06,7:30p ET,Houston Rockets,116,home,Phoenix Suns,112,W
+2009-03-08,6:00p ET,Houston Rockets,93,home,Memphis Grizzlies,83,W
+2009-03-09,7:00p ET,Houston Rockets,97,away,Denver Nuggets,95,W
+2009-03-11,7:30p ET,Houston Rockets,96,home,Los Angeles Lakers,102,L
+2009-03-13,7:00p ET,Houston Rockets,91,away,Charlotte Bobcats,86,W
+2009-03-14,7:30p ET,Houston Rockets,85,home,San Antonio Spurs,88,L
+2009-03-16,7:00p ET,Houston Rockets,95,away,New Orleans Hornets,84,W
+2009-03-18,8:30p ET,Houston Rockets,106,home,Detroit Pistons,101,W
+2009-03-20,7:30p ET,Houston Rockets,107,home,Minnesota Timberwolves,88,W
+2009-03-22,2:30p ET,Houston Rockets,87,away,San Antonio Spurs,85,W
+2009-03-24,8:30p ET,Houston Rockets,86,away,Utah Jazz,99,L
+2009-03-28,7:30p ET,Houston Rockets,110,home,Los Angeles Clippers,93,W
+2009-04-01,7:00p ET,Houston Rockets,109,away,Phoenix Suns,114,L
+2009-04-03,7:30p ET,Houston Rockets,81,away,Los Angeles Lakers,93,L
+2009-04-05,6:00p ET,Houston Rockets,102,home,Portland Trail Blazers,88,W
+2009-04-07,7:30p ET,Houston Rockets,93,home,Orlando Magic,83,W
+2009-04-09,7:00p ET,Houston Rockets,115,away,Sacramento Kings,98,W
+2009-04-10,7:30p ET,Houston Rockets,113,away,Golden State Warriors,109,W
+2009-04-13,7:30p ET,Houston Rockets,86,home,New Orleans Hornets,66,W
+2009-04-15,7:00p ET,Houston Rockets,84,away,Dallas Mavericks,95,L
+2009-04-18,7:30p ET,Houston Rockets,108,away,Portland Trail Blazers,81,W
+2009-04-21,7:00p ET,Houston Rockets,103,away,Portland Trail Blazers,107,L
+2009-04-24,8:30p ET,Houston Rockets,86,home,Portland Trail Blazers,83,W
+2009-04-26,8:00p ET,Houston Rockets,89,home,Portland Trail Blazers,88,W
+2009-04-28,7:00p ET,Houston Rockets,77,away,Portland Trail Blazers,88,L
+2009-04-30,8:30p ET,Houston Rockets,92,home,Portland Trail Blazers,76,W
+2009-05-04,7:30p ET,Houston Rockets,100,away,Los Angeles Lakers,92,W
+2009-05-06,7:30p ET,Houston Rockets,98,away,Los Angeles Lakers,111,L
+2009-05-08,8:30p ET,Houston Rockets,94,home,Los Angeles Lakers,108,L
+2009-05-10,2:30p ET,Houston Rockets,99,home,Los Angeles Lakers,87,W
+2009-05-12,7:30p ET,Houston Rockets,78,away,Los Angeles Lakers,118,L
+2009-05-14,8:30p ET,Houston Rockets,95,home,Los Angeles Lakers,80,W
+2009-05-17,12:30p ET,Houston Rockets,70,away,Los Angeles Lakers,89,L
+2009-10-27,7:00p ET,Houston Rockets,87,away,Portland Trail Blazers,96,L
+2009-10-28,7:30p ET,Houston Rockets,108,away,Golden State Warriors,107,W
+2009-10-31,7:30p ET,Houston Rockets,111,home,Portland Trail Blazers,107,W
+2009-11-02,7:00p ET,Houston Rockets,113,away,Utah Jazz,96,W
+2009-11-04,7:30p ET,Houston Rockets,102,home,Los Angeles Lakers,103,L
+2009-11-06,7:30p ET,Houston Rockets,105,home,Oklahoma City Thunder,94,W
+2009-11-10,7:30p ET,Houston Rockets,103,away,Dallas Mavericks,121,L
+2009-11-11,7:30p ET,Houston Rockets,104,home,Memphis Grizzlies,79,W
+2009-11-13,7:00p ET,Houston Rockets,100,away,Sacramento Kings,109,L
+2009-11-15,6:30p ET,Houston Rockets,101,away,Los Angeles Lakers,91,W
+2009-11-17,7:30p ET,Houston Rockets,105,home,Phoenix Suns,111,L
+2009-11-18,7:00p ET,Houston Rockets,97,away,Minnesota Timberwolves,84,W
+2009-11-20,7:30p ET,Houston Rockets,103,away,Atlanta Hawks,105,L
+2009-11-21,7:30p ET,Houston Rockets,113,home,Sacramento Kings,106,W
+2009-11-25,7:30p ET,Houston Rockets,99,home,Dallas Mavericks,130,L
+2009-11-27,7:30p ET,Houston Rockets,84,home,San Antonio Spurs,92,L
+2009-11-29,6:00p ET,Houston Rockets,100,away,Oklahoma City Thunder,91,W
+2009-12-02,7:30p ET,Houston Rockets,102,away,Los Angeles Clippers,85,W
+2009-12-03,7:30p ET,Houston Rockets,111,away,Golden State Warriors,109,W
+2009-12-05,7:00p ET,Houston Rockets,89,away,Portland Trail Blazers,90,L
+2009-12-09,7:30p ET,Houston Rockets,95,home,Cleveland Cavaliers,85,W
+2009-12-11,7:00p ET,Houston Rockets,96,away,Philadelphia 76ers,91,W
+2009-12-13,12:30p ET,Houston Rockets,88,away,Toronto Raptors,101,L
+2009-12-15,7:30p ET,Houston Rockets,107,home,Detroit Pistons,96,W
+2009-12-16,7:00p ET,Houston Rockets,101,away,Denver Nuggets,111,L
+2009-12-18,7:30p ET,Houston Rockets,116,away,Dallas Mavericks,108,W
+2009-12-19,7:30p ET,Houston Rockets,95,home,Oklahoma City Thunder,90,W
+2009-12-22,7:30p ET,Houston Rockets,108,home,Los Angeles Clippers,99,W
+2009-12-23,7:00p ET,Houston Rockets,87,away,Orlando Magic,102,L
+2009-12-26,7:30p ET,Houston Rockets,98,away,New Jersey Nets,93,W
+2009-12-27,6:00p ET,Houston Rockets,83,away,Cleveland Cavaliers,108,L
+2009-12-29,7:30p ET,Houston Rockets,108,home,New Orleans Hornets,100,W
+2009-12-31,6:00p ET,Houston Rockets,97,home,Dallas Mavericks,94,W
+2010-01-02,7:00p ET,Houston Rockets,95,away,New Orleans Hornets,99,L
+2010-01-05,7:30p ET,Houston Rockets,79,away,Los Angeles Lakers,88,L
+2010-01-06,7:00p ET,Houston Rockets,110,away,Phoenix Suns,118,L
+2010-01-09,7:30p ET,Houston Rockets,105,home,New York Knicks,96,W
+2010-01-12,7:00p ET,Houston Rockets,94,away,Charlotte Bobcats,102,L
+2010-01-13,7:30p ET,Houston Rockets,120,home,Minnesota Timberwolves,114,W
+2010-01-15,7:30p ET,Houston Rockets,106,home,Miami Heat,115,L
+2010-01-18,2:00p ET,Houston Rockets,101,home,Milwaukee Bucks,98,W
+2010-01-22,7:30p ET,Houston Rockets,116,away,San Antonio Spurs,109,W
+2010-01-23,7:30p ET,Houston Rockets,97,home,Chicago Bulls,104,L
+2010-01-25,7:30p ET,Houston Rockets,95,home,Atlanta Hawks,102,L
+2010-01-27,7:30p ET,Houston Rockets,92,home,Denver Nuggets,97,L
+2010-01-29,7:30p ET,Houston Rockets,104,home,Portland Trail Blazers,100,W
+2010-01-31,6:00p ET,Houston Rockets,111,home,Phoenix Suns,115,L
+2010-02-02,7:30p ET,Houston Rockets,119,home,Golden State Warriors,97,W
+2010-02-05,7:00p ET,Houston Rockets,101,away,Memphis Grizzlies,83,W
+2010-02-06,7:30p ET,Houston Rockets,95,home,Philadelphia 76ers,102,L
+2010-02-09,7:30p ET,Houston Rockets,66,away,Miami Heat,99,L
+2010-02-16,7:30p ET,Houston Rockets,95,home,Utah Jazz,104,L
+2010-02-17,7:00p ET,Houston Rockets,127,away,Milwaukee Bucks,99,W
+2010-02-20,7:30p ET,Houston Rockets,115,home,Indiana Pacers,125,L
+2010-02-21,6:00p ET,Houston Rockets,94,away,New Orleans Hornets,102,L
+2010-02-24,7:30p ET,Houston Rockets,92,home,Orlando Magic,110,L
+2010-02-26,7:30p ET,Houston Rockets,109,home,San Antonio Spurs,104,W
+2010-02-27,7:00p ET,Houston Rockets,110,away,Utah Jazz,133,L
+2010-03-01,7:30p ET,Houston Rockets,116,home,Toronto Raptors,92,W
+2010-03-03,7:30p ET,Houston Rockets,81,home,Sacramento Kings,84,L
+2010-03-06,7:00p ET,Houston Rockets,112,away,Minnesota Timberwolves,98,W
+2010-03-07,6:00p ET,Houston Rockets,107,away,Detroit Pistons,110,L
+2010-03-09,7:00p ET,Houston Rockets,96,away,Washington Wizards,88,W
+2010-03-13,7:30p ET,Houston Rockets,116,home,New Jersey Nets,108,W
+2010-03-15,7:30p ET,Houston Rockets,125,home,Denver Nuggets,123,W
+2010-03-17,7:30p ET,Houston Rockets,107,home,Memphis Grizzlies,94,W
+2010-03-19,7:30p ET,Houston Rockets,87,home,Boston Celtics,94,L
+2010-03-21,1:00p ET,Houston Rockets,116,away,New York Knicks,112,W
+2010-03-22,7:00p ET,Houston Rockets,88,away,Chicago Bulls,98,L
+2010-03-24,7:00p ET,Houston Rockets,104,away,Oklahoma City Thunder,122,L
+2010-03-25,7:30p ET,Houston Rockets,93,home,Los Angeles Clippers,99,L
+2010-03-27,7:30p ET,Houston Rockets,101,home,Los Angeles Lakers,109,L
+2010-03-30,7:30p ET,Houston Rockets,98,home,Washington Wizards,94,W
+2010-03-31,7:30p ET,Houston Rockets,102,away,San Antonio Spurs,119,L
+2010-04-02,7:30p ET,Houston Rockets,119,away,Boston Celtics,114,W
+2010-04-04,6:00p ET,Houston Rockets,102,away,Indiana Pacers,133,L
+2010-04-06,7:00p ET,Houston Rockets,113,away,Memphis Grizzlies,103,W
+2010-04-07,7:00p ET,Houston Rockets,113,home,Utah Jazz,96,W
+2010-04-09,7:30p ET,Houston Rockets,97,home,Charlotte Bobcats,90,W
+2010-04-11,6:00p ET,Houston Rockets,106,away,Phoenix Suns,116,L
+2010-04-12,7:00p ET,Houston Rockets,117,away,Sacramento Kings,107,W
+2010-04-14,7:00p ET,Houston Rockets,115,home,New Orleans Hornets,123,L
+2010-10-26,7:30p ET,Houston Rockets,110,away,Los Angeles Lakers,112,L
+2010-10-27,7:30p ET,Houston Rockets,128,away,Golden State Warriors,132,L
+2010-10-30,7:30p ET,Houston Rockets,94,home,Denver Nuggets,107,L
+2010-11-03,7:30p ET,Houston Rockets,99,home,New Orleans Hornets,107,L
+2010-11-06,7:30p ET,Houston Rockets,121,away,San Antonio Spurs,124,L
+2010-11-07,6:00p ET,Houston Rockets,120,home,Minnesota Timberwolves,94,W
+2010-11-10,7:00p ET,Houston Rockets,91,away,Washington Wizards,98,L
+2010-11-12,7:00p ET,Houston Rockets,102,away,Indiana Pacers,99,W
+2010-11-14,7:30p ET,Houston Rockets,104,away,New York Knicks,96,W
+2010-11-16,7:30p ET,Houston Rockets,92,home,Chicago Bulls,95,L
+2010-11-17,7:00p ET,Houston Rockets,99,away,Oklahoma City Thunder,116,L
+2010-11-19,7:00p ET,Houston Rockets,96,away,Toronto Raptors,106,L
+2010-11-22,7:30p ET,Houston Rockets,116,home,Phoenix Suns,123,L
+2010-11-24,7:30p ET,Houston Rockets,111,home,Golden State Warriors,101,W
+2010-11-26,7:00p ET,Houston Rockets,89,away,Charlotte Bobcats,99,L
+2010-11-28,6:00p ET,Houston Rockets,99,home,Oklahoma City Thunder,98,W
+2010-11-29,7:30p ET,Houston Rockets,91,away,Dallas Mavericks,101,L
+2010-12-01,7:30p ET,Houston Rockets,109,home,Los Angeles Lakers,99,W
+2010-12-03,7:00p ET,Houston Rockets,127,away,Memphis Grizzlies,111,W
+2010-12-04,7:00p ET,Houston Rockets,116,away,Chicago Bulls,119,L
+2010-12-07,7:30p ET,Houston Rockets,97,home,Detroit Pistons,83,W
+2010-12-10,7:30p ET,Houston Rockets,91,away,Milwaukee Bucks,97,L
+2010-12-11,7:30p ET,Houston Rockets,110,home,Cleveland Cavaliers,95,W
+2010-12-14,7:30p ET,Houston Rockets,118,home,Sacramento Kings,105,W
+2010-12-15,7:00p ET,Houston Rockets,105,away,Oklahoma City Thunder,117,L
+2010-12-17,7:30p ET,Houston Rockets,103,home,Memphis Grizzlies,87,W
+2010-12-19,3:00p ET,Houston Rockets,102,away,Sacramento Kings,93,W
+2010-12-20,7:30p ET,Houston Rockets,121,away,Golden State Warriors,112,W
+2010-12-22,7:30p ET,Houston Rockets,97,away,Los Angeles Clippers,92,W
+2010-12-27,7:30p ET,Houston Rockets,100,home,Washington Wizards,93,W
+2010-12-29,7:30p ET,Houston Rockets,119,home,Miami Heat,125,L
+2010-12-31,6:00p ET,Houston Rockets,114,home,Toronto Raptors,105,W
+2011-01-02,6:00p ET,Houston Rockets,85,away,Portland Trail Blazers,100,L
+2011-01-03,7:00p ET,Houston Rockets,106,away,Denver Nuggets,113,L
+2011-01-05,7:30p ET,Houston Rockets,100,home,Portland Trail Blazers,103,L
+2011-01-07,8:00p ET,Houston Rockets,95,away,Orlando Magic,110,L
+2011-01-08,7:30p ET,Houston Rockets,99,home,Utah Jazz,103,L
+2011-01-10,7:30p ET,Houston Rockets,108,away,Boston Celtics,102,W
+2011-01-12,7:30p ET,Houston Rockets,112,home,Oklahoma City Thunder,118,L
+2011-01-14,7:30p ET,Houston Rockets,105,home,New Orleans Hornets,110,L
+2011-01-15,7:00p ET,Houston Rockets,112,away,Atlanta Hawks,106,W
+2011-01-17,2:00p ET,Houston Rockets,93,home,Milwaukee Bucks,84,W
+2011-01-19,7:30p ET,Houston Rockets,104,home,New York Knicks,89,W
+2011-01-21,7:00p ET,Houston Rockets,110,away,Memphis Grizzlies,115,L
+2011-01-22,7:30p ET,Houston Rockets,104,home,Orlando Magic,118,L
+2011-01-24,7:00p ET,Houston Rockets,129,away,Minnesota Timberwolves,125,W
+2011-01-26,7:30p ET,Houston Rockets,96,home,Los Angeles Clippers,83,W
+2011-01-27,7:30p ET,Houston Rockets,106,away,Dallas Mavericks,111,L
+2011-01-29,7:30p ET,Houston Rockets,95,away,San Antonio Spurs,108,L
+2011-02-01,7:30p ET,Houston Rockets,106,away,Los Angeles Lakers,114,L
+2011-02-02,7:00p ET,Houston Rockets,97,away,Utah Jazz,96,W
+2011-02-05,7:30p ET,Houston Rockets,95,home,Memphis Grizzlies,93,W
+2011-02-07,7:00p ET,Houston Rockets,108,away,Denver Nuggets,103,W
+2011-02-08,7:30p ET,Houston Rockets,108,home,Minnesota Timberwolves,112,L
+2011-02-12,7:30p ET,Houston Rockets,102,home,Dallas Mavericks,106,L
+2011-02-14,7:30p ET,Houston Rockets,121,home,Denver Nuggets,102,W
+2011-02-16,7:30p ET,Houston Rockets,105,home,Philadelphia 76ers,114,L
+2011-02-22,7:30p ET,Houston Rockets,108,away,Detroit Pistons,100,W
+2011-02-23,7:00p ET,Houston Rockets,124,away,Cleveland Cavaliers,119,W
+2011-02-26,7:30p ET,Houston Rockets,123,home,New Jersey Nets,108,W
+2011-02-27,6:00p ET,Houston Rockets,91,away,New Orleans Hornets,89,W
+2011-03-01,7:00p ET,Houston Rockets,103,away,Portland Trail Blazers,87,W
+2011-03-02,7:30p ET,Houston Rockets,103,away,Los Angeles Clippers,106,L
+2011-03-05,7:30p ET,Houston Rockets,112,home,Indiana Pacers,95,W
+2011-03-07,7:00p ET,Houston Rockets,123,away,Sacramento Kings,101,W
+2011-03-08,7:00p ET,Houston Rockets,110,away,Phoenix Suns,113,L
+2011-03-12,7:30p ET,Houston Rockets,107,home,San Antonio Spurs,115,L
+2011-03-14,7:30p ET,Houston Rockets,95,home,Phoenix Suns,93,W
+2011-03-16,7:30p ET,Houston Rockets,94,home,Charlotte Bobcats,78,W
+2011-03-18,7:30p ET,Houston Rockets,93,home,Boston Celtics,77,W
+2011-03-20,6:00p ET,Houston Rockets,110,home,Utah Jazz,108,W
+2011-03-23,7:30p ET,Houston Rockets,131,home,Golden State Warriors,112,W
+2011-03-27,6:00p ET,Houston Rockets,119,away,Miami Heat,125,L
+2011-03-29,7:00p ET,Houston Rockets,112,away,New Jersey Nets,87,W
+2011-03-30,7:00p ET,Houston Rockets,97,away,Philadelphia 76ers,108,L
+2011-04-01,7:30p ET,Houston Rockets,119,home,San Antonio Spurs,114,W
+2011-04-03,6:00p ET,Houston Rockets,114,home,Atlanta Hawks,109,W
+2011-04-05,7:30p ET,Houston Rockets,101,home,Sacramento Kings,104,L
+2011-04-06,7:00p ET,Houston Rockets,93,away,New Orleans Hornets,101,L
+2011-04-09,7:30p ET,Houston Rockets,99,home,Los Angeles Clippers,78,W
+2011-04-11,7:30p ET,Houston Rockets,91,home,Dallas Mavericks,98,L
+2011-04-13,7:00p ET,Houston Rockets,121,away,Minnesota Timberwolves,102,W
+2011-12-26,7:00p ET,Houston Rockets,95,away,Orlando Magic,104,L
+2011-12-29,7:00p ET,Houston Rockets,105,home,San Antonio Spurs,85,W
+2011-12-30,7:00p ET,Houston Rockets,93,away,Memphis Grizzlies,113,L
+2011-12-31,6:00p ET,Houston Rockets,95,home,Atlanta Hawks,84,W
+2012-01-03,7:30p ET,Houston Rockets,99,away,Los Angeles Lakers,108,L
+2012-01-04,7:30p ET,Houston Rockets,89,away,Los Angeles Clippers,117,L
+2012-01-06,7:00p ET,Houston Rockets,94,away,Oklahoma City Thunder,109,L
+2012-01-07,7:00p ET,Houston Rockets,95,home,Oklahoma City Thunder,98,L
+2012-01-10,7:00p ET,Houston Rockets,82,away,Charlotte Bobcats,70,W
+2012-01-11,7:30p ET,Houston Rockets,95,away,San Antonio Spurs,101,L
+2012-01-13,7:00p ET,Houston Rockets,103,home,Sacramento Kings,89,W
+2012-01-14,7:00p ET,Houston Rockets,107,home,Portland Trail Blazers,105,W
+2012-01-16,2:00p ET,Houston Rockets,114,away,Washington Wizards,106,W
+2012-01-17,7:00p ET,Houston Rockets,97,home,Detroit Pistons,80,W
+2012-01-19,7:00p ET,Houston Rockets,90,home,New Orleans Hornets,88,W
+2012-01-21,7:00p ET,Houston Rockets,105,home,San Antonio Spurs,102,W
+2012-01-23,7:00p ET,Houston Rockets,107,away,Minnesota Timberwolves,92,W
+2012-01-25,7:00p ET,Houston Rockets,99,home,Milwaukee Bucks,105,L
+2012-01-27,7:00p ET,Houston Rockets,103,home,Washington Wizards,76,W
+2012-01-28,7:00p ET,Houston Rockets,97,home,New York Knicks,84,W
+2012-01-30,7:00p ET,Houston Rockets,108,home,Minnesota Timberwolves,120,L
+2012-02-01,7:30p ET,Houston Rockets,91,away,San Antonio Spurs,99,L
+2012-02-03,7:00p ET,Houston Rockets,99,home,Phoenix Suns,81,W
+2012-02-04,7:00p ET,Houston Rockets,91,away,Minnesota Timberwolves,100,L
+2012-02-06,7:00p ET,Houston Rockets,99,away,Denver Nuggets,90,W
+2012-02-08,7:00p ET,Houston Rockets,103,away,Portland Trail Blazers,96,W
+2012-02-09,7:00p ET,Houston Rockets,96,away,Phoenix Suns,89,W
+2012-02-12,6:00p ET,Houston Rockets,97,away,Golden State Warriors,106,L
+2012-02-14,7:00p ET,Houston Rockets,83,away,Memphis Grizzlies,93,L
+2012-02-15,7:00p ET,Houston Rockets,96,home,Oklahoma City Thunder,95,W
+2012-02-17,7:00p ET,Houston Rockets,98,home,Minnesota Timberwolves,111,L
+2012-02-19,6:00p ET,Houston Rockets,101,home,Utah Jazz,85,W
+2012-02-20,7:00p ET,Houston Rockets,97,home,Memphis Grizzlies,93,W
+2012-02-22,7:00p ET,Houston Rockets,93,home,Philadelphia 76ers,87,W
+2012-02-28,7:00p ET,Houston Rockets,88,home,Toronto Raptors,85,W
+2012-02-29,7:00p ET,Houston Rockets,83,away,Utah Jazz,104,L
+2012-03-02,7:00p ET,Houston Rockets,105,home,Denver Nuggets,117,L
+2012-03-04,6:00p ET,Houston Rockets,103,home,Los Angeles Clippers,105,L
+2012-03-06,7:30p ET,Houston Rockets,92,away,Boston Celtics,97,L
+2012-03-07,7:00p ET,Houston Rockets,98,away,Toronto Raptors,116,L
+2012-03-10,8:00p ET,Houston Rockets,112,away,New Jersey Nets,106,W
+2012-03-11,6:00p ET,Houston Rockets,107,away,Cleveland Cavaliers,118,L
+2012-03-13,7:00p ET,Houston Rockets,104,away,Oklahoma City Thunder,103,W
+2012-03-14,7:00p ET,Houston Rockets,107,home,Charlotte Bobcats,87,W
+2012-03-17,12:30p ET,Houston Rockets,91,away,Los Angeles Clippers,95,L
+2012-03-18,6:00p ET,Houston Rockets,86,away,Phoenix Suns,99,L
+2012-03-20,7:00p ET,Houston Rockets,107,home,Los Angeles Lakers,104,W
+2012-03-22,7:00p ET,Houston Rockets,109,home,Golden State Warriors,83,W
+2012-03-24,7:00p ET,Houston Rockets,99,home,Dallas Mavericks,101,L
+2012-03-26,7:00p ET,Houston Rockets,113,home,Sacramento Kings,106,W
+2012-03-27,7:30p ET,Houston Rockets,81,away,Dallas Mavericks,90,L
+2012-03-30,7:00p ET,Houston Rockets,98,home,Memphis Grizzlies,89,W
+2012-04-01,6:00p ET,Houston Rockets,102,home,Indiana Pacers,104,L
+2012-04-02,7:00p ET,Houston Rockets,99,away,Chicago Bulls,93,W
+2012-04-06,7:30p ET,Houston Rockets,112,away,Los Angeles Lakers,107,W
+2012-04-08,6:00p ET,Houston Rockets,104,away,Sacramento Kings,87,W
+2012-04-09,7:00p ET,Houston Rockets,94,away,Portland Trail Blazers,89,W
+2012-04-11,7:00p ET,Houston Rockets,91,home,Utah Jazz,103,L
+2012-04-13,7:00p ET,Houston Rockets,105,home,Phoenix Suns,112,L
+2012-04-15,6:00p ET,Houston Rockets,86,away,Denver Nuggets,101,L
+2012-04-16,7:00p ET,Houston Rockets,102,home,Denver Nuggets,105,L
+2012-04-18,7:30p ET,Houston Rockets,110,away,Dallas Mavericks,117,L
+2012-04-19,7:00p ET,Houston Rockets,99,away,New Orleans Hornets,105,L
+2012-04-21,7:00p ET,Houston Rockets,99,home,Golden State Warriors,96,W
+2012-04-22,6:00p ET,Houston Rockets,88,away,Miami Heat,97,L
+2012-04-26,7:00p ET,Houston Rockets,84,home,New Orleans Hornets,77,W
+2012-10-31,7:30p ET,Houston Rockets,105,away,Detroit Pistons,96,W
+2012-11-02,7:30p ET,Houston Rockets,109,away,Atlanta Hawks,102,W
+2012-11-03,7:00p ET,Houston Rockets,85,home,Portland Trail Blazers,95,L
+2012-11-07,7:00p ET,Houston Rockets,87,home,Denver Nuggets,93,L
+2012-11-09,7:00p ET,Houston Rockets,85,away,Memphis Grizzlies,93,L
+2012-11-10,7:00p ET,Houston Rockets,96,home,Detroit Pistons,82,W
+2012-11-12,7:00p ET,Houston Rockets,110,home,Miami Heat,113,L
+2012-11-14,7:00p ET,Houston Rockets,100,home,New Orleans Hornets,96,W
+2012-11-16,7:00p ET,Houston Rockets,117,away,Portland Trail Blazers,119,L
+2012-11-18,6:30p ET,Houston Rockets,108,away,Los Angeles Lakers,119,L
+2012-11-19,7:00p ET,Houston Rockets,91,away,Utah Jazz,102,L
+2012-11-21,7:00p ET,Houston Rockets,93,home,Chicago Bulls,89,W
+2012-11-23,7:00p ET,Houston Rockets,131,home,New York Knicks,103,W
+2012-11-27,7:00p ET,Houston Rockets,117,home,Toronto Raptors,101,W
+2012-11-28,7:00p ET,Houston Rockets,98,away,Oklahoma City Thunder,120,L
+2012-12-01,7:00p ET,Houston Rockets,124,home,Utah Jazz,116,W
+2012-12-04,7:00p ET,Houston Rockets,107,home,Los Angeles Lakers,105,W
+2012-12-07,7:30p ET,Houston Rockets,92,away,San Antonio Spurs,114,L
+2012-12-08,7:00p ET,Houston Rockets,109,home,Dallas Mavericks,116,L
+2012-12-10,7:00p ET,Houston Rockets,126,home,San Antonio Spurs,134,L
+2012-12-12,7:00p ET,Houston Rockets,99,home,Washington Wizards,93,W
+2012-12-14,7:00p ET,Houston Rockets,101,home,Boston Celtics,89,W
+2012-12-16,1:00p ET,Houston Rockets,96,away,Toronto Raptors,103,L
+2012-12-17,7:30p ET,Houston Rockets,109,away,New York Knicks,96,W
+2012-12-19,7:00p ET,Houston Rockets,125,home,Philadelphia 76ers,103,W
+2012-12-22,7:00p ET,Houston Rockets,121,home,Memphis Grizzlies,96,W
+2012-12-25,7:00p ET,Houston Rockets,120,away,Chicago Bulls,97,W
+2012-12-26,7:00p ET,Houston Rockets,87,away,Minnesota Timberwolves,84,W
+2012-12-28,7:30p ET,Houston Rockets,116,away,San Antonio Spurs,122,L
+2012-12-29,7:00p ET,Houston Rockets,94,home,Oklahoma City Thunder,124,L
+2012-12-31,6:00p ET,Houston Rockets,123,home,Atlanta Hawks,104,W
+2013-01-02,7:00p ET,Houston Rockets,104,home,New Orleans Hornets,92,W
+2013-01-04,7:30p ET,Houston Rockets,115,away,Milwaukee Bucks,101,W
+2013-01-05,7:30p ET,Houston Rockets,112,away,Cleveland Cavaliers,104,W
+2013-01-08,7:00p ET,Houston Rockets,125,home,Los Angeles Lakers,112,W
+2013-01-09,7:00p ET,Houston Rockets,79,away,New Orleans Hornets,88,L
+2013-01-11,7:30p ET,Houston Rockets,91,away,Boston Celtics,103,L
+2013-01-12,7:30p ET,Houston Rockets,100,away,Philadelphia 76ers,107,L
+2013-01-15,7:00p ET,Houston Rockets,109,home,Los Angeles Clippers,117,L
+2013-01-16,7:00p ET,Houston Rockets,100,away,Dallas Mavericks,105,L
+2013-01-18,7:00p ET,Houston Rockets,95,away,Indiana Pacers,105,L
+2013-01-19,7:00p ET,Houston Rockets,79,away,Minnesota Timberwolves,92,L
+2013-01-21,2:00p ET,Houston Rockets,100,away,Charlotte Bobcats,94,W
+2013-01-23,7:00p ET,Houston Rockets,95,home,Denver Nuggets,105,L
+2013-01-25,7:00p ET,Houston Rockets,100,away,New Orleans Hornets,82,W
+2013-01-26,7:00p ET,Houston Rockets,119,home,Brooklyn Nets,106,W
+2013-01-28,7:00p ET,Houston Rockets,125,away,Utah Jazz,80,W
+2013-01-30,7:00p ET,Houston Rockets,110,away,Denver Nuggets,118,L
+2013-02-02,7:00p ET,Houston Rockets,109,home,Charlotte Bobcats,95,W
+2013-02-05,7:00p ET,Houston Rockets,140,home,Golden State Warriors,109,W
+2013-02-06,7:30p ET,Houston Rockets,108,away,Miami Heat,114,L
+2013-02-08,7:00p ET,Houston Rockets,118,home,Portland Trail Blazers,103,W
+2013-02-10,6:00p ET,Houston Rockets,111,away,Sacramento Kings,117,L
+2013-02-12,7:30p ET,Houston Rockets,116,away,Golden State Warriors,107,W
+2013-02-13,7:30p ET,Houston Rockets,96,away,Los Angeles Clippers,106,L
+2013-02-20,7:00p ET,Houston Rockets,122,home,Oklahoma City Thunder,119,W
+2013-02-22,7:30p ET,Houston Rockets,106,away,Brooklyn Nets,96,W
+2013-02-23,7:00p ET,Houston Rockets,103,away,Washington Wizards,105,L
+2013-02-27,7:00p ET,Houston Rockets,107,home,Milwaukee Bucks,110,L
+2013-03-01,7:00p ET,Houston Rockets,118,away,Orlando Magic,110,W
+2013-03-03,6:00p ET,Houston Rockets,136,home,Dallas Mavericks,103,W
+2013-03-06,7:30p ET,Houston Rockets,108,away,Dallas Mavericks,112,L
+2013-03-08,7:30p ET,Houston Rockets,94,away,Golden State Warriors,88,W
+2013-03-09,7:00p ET,Houston Rockets,105,away,Phoenix Suns,107,L
+2013-03-13,7:00p ET,Houston Rockets,111,home,Phoenix Suns,81,W
+2013-03-15,7:00p ET,Houston Rockets,108,home,Minnesota Timberwolves,100,W
+2013-03-17,6:00p ET,Houston Rockets,78,home,Golden State Warriors,108,L
+2013-03-20,7:00p ET,Houston Rockets,100,home,Utah Jazz,93,W
+2013-03-22,7:00p ET,Houston Rockets,116,home,Cleveland Cavaliers,78,W
+2013-03-24,6:00p ET,Houston Rockets,96,home,San Antonio Spurs,95,W
+2013-03-27,7:00p ET,Houston Rockets,91,home,Indiana Pacers,100,L
+2013-03-29,7:00p ET,Houston Rockets,94,away,Memphis Grizzlies,103,L
+2013-03-30,7:00p ET,Houston Rockets,98,home,Los Angeles Clippers,81,W
+2013-04-01,7:00p ET,Houston Rockets,111,home,Orlando Magic,103,W
+2013-04-03,7:00p ET,Houston Rockets,112,away,Sacramento Kings,102,W
+2013-04-05,7:30p ET,Houston Rockets,116,away,Portland Trail Blazers,98,W
+2013-04-06,7:00p ET,Houston Rockets,114,away,Denver Nuggets,132,L
+2013-04-09,7:00p ET,Houston Rockets,101,home,Phoenix Suns,98,W
+2013-04-12,7:00p ET,Houston Rockets,78,home,Memphis Grizzlies,82,L
+2013-04-14,6:00p ET,Houston Rockets,121,home,Sacramento Kings,100,W
+2013-04-15,7:00p ET,Houston Rockets,112,away,Phoenix Suns,119,L
+2013-04-17,7:30p ET,Houston Rockets,95,away,Los Angeles Lakers,99,L
+2013-04-21,9:30p ET,Houston Rockets,91,away,Oklahoma City Thunder,120,L
+2013-04-24,7:00p ET,Houston Rockets,102,away,Oklahoma City Thunder,105,L
+2013-04-27,9:30p ET,Houston Rockets,101,home,Oklahoma City Thunder,104,L
+2013-04-29,9:30p ET,Houston Rockets,105,home,Oklahoma City Thunder,103,W
+2013-05-01,9:30p ET,Houston Rockets,107,away,Oklahoma City Thunder,100,W
+2013-05-03,9:30p ET,Houston Rockets,94,home,Oklahoma City Thunder,103,L
+2013-10-30,8:00p ET,Houston Rockets,96,home,Charlotte Bobcats,83,W
+2013-11-01,8:00p ET,Houston Rockets,113,home,Dallas Mavericks,105,W
+2013-11-02,9:00p ET,Houston Rockets,104,away,Utah Jazz,93,W
+2013-11-04,10:30p ET,Houston Rockets,118,away,Los Angeles Clippers,137,L
+2013-11-05,10:00p ET,Houston Rockets,116,away,Portland Trail Blazers,101,W
+2013-11-07,9:30p ET,Houston Rockets,98,home,Los Angeles Lakers,99,L
+2013-11-09,8:00p ET,Houston Rockets,94,home,Los Angeles Clippers,107,L
+2013-11-11,8:00p ET,Houston Rockets,110,home,Toronto Raptors,104,W
+2013-11-13,7:00p ET,Houston Rockets,117,away,Philadelphia 76ers,123,L
+2013-11-14,8:00p ET,Houston Rockets,109,away,New York Knicks,106,W
+2013-11-16,8:00p ET,Houston Rockets,122,home,Denver Nuggets,111,W
+2013-11-19,8:00p ET,Houston Rockets,109,home,Boston Celtics,85,W
+2013-11-20,9:30p ET,Houston Rockets,120,away,Dallas Mavericks,123,L
+2013-11-23,8:00p ET,Houston Rockets,112,home,Minnesota Timberwolves,101,W
+2013-11-25,8:00p ET,Houston Rockets,93,away,Memphis Grizzlies,86,W
+2013-11-27,8:00p ET,Houston Rockets,113,home,Atlanta Hawks,84,W
+2013-11-29,8:00p ET,Houston Rockets,114,home,Brooklyn Nets,95,W
+2013-11-30,8:30p ET,Houston Rockets,112,away,San Antonio Spurs,106,W
+2013-12-02,9:00p ET,Houston Rockets,103,away,Utah Jazz,109,L
+2013-12-04,8:00p ET,Houston Rockets,88,home,Phoenix Suns,97,L
+2013-12-06,8:00p ET,Houston Rockets,105,home,Golden State Warriors,83,W
+2013-12-08,7:00p ET,Houston Rockets,98,home,Orlando Magic,88,W
+2013-12-12,10:30p ET,Houston Rockets,104,away,Portland Trail Blazers,111,L
+2013-12-13,10:30p ET,Houston Rockets,116,away,Golden State Warriors,112,W
+2013-12-15,6:00p ET,Houston Rockets,91,away,Sacramento Kings,106,L
+2013-12-18,9:30p ET,Houston Rockets,109,home,Chicago Bulls,94,W
+2013-12-20,8:00p ET,Houston Rockets,81,away,Indiana Pacers,114,L
+2013-12-21,7:30p ET,Houston Rockets,114,away,Detroit Pistons,97,W
+2013-12-23,8:00p ET,Houston Rockets,104,home,Dallas Mavericks,111,L
+2013-12-25,8:00p ET,Houston Rockets,111,away,San Antonio Spurs,98,W
+2013-12-26,8:00p ET,Houston Rockets,100,home,Memphis Grizzlies,92,W
+2013-12-28,8:00p ET,Houston Rockets,107,home,New Orleans Pelicans,98,W
+2013-12-29,7:00p ET,Houston Rockets,86,away,Oklahoma City Thunder,117,L
+2013-12-31,7:00p ET,Houston Rockets,106,home,Sacramento Kings,110,L
+2014-01-03,8:00p ET,Houston Rockets,102,home,New York Knicks,100,W
+2014-01-08,8:00p ET,Houston Rockets,113,home,Los Angeles Lakers,99,W
+2014-01-10,7:30p ET,Houston Rockets,80,away,Atlanta Hawks,83,L
+2014-01-11,7:00p ET,Houston Rockets,114,away,Washington Wizards,107,W
+2014-01-13,7:30p ET,Houston Rockets,104,away,Boston Celtics,92,W
+2014-01-15,8:00p ET,Houston Rockets,103,away,New Orleans Pelicans,100,W
+2014-01-16,9:30p ET,Houston Rockets,92,home,Oklahoma City Thunder,104,L
+2014-01-18,8:00p ET,Houston Rockets,114,home,Milwaukee Bucks,104,W
+2014-01-20,8:00p ET,Houston Rockets,126,home,Portland Trail Blazers,113,W
+2014-01-22,8:00p ET,Houston Rockets,119,home,Sacramento Kings,98,W
+2014-01-24,8:00p ET,Houston Rockets,87,home,Memphis Grizzlies,88,L
+2014-01-25,8:00p ET,Houston Rockets,81,away,Memphis Grizzlies,99,L
+2014-01-28,8:00p ET,Houston Rockets,97,home,San Antonio Spurs,90,W
+2014-01-29,8:30p ET,Houston Rockets,117,away,Dallas Mavericks,115,W
+2014-02-01,8:00p ET,Houston Rockets,106,home,Cleveland Cavaliers,92,W
+2014-02-05,8:00p ET,Houston Rockets,122,home,Phoenix Suns,108,W
+2014-02-08,8:30p ET,Houston Rockets,101,away,Milwaukee Bucks,95,W
+2014-02-10,8:00p ET,Houston Rockets,107,away,Minnesota Timberwolves,89,W
+2014-02-12,8:00p ET,Houston Rockets,113,home,Washington Wizards,112,W
+2014-02-19,10:30p ET,Houston Rockets,134,away,Los Angeles Lakers,108,W
+2014-02-20,10:30p ET,Houston Rockets,99,away,Golden State Warriors,102,L
+2014-02-23,9:00p ET,Houston Rockets,115,away,Phoenix Suns,112,W
+2014-02-25,10:00p ET,Houston Rockets,129,away,Sacramento Kings,103,W
+2014-02-26,10:30p ET,Houston Rockets,93,away,Los Angeles Clippers,101,L
+2014-03-01,8:00p ET,Houston Rockets,118,home,Detroit Pistons,110,W
+2014-03-04,8:00p ET,Houston Rockets,106,home,Miami Heat,103,W
+2014-03-05,7:00p ET,Houston Rockets,101,away,Orlando Magic,89,W
+2014-03-07,9:30p ET,Houston Rockets,112,home,Indiana Pacers,86,W
+2014-03-09,7:00p ET,Houston Rockets,118,home,Portland Trail Blazers,113,W
+2014-03-11,8:00p ET,Houston Rockets,98,away,Oklahoma City Thunder,106,L
+2014-03-13,7:00p ET,Houston Rockets,87,away,Chicago Bulls,111,L
+2014-03-16,3:30p ET,Houston Rockets,104,away,Miami Heat,113,L
+2014-03-17,8:00p ET,Houston Rockets,124,home,Utah Jazz,86,W
+2014-03-20,8:00p ET,Houston Rockets,129,home,Minnesota Timberwolves,106,W
+2014-03-22,7:30p ET,Houston Rockets,118,away,Cleveland Cavaliers,111,W
+2014-03-24,7:00p ET,Houston Rockets,100,away,Charlotte Bobcats,89,W
+2014-03-27,8:00p ET,Houston Rockets,120,home,Philadelphia 76ers,98,W
+2014-03-29,8:00p ET,Houston Rockets,107,home,Los Angeles Clippers,118,L
+2014-04-01,8:00p ET,Houston Rockets,96,away,Brooklyn Nets,105,L
+2014-04-02,7:00p ET,Houston Rockets,103,away,Toronto Raptors,107,L
+2014-04-04,9:30p ET,Houston Rockets,111,home,Oklahoma City Thunder,107,W
+2014-04-06,7:00p ET,Houston Rockets,130,home,Denver Nuggets,125,W
+2014-04-08,10:30p ET,Houston Rockets,145,away,Los Angeles Lakers,130,W
+2014-04-09,9:00p ET,Houston Rockets,116,away,Denver Nuggets,123,L
+2014-04-11,8:00p ET,Houston Rockets,110,away,Minnesota Timberwolves,112,L
+2014-04-12,8:00p ET,Houston Rockets,111,home,New Orleans Pelicans,104,W
+2014-04-14,8:00p ET,Houston Rockets,104,home,San Antonio Spurs,98,W
+2014-04-16,8:00p ET,Houston Rockets,100,away,New Orleans Pelicans,105,L
+2014-04-20,9:30p ET,Houston Rockets,120,home,Portland Trail Blazers,122,L
+2014-04-23,9:30p ET,Houston Rockets,105,home,Portland Trail Blazers,112,L
+2014-04-25,10:30p ET,Houston Rockets,121,away,Portland Trail Blazers,116,W
+2014-04-27,9:30p ET,Houston Rockets,120,away,Portland Trail Blazers,123,L
+2014-04-30,9:30p ET,Houston Rockets,108,home,Portland Trail Blazers,98,W
+2014-05-02,10:30p ET,Houston Rockets,98,away,Portland Trail Blazers,99,L
+2014-10-28,10:30p ET,Houston Rockets,108,away,Los Angeles Lakers,90,W
+2014-10-29,9:00p ET,Houston Rockets,104,away,Utah Jazz,93,W
+2014-11-01,8:00p ET,Houston Rockets,104,home,Boston Celtics,90,W
+2014-11-03,7:00p ET,Houston Rockets,104,away,Philadelphia 76ers,93,W
+2014-11-04,7:30p ET,Houston Rockets,108,away,Miami Heat,91,W
+2014-11-06,8:00p ET,Houston Rockets,98,home,San Antonio Spurs,81,W
+2014-11-08,8:00p ET,Houston Rockets,87,home,Golden State Warriors,98,L
+2014-11-12,10:00p ET,Houston Rockets,113,away,Minnesota Timberwolves,101,W
+2014-11-14,8:00p ET,Houston Rockets,88,home,Philadelphia 76ers,87,W
+2014-11-16,7:00p ET,Houston Rockets,69,away,Oklahoma City Thunder,65,W
+2014-11-17,8:00p ET,Houston Rockets,93,away,Memphis Grizzlies,119,L
+2014-11-19,9:30p ET,Houston Rockets,92,home,Los Angeles Lakers,98,L
+2014-11-22,8:00p ET,Houston Rockets,95,home,Dallas Mavericks,92,W
+2014-11-24,8:00p ET,Houston Rockets,91,home,New York Knicks,86,W
+2014-11-26,8:00p ET,Houston Rockets,102,home,Sacramento Kings,89,W
+2014-11-28,8:00p ET,Houston Rockets,85,home,Los Angeles Clippers,102,L
+2014-11-29,9:00p ET,Houston Rockets,117,away,Milwaukee Bucks,103,W
+2014-12-03,8:00p ET,Houston Rockets,105,home,Memphis Grizzlies,96,W
+2014-12-05,8:00p ET,Houston Rockets,114,away,Minnesota Timberwolves,112,W
+2014-12-06,8:00p ET,Houston Rockets,100,home,Phoenix Suns,95,W
+2014-12-10,10:30p ET,Houston Rockets,93,away,Golden State Warriors,105,L
+2014-12-11,10:30p ET,Houston Rockets,113,away,Sacramento Kings,109,W
+2014-12-13,8:00p ET,Houston Rockets,108,home,Denver Nuggets,96,W
+2014-12-17,10:30p ET,Houston Rockets,115,away,Denver Nuggets,111,W
+2014-12-18,8:30p ET,Houston Rockets,90,home,New Orleans Pelicans,99,L
+2014-12-20,8:00p ET,Houston Rockets,97,home,Atlanta Hawks,104,L
+2014-12-22,8:00p ET,Houston Rockets,110,home,Portland Trail Blazers,95,W
+2014-12-26,8:00p ET,Houston Rockets,117,away,Memphis Grizzlies,111,W
+2014-12-28,7:00p ET,Houston Rockets,106,away,San Antonio Spurs,110,L
+2014-12-29,8:00p ET,Houston Rockets,103,home,Washington Wizards,104,L
+2014-12-31,7:00p ET,Houston Rockets,102,home,Charlotte Hornets,83,W
+2015-01-02,8:00p ET,Houston Rockets,83,away,New Orleans Pelicans,111,L
+2015-01-03,8:00p ET,Houston Rockets,115,home,Miami Heat,79,W
+2015-01-05,8:00p ET,Houston Rockets,105,away,Chicago Bulls,114,L
+2015-01-07,7:00p ET,Houston Rockets,105,away,Cleveland Cavaliers,93,W
+2015-01-08,8:00p ET,Houston Rockets,120,away,New York Knicks,96,W
+2015-01-10,8:00p ET,Houston Rockets,97,home,Utah Jazz,82,W
+2015-01-12,7:30p ET,Houston Rockets,113,away,Brooklyn Nets,99,W
+2015-01-14,7:00p ET,Houston Rockets,113,away,Orlando Magic,120,L
+2015-01-15,8:00p ET,Houston Rockets,112,home,Oklahoma City Thunder,101,W
+2015-01-17,8:00p ET,Houston Rockets,106,home,Golden State Warriors,131,L
+2015-01-19,5:30p ET,Houston Rockets,110,home,Indiana Pacers,98,W
+2015-01-21,10:30p ET,Houston Rockets,113,away,Golden State Warriors,126,L
+2015-01-23,9:00p ET,Houston Rockets,113,away,Phoenix Suns,111,W
+2015-01-25,9:30p ET,Houston Rockets,99,away,Los Angeles Lakers,87,W
+2015-01-28,8:00p ET,Houston Rockets,99,home,Dallas Mavericks,94,W
+2015-01-30,7:30p ET,Houston Rockets,93,away,Boston Celtics,87,W
+2015-01-31,7:30p ET,Houston Rockets,101,away,Detroit Pistons,114,L
+2015-02-04,8:00p ET,Houston Rockets,101,home,Chicago Bulls,90,W
+2015-02-06,8:00p ET,Houston Rockets,117,home,Milwaukee Bucks,111,W
+2015-02-08,7:00p ET,Houston Rockets,98,home,Portland Trail Blazers,109,L
+2015-02-10,8:00p ET,Houston Rockets,127,away,Phoenix Suns,118,W
+2015-02-11,10:30p ET,Houston Rockets,95,away,Los Angeles Clippers,110,L
+2015-02-20,8:30p ET,Houston Rockets,100,away,Dallas Mavericks,111,L
+2015-02-21,8:00p ET,Houston Rockets,98,home,Toronto Raptors,76,W
+2015-02-23,8:00p ET,Houston Rockets,113,home,Minnesota Timberwolves,102,W
+2015-02-25,8:00p ET,Houston Rockets,110,home,Los Angeles Clippers,105,W
+2015-02-27,8:00p ET,Houston Rockets,102,home,Brooklyn Nets,98,W
+2015-03-01,3:30p ET,Houston Rockets,105,home,Cleveland Cavaliers,103,W
+2015-03-03,7:30p ET,Houston Rockets,96,away,Atlanta Hawks,104,L
+2015-03-04,8:00p ET,Houston Rockets,100,home,Memphis Grizzlies,102,L
+2015-03-06,8:00p ET,Houston Rockets,103,home,Detroit Pistons,93,W
+2015-03-07,9:00p ET,Houston Rockets,114,away,Denver Nuggets,100,W
+2015-03-11,10:30p ET,Houston Rockets,100,away,Portland Trail Blazers,105,L
+2015-03-12,9:00p ET,Houston Rockets,91,away,Utah Jazz,109,L
+2015-03-15,3:30p ET,Houston Rockets,100,away,Los Angeles Clippers,98,W
+2015-03-17,8:00p ET,Houston Rockets,107,home,Orlando Magic,94,W
+2015-03-19,8:00p ET,Houston Rockets,118,home,Denver Nuggets,108,W
+2015-03-21,8:00p ET,Houston Rockets,102,home,Phoenix Suns,117,L
+2015-03-23,7:00p ET,Houston Rockets,110,away,Indiana Pacers,100,W
+2015-03-25,8:00p ET,Houston Rockets,95,away,New Orleans Pelicans,93,W
+2015-03-27,8:00p ET,Houston Rockets,120,home,Minnesota Timberwolves,110,W
+2015-03-29,12:30p ET,Houston Rockets,99,away,Washington Wizards,91,W
+2015-03-30,7:30p ET,Houston Rockets,96,away,Toronto Raptors,99,L
+2015-04-01,8:00p ET,Houston Rockets,115,home,Sacramento Kings,111,W
+2015-04-02,8:30p ET,Houston Rockets,108,away,Dallas Mavericks,101,W
+2015-04-05,1:00p ET,Houston Rockets,115,away,Oklahoma City Thunder,112,W
+2015-04-08,8:30p ET,Houston Rockets,98,away,San Antonio Spurs,110,L
+2015-04-10,8:00p ET,Houston Rockets,103,home,San Antonio Spurs,104,L
+2015-04-12,7:00p ET,Houston Rockets,121,home,New Orleans Pelicans,114,W
+2015-04-13,7:00p ET,Houston Rockets,100,away,Charlotte Hornets,90,W
+2015-04-15,8:00p ET,Houston Rockets,117,home,Utah Jazz,91,W
+2015-04-18,9:30p ET,Houston Rockets,118,home,Dallas Mavericks,108,W
+2015-04-21,9:30p ET,Houston Rockets,111,home,Dallas Mavericks,99,W
+2015-04-24,7:00p ET,Houston Rockets,130,away,Dallas Mavericks,128,W
+2015-04-26,9:00p ET,Houston Rockets,109,away,Dallas Mavericks,121,L
+2015-04-28,8:00p ET,Houston Rockets,103,home,Dallas Mavericks,94,W
+2015-05-04,9:30p ET,Houston Rockets,101,home,Los Angeles Clippers,117,L
+2015-05-06,9:30p ET,Houston Rockets,115,home,Los Angeles Clippers,109,W
+2015-05-08,10:30p ET,Houston Rockets,99,away,Los Angeles Clippers,124,L
+2015-05-10,8:30p ET,Houston Rockets,95,away,Los Angeles Clippers,128,L
+2015-05-12,9:30p ET,Houston Rockets,124,home,Los Angeles Clippers,103,W
+2015-05-14,10:30p ET,Houston Rockets,119,away,Los Angeles Clippers,107,W
+2015-05-17,3:30p ET,Houston Rockets,113,home,Los Angeles Clippers,100,W
+2015-05-19,9:00p ET,Houston Rockets,106,away,Golden State Warriors,110,L
+2015-05-21,9:00p ET,Houston Rockets,98,away,Golden State Warriors,99,L
+2015-05-23,9:00p ET,Houston Rockets,80,home,Golden State Warriors,115,L
+2015-05-25,9:00p ET,Houston Rockets,128,home,Golden State Warriors,115,W
+2015-05-27,9:00p ET,Houston Rockets,90,away,Golden State Warriors,104,L
+2015-10-28,8:00p ET,Houston Rockets,85,home,Denver Nuggets,105,L
+2015-10-30,9:30p ET,Houston Rockets,92,home,Golden State Warriors,112,L
+2015-11-01,6:00p ET,Houston Rockets,89,away,Miami Heat,109,L
+2015-11-02,8:00p ET,Houston Rockets,110,home,Oklahoma City Thunder,105,W
+2015-11-04,8:00p ET,Houston Rockets,119,home,Orlando Magic,114,W
+2015-11-06,10:30p ET,Houston Rockets,116,away,Sacramento Kings,110,W
+2015-11-07,10:30p ET,Houston Rockets,109,away,Los Angeles Clippers,105,W
+2015-11-11,8:00p ET,Houston Rockets,98,home,Brooklyn Nets,106,L
+2015-11-13,9:00p ET,Houston Rockets,98,away,Denver Nuggets,107,L
+2015-11-14,8:00p ET,Houston Rockets,98,home,Dallas Mavericks,110,L
+2015-11-16,8:00p ET,Houston Rockets,95,home,Boston Celtics,111,L
+2015-11-18,8:00p ET,Houston Rockets,108,home,Portland Trail Blazers,103,W
+2015-11-20,8:00p ET,Houston Rockets,84,away,Memphis Grizzlies,96,L
+2015-11-21,8:00p ET,Houston Rockets,102,home,New York Knicks,107,L
+2015-11-25,8:00p ET,Houston Rockets,93,home,Memphis Grizzlies,102,L
+2015-11-27,8:00p ET,Houston Rockets,116,home,Philadelphia 76ers,114,W
+2015-11-29,7:30p ET,Houston Rockets,116,away,New York Knicks,111,W
+2015-11-30,7:30p ET,Houston Rockets,105,away,Detroit Pistons,116,L
+2015-12-02,8:00p ET,Houston Rockets,108,home,New Orleans Pelicans,101,W
+2015-12-04,8:30p ET,Houston Rockets,100,away,Dallas Mavericks,96,W
+2015-12-05,8:00p ET,Houston Rockets,120,home,Sacramento Kings,113,W
+2015-12-08,7:30p ET,Houston Rockets,105,away,Brooklyn Nets,110,L
+2015-12-09,7:00p ET,Houston Rockets,109,away,Washington Wizards,103,W
+2015-12-12,8:00p ET,Houston Rockets,126,home,Los Angeles Lakers,97,W
+2015-12-14,9:00p ET,Houston Rockets,108,away,Denver Nuggets,114,L
+2015-12-15,10:00p ET,Houston Rockets,97,away,Sacramento Kings,107,L
+2015-12-17,10:30p ET,Houston Rockets,107,away,Los Angeles Lakers,87,W
+2015-12-19,8:00p ET,Houston Rockets,107,home,Los Angeles Clippers,97,W
+2015-12-21,8:00p ET,Houston Rockets,102,home,Charlotte Hornets,95,W
+2015-12-23,7:00p ET,Houston Rockets,101,away,Orlando Magic,104,L
+2015-12-25,8:00p ET,Houston Rockets,88,home,San Antonio Spurs,84,W
+2015-12-26,7:00p ET,Houston Rockets,108,away,New Orleans Pelicans,110,L
+2015-12-29,8:00p ET,Houston Rockets,115,home,Atlanta Hawks,121,L
+2015-12-31,7:00p ET,Houston Rockets,110,home,Golden State Warriors,114,L
+2016-01-02,8:30p ET,Houston Rockets,103,away,San Antonio Spurs,121,L
+2016-01-04,9:00p ET,Houston Rockets,93,away,Utah Jazz,91,W
+2016-01-07,8:00p ET,Houston Rockets,103,home,Utah Jazz,94,W
+2016-01-10,7:00p ET,Houston Rockets,107,home,Indiana Pacers,103,W
+2016-01-12,8:00p ET,Houston Rockets,107,away,Memphis Grizzlies,91,W
+2016-01-13,8:00p ET,Houston Rockets,107,home,Minnesota Timberwolves,104,W
+2016-01-15,9:30p ET,Houston Rockets,77,home,Cleveland Cavaliers,91,L
+2016-01-17,9:30p ET,Houston Rockets,112,away,Los Angeles Lakers,95,W
+2016-01-18,10:30p ET,Houston Rockets,132,away,Los Angeles Clippers,140,L
+2016-01-20,8:00p ET,Houston Rockets,114,home,Detroit Pistons,123,L
+2016-01-22,8:00p ET,Houston Rockets,102,home,Milwaukee Bucks,98,W
+2016-01-24,3:30p ET,Houston Rockets,115,home,Dallas Mavericks,104,W
+2016-01-25,8:00p ET,Houston Rockets,112,away,New Orleans Pelicans,111,W
+2016-01-27,8:00p ET,Houston Rockets,99,away,San Antonio Spurs,130,L
+2016-01-29,8:00p ET,Houston Rockets,108,away,Oklahoma City Thunder,116,L
+2016-01-30,8:00p ET,Houston Rockets,122,home,Washington Wizards,123,L
+2016-02-02,8:00p ET,Houston Rockets,115,home,Miami Heat,102,W
+2016-02-04,9:00p ET,Houston Rockets,111,away,Phoenix Suns,105,W
+2016-02-06,5:00p ET,Houston Rockets,79,home,Portland Trail Blazers,96,L
+2016-02-09,10:30p ET,Houston Rockets,110,away,Golden State Warriors,123,L
+2016-02-10,10:30p ET,Houston Rockets,103,away,Portland Trail Blazers,116,L
+2016-02-19,9:30p ET,Houston Rockets,116,away,Phoenix Suns,100,W
+2016-02-23,9:00p ET,Houston Rockets,114,away,Utah Jazz,117,L
+2016-02-25,10:30p ET,Houston Rockets,119,away,Portland Trail Blazers,105,W
+2016-02-27,8:00p ET,Houston Rockets,94,home,San Antonio Spurs,104,L
+2016-02-29,8:00p ET,Houston Rockets,121,away,Milwaukee Bucks,128,L
+2016-03-02,8:00p ET,Houston Rockets,100,home,New Orleans Pelicans,95,W
+2016-03-05,8:30p ET,Houston Rockets,100,away,Chicago Bulls,108,L
+2016-03-06,6:30p ET,Houston Rockets,113,away,Toronto Raptors,107,W
+2016-03-09,7:00p ET,Houston Rockets,118,away,Philadelphia 76ers,104,W
+2016-03-11,7:30p ET,Houston Rockets,102,away,Boston Celtics,98,W
+2016-03-12,7:00p ET,Houston Rockets,109,away,Charlotte Hornets,125,L
+2016-03-14,8:00p ET,Houston Rockets,130,home,Memphis Grizzlies,81,W
+2016-03-16,9:30p ET,Houston Rockets,106,home,Los Angeles Clippers,122,L
+2016-03-18,8:00p ET,Houston Rockets,116,home,Minnesota Timberwolves,111,W
+2016-03-19,7:30p ET,Houston Rockets,97,away,Atlanta Hawks,109,L
+2016-03-22,8:00p ET,Houston Rockets,107,away,Oklahoma City Thunder,111,L
+2016-03-23,8:00p ET,Houston Rockets,87,home,Utah Jazz,89,L
+2016-03-25,8:00p ET,Houston Rockets,112,home,Toronto Raptors,109,W
+2016-03-27,6:00p ET,Houston Rockets,101,away,Indiana Pacers,104,L
+2016-03-29,8:00p ET,Houston Rockets,106,away,Cleveland Cavaliers,100,W
+2016-03-31,7:00p ET,Houston Rockets,100,home,Chicago Bulls,103,L
+2016-04-03,3:30p ET,Houston Rockets,118,home,Oklahoma City Thunder,110,W
+2016-04-06,9:30p ET,Houston Rockets,86,away,Dallas Mavericks,88,L
+2016-04-07,8:00p ET,Houston Rockets,115,home,Phoenix Suns,124,L
+2016-04-10,3:30p ET,Houston Rockets,130,home,Los Angeles Lakers,110,W
+2016-04-11,8:00p ET,Houston Rockets,129,away,Minnesota Timberwolves,105,W
+2016-04-13,8:00p ET,Houston Rockets,116,home,Sacramento Kings,81,W
+2016-04-16,3:30p ET,Houston Rockets,78,away,Golden State Warriors,104,L
+2016-04-18,10:30p ET,Houston Rockets,106,away,Golden State Warriors,115,L
+2016-04-21,9:30p ET,Houston Rockets,97,home,Golden State Warriors,96,W
+2016-04-24,3:30p ET,Houston Rockets,94,home,Golden State Warriors,121,L
+2016-04-27,10:30p ET,Houston Rockets,81,away,Golden State Warriors,114,L
+2016-10-26,10:30p ET,Houston Rockets,114,away,Los Angeles Lakers,120,L
+2016-10-28,8:30p ET,Houston Rockets,106,away,Dallas Mavericks,98,W
+2016-10-30,8:00p ET,Houston Rockets,93,home,Dallas Mavericks,92,W
+2016-11-01,6:00p ET,Houston Rockets,120,away,Cleveland Cavaliers,128,L
+2016-11-02,7:30p ET,Houston Rockets,118,away,New York Knicks,99,W
+2016-11-05,7:30p ET,Houston Rockets,97,away,Atlanta Hawks,112,L
+2016-11-07,7:00p ET,Houston Rockets,114,away,Washington Wizards,106,W
+2016-11-09,9:30p ET,Houston Rockets,101,away,San Antonio Spurs,99,W
+2016-11-12,8:00p ET,Houston Rockets,100,home,San Antonio Spurs,106,L
+2016-11-14,8:00p ET,Houston Rockets,115,home,Philadelphia 76ers,88,W
+2016-11-16,8:00p ET,Houston Rockets,103,away,Oklahoma City Thunder,105,L
+2016-11-17,8:00p ET,Houston Rockets,126,home,Portland Trail Blazers,109,W
+2016-11-19,5:00p ET,Houston Rockets,111,home,Utah Jazz,102,W
+2016-11-21,7:30p ET,Houston Rockets,99,away,Detroit Pistons,96,W
+2016-11-23,8:00p ET,Houston Rockets,102,home,Toronto Raptors,115,L
+2016-11-25,10:30p ET,Houston Rockets,117,away,Sacramento Kings,104,W
+2016-11-27,9:00p ET,Houston Rockets,130,away,Portland Trail Blazers,114,W
+2016-11-29,9:00p ET,Houston Rockets,101,away,Utah Jazz,120,L
+2016-12-01,10:30p ET,Houston Rockets,132,away,Golden State Warriors,127,W
+2016-12-02,10:30p ET,Houston Rockets,128,away,Denver Nuggets,110,W
+2016-12-05,8:00p ET,Houston Rockets,107,home,Boston Celtics,106,W
+2016-12-07,8:00p ET,Houston Rockets,134,home,Los Angeles Lakers,95,W
+2016-12-09,8:00p ET,Houston Rockets,102,away,Oklahoma City Thunder,99,W
+2016-12-10,8:00p ET,Houston Rockets,109,home,Dallas Mavericks,87,W
+2016-12-12,8:00p ET,Houston Rockets,122,home,Brooklyn Nets,118,W
+2016-12-14,8:00p ET,Houston Rockets,132,home,Sacramento Kings,98,W
+2016-12-16,8:00p ET,Houston Rockets,122,home,New Orleans Pelicans,100,W
+2016-12-17,8:00p ET,Houston Rockets,111,away,Minnesota Timberwolves,109,W
+2016-12-20,8:00p ET,Houston Rockets,100,home,San Antonio Spurs,102,L
+2016-12-21,9:00p ET,Houston Rockets,125,away,Phoenix Suns,111,W
+2016-12-23,8:00p ET,Houston Rockets,109,away,Memphis Grizzlies,115,L
+2016-12-26,8:00p ET,Houston Rockets,131,home,Phoenix Suns,115,W
+2016-12-27,8:30p ET,Houston Rockets,123,away,Dallas Mavericks,107,W
+2016-12-30,8:00p ET,Houston Rockets,140,home,Los Angeles Clippers,116,W
+2016-12-31,8:00p ET,Houston Rockets,129,home,New York Knicks,122,W
+2017-01-02,8:00p ET,Houston Rockets,101,home,Washington Wizards,91,W
+2017-01-05,8:00p ET,Houston Rockets,118,home,Oklahoma City Thunder,116,W
+2017-01-06,7:00p ET,Houston Rockets,100,away,Orlando Magic,93,W
+2017-01-08,6:00p ET,Houston Rockets,129,away,Toronto Raptors,122,W
+2017-01-10,8:00p ET,Houston Rockets,121,home,Charlotte Hornets,114,W
+2017-01-11,8:00p ET,Houston Rockets,105,away,Minnesota Timberwolves,119,L
+2017-01-13,8:00p ET,Houston Rockets,105,home,Memphis Grizzlies,110,L
+2017-01-15,6:00p ET,Houston Rockets,137,away,Brooklyn Nets,112,W
+2017-01-17,7:30p ET,Houston Rockets,103,away,Miami Heat,109,L
+2017-01-18,8:00p ET,Houston Rockets,111,home,Milwaukee Bucks,92,W
+2017-01-20,8:00p ET,Houston Rockets,108,home,Golden State Warriors,125,L
+2017-01-21,8:00p ET,Houston Rockets,119,away,Memphis Grizzlies,95,W
+2017-01-23,8:00p ET,Houston Rockets,114,away,Milwaukee Bucks,127,L
+2017-01-25,7:30p ET,Houston Rockets,109,away,Boston Celtics,120,L
+2017-01-27,8:00p ET,Houston Rockets,123,away,Philadelphia 76ers,118,W
+2017-01-29,6:00p ET,Houston Rockets,101,away,Indiana Pacers,120,L
+2017-01-31,8:00p ET,Houston Rockets,105,home,Sacramento Kings,83,W
+2017-02-02,8:00p ET,Houston Rockets,108,home,Atlanta Hawks,113,L
+2017-02-03,8:00p ET,Houston Rockets,121,home,Chicago Bulls,117,W
+2017-02-07,8:00p ET,Houston Rockets,128,home,Orlando Magic,104,W
+2017-02-09,7:00p ET,Houston Rockets,107,away,Charlotte Hornets,95,W
+2017-02-11,9:00p ET,Houston Rockets,133,home,Phoenix Suns,102,W
+2017-02-15,8:00p ET,Houston Rockets,109,home,Miami Heat,117,L
+2017-02-23,8:00p ET,Houston Rockets,129,away,New Orleans Pelicans,99,W
+2017-02-25,9:00p ET,Houston Rockets,142,home,Minnesota Timberwolves,130,W
+2017-02-27,9:30p ET,Houston Rockets,108,home,Indiana Pacers,117,L
+2017-03-01,10:30p ET,Houston Rockets,122,away,Los Angeles Clippers,103,W
+2017-03-04,9:00p ET,Houston Rockets,123,home,Memphis Grizzlies,108,W
+2017-03-06,8:30p ET,Houston Rockets,110,away,San Antonio Spurs,112,L
+2017-03-08,8:00p ET,Houston Rockets,108,home,Utah Jazz,115,L
+2017-03-10,8:00p ET,Houston Rockets,115,away,Chicago Bulls,94,W
+2017-03-12,9:00p ET,Houston Rockets,117,home,Cleveland Cavaliers,112,W
+2017-03-15,8:00p ET,Houston Rockets,139,home,Los Angeles Lakers,100,W
+2017-03-17,8:00p ET,Houston Rockets,112,away,New Orleans Pelicans,128,L
+2017-03-18,9:30p ET,Houston Rockets,109,away,Denver Nuggets,105,W
+2017-03-20,8:00p ET,Houston Rockets,125,home,Denver Nuggets,124,W
+2017-03-24,8:00p ET,Houston Rockets,117,home,New Orleans Pelicans,107,W
+2017-03-26,3:30p ET,Houston Rockets,137,home,Oklahoma City Thunder,125,W
+2017-03-28,8:00p ET,Houston Rockets,106,home,Golden State Warriors,113,L
+2017-03-30,10:30p ET,Houston Rockets,107,away,Portland Trail Blazers,117,L
+2017-03-31,10:30p ET,Houston Rockets,98,away,Golden State Warriors,107,L
+2017-04-02,9:00p ET,Houston Rockets,123,away,Phoenix Suns,116,W
+2017-04-05,8:00p ET,Houston Rockets,110,home,Denver Nuggets,104,W
+2017-04-07,8:00p ET,Houston Rockets,109,home,Detroit Pistons,114,L
+2017-04-09,6:00p ET,Houston Rockets,135,away,Sacramento Kings,128,W
+2017-04-10,10:30p ET,Houston Rockets,96,away,Los Angeles Clippers,125,L
+2017-04-12,8:00p ET,Houston Rockets,123,home,Minnesota Timberwolves,118,W
+2017-04-16,9:00p ET,Houston Rockets,118,home,Oklahoma City Thunder,87,W
+2017-04-19,8:00p ET,Houston Rockets,115,home,Oklahoma City Thunder,111,W
+2017-04-21,9:30p ET,Houston Rockets,113,away,Oklahoma City Thunder,115,L
+2017-04-23,3:30p ET,Houston Rockets,113,away,Oklahoma City Thunder,109,W
+2017-04-25,8:00p ET,Houston Rockets,105,home,Oklahoma City Thunder,99,W
+2017-05-01,9:30p ET,Houston Rockets,126,away,San Antonio Spurs,99,W
+2017-05-03,9:30p ET,Houston Rockets,96,away,San Antonio Spurs,121,L
+2017-05-05,9:30p ET,Houston Rockets,92,home,San Antonio Spurs,103,L
+2017-05-07,9:00p ET,Houston Rockets,125,home,San Antonio Spurs,104,W
+2017-05-09,8:00p ET,Houston Rockets,107,away,San Antonio Spurs,110,L
+2017-05-11,8:00p ET,Houston Rockets,75,home,San Antonio Spurs,114,L

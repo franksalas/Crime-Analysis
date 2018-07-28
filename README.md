@@ -1,5 +1,4 @@
-## Likelihood of crime around a sports stadium in the city of Houston Texas.
-
+## Analysis of Crime Neighboring Sporting Events
 Houston Texas with its 2.4 million residents is the fourth most populous city in the United States, just behind New York, Los Angeles, and Chicago.  As with any large city,  Houston has a rich sporting culture with five professional major league teams and two Division I college athletic programs.  With so many sporting events through the year, what is the likelihood of crime around a sports stadium given event?
 
 Crime happens, given the density of a population there exist [some connection ](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-9125.1979.tb01285.x)of increase of crime.

@@ -1,0 +1,25 @@
+date,time,location,team_1,score_1,team_2,score_2,home_away,season
+2015-10-06,8:10,Yankee Stadium III,Houston,3,New York,0,AWAY,plo
+2015-10-08,6:37,Kauffman Stadium,Houston,5,Kansas City,2,AWAY,plo
+2015-10-09,2:47,Kauffman Stadium,Houston,4,Kansas City,5,AWAY,plo
+2015-10-11,3:10,Minute Maid Park,Kansas City,2,Houston,4,HOME,plo
+2015-10-12,12:07,Minute Maid Park,Kansas City,9,Houston,6,HOME,plo
+2015-10-14,7:08,Kauffman Stadium,Houston,2,Kansas City,7,AWAY,plo
+2017-10-05,4pm, Minute Maid Park,Boston,2,Houston,8,AWAY,plo
+2017-10-06,2pm,Minute Maid Park,Boston,2,Houston,8,HOME,plo
+2017-10-08,2:30,Fenway Park,Houston,3,Boston,10,AWAY,plo
+2017-10-09,1:00,Fenway Park, Houston,5,Boston,4,AWAY,plo
+2017-10-13,8:00 ,Minute Maid Park,New York,1,Houston,2,HOME,plo
+2017-10-14,4:00,Minute Maid Park,New York,1,Houston,2,HOME,plo
+2017-10-16,8:00,Yankee Stadium III,Houston,1,New York,8,AWAY,plo
+2017-10-17,5:00,Yankee Stadium III,Houston,4,New York,6,AWAY,plo
+2017-10-18,5:00,Yankee Stadium III,Houston,0,New York,5,AWAY,plo
+2017-10-20,8:00,Minute Maid Park,New York,1,Houston,7,HOME,plo
+2017-10-21,8:00,Minute Maid Park,New York,0,Houston,4,HOME,plo
+2017-10-24,8:00,Dodger Stadium,Houston,1,Los Angeles,3,AWAY,plo
+2017-10-25,8:00,Dodger Stadium,Houston,7,Los Angeles,6,AWAY,plo
+2017-10-27,8:00,Minute Maid Park,Los Angeles,3,Houston,5,HOME,plo
+2017-10-28,8:00,Minute Maid Park,Los Angeles,6,Houston,2,HOME,plo
+2017-10-29,8:00,Minute Maid Park,Los Angeles,12,Houston,13,HOME,plo
+2017-10-31,8:00,Dodger Stadium,Houston,1,Los Angeles,3,AWAY,plo
+2017-11-01,8:00,Dodger Stadium,Houston,5,Los Angeles,1,AWAY,plo
