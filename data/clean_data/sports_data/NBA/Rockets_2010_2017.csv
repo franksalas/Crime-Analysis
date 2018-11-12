@@ -1,0 +1,344 @@
+date,team,opponent,tm,opp,win_lost,season
+2009-10-31,Houston Rockets,Portland Trail Blazers,111,107,W,regular
+2009-11-04,Houston Rockets,Los Angeles Lakers,102,103,L,regular
+2009-11-06,Houston Rockets,Oklahoma City Thunder,105,94,W,regular
+2009-11-11,Houston Rockets,Memphis Grizzlies,104,79,W,regular
+2009-11-17,Houston Rockets,Phoenix Suns,105,111,L,regular
+2009-11-21,Houston Rockets,Sacramento Kings,113,106,W,regular
+2009-11-25,Houston Rockets,Dallas Mavericks,99,130,L,regular
+2009-11-27,Houston Rockets,San Antonio Spurs,84,92,L,regular
+2009-12-09,Houston Rockets,Cleveland Cavaliers,95,85,W,regular
+2009-12-15,Houston Rockets,Detroit Pistons,107,96,W,regular
+2009-12-19,Houston Rockets,Oklahoma City Thunder,95,90,W,regular
+2009-12-22,Houston Rockets,Los Angeles Clippers,108,99,W,regular
+2009-12-29,Houston Rockets,New Orleans Hornets,108,100,W,regular
+2009-12-31,Houston Rockets,Dallas Mavericks,97,94,W,regular
+2010-01-09,Houston Rockets,New York Knicks,105,96,W,regular
+2010-01-13,Houston Rockets,Minnesota Timberwolves,120,114,W,regular
+2010-01-15,Houston Rockets,Miami Heat,106,115,L,regular
+2010-01-18,Houston Rockets,Milwaukee Bucks,101,98,W,regular
+2010-01-23,Houston Rockets,Chicago Bulls,97,104,L,regular
+2010-01-25,Houston Rockets,Atlanta Hawks,95,102,L,regular
+2010-01-27,Houston Rockets,Denver Nuggets,92,97,L,regular
+2010-01-29,Houston Rockets,Portland Trail Blazers,104,100,W,regular
+2010-01-31,Houston Rockets,Phoenix Suns,111,115,L,regular
+2010-02-02,Houston Rockets,Golden State Warriors,119,97,W,regular
+2010-02-06,Houston Rockets,Philadelphia 76ers,95,102,L,regular
+2010-02-16,Houston Rockets,Utah Jazz,95,104,L,regular
+2010-02-20,Houston Rockets,Indiana Pacers,115,125,L,regular
+2010-02-24,Houston Rockets,Orlando Magic,92,110,L,regular
+2010-02-26,Houston Rockets,San Antonio Spurs,109,104,W,regular
+2010-03-01,Houston Rockets,Toronto Raptors,116,92,W,regular
+2010-03-03,Houston Rockets,Sacramento Kings,81,84,L,regular
+2010-03-13,Houston Rockets,New Jersey Nets,116,108,W,regular
+2010-03-15,Houston Rockets,Denver Nuggets,125,123,W,regular
+2010-03-17,Houston Rockets,Memphis Grizzlies,107,94,W,regular
+2010-03-19,Houston Rockets,Boston Celtics,87,94,L,regular
+2010-03-25,Houston Rockets,Los Angeles Clippers,93,99,L,regular
+2010-03-27,Houston Rockets,Los Angeles Lakers,101,109,L,regular
+2010-03-30,Houston Rockets,Washington Wizards,98,94,W,regular
+2010-04-07,Houston Rockets,Utah Jazz,113,96,W,regular
+2010-04-09,Houston Rockets,Charlotte Bobcats,97,90,W,regular
+2010-04-14,Houston Rockets,New Orleans Hornets,115,123,L,regular
+2010-10-30,Houston Rockets,Denver Nuggets,94,107,L,regular
+2010-11-03,Houston Rockets,New Orleans Hornets,99,107,L,regular
+2010-11-07,Houston Rockets,Minnesota Timberwolves,120,94,W,regular
+2010-11-16,Houston Rockets,Chicago Bulls,92,95,L,regular
+2010-11-22,Houston Rockets,Phoenix Suns,116,123,L,regular
+2010-11-24,Houston Rockets,Golden State Warriors,111,101,W,regular
+2010-11-28,Houston Rockets,Oklahoma City Thunder,99,98,W,regular
+2010-12-01,Houston Rockets,Los Angeles Lakers,109,99,W,regular
+2010-12-07,Houston Rockets,Detroit Pistons,97,83,W,regular
+2010-12-11,Houston Rockets,Cleveland Cavaliers,110,95,W,regular
+2010-12-14,Houston Rockets,Sacramento Kings,118,105,W,regular
+2010-12-17,Houston Rockets,Memphis Grizzlies,103,87,W,regular
+2010-12-27,Houston Rockets,Washington Wizards,100,93,W,regular
+2010-12-29,Houston Rockets,Miami Heat,119,125,L,regular
+2010-12-31,Houston Rockets,Toronto Raptors,114,105,W,regular
+2011-01-05,Houston Rockets,Portland Trail Blazers,100,103,L,regular
+2011-01-08,Houston Rockets,Utah Jazz,99,103,L,regular
+2011-01-12,Houston Rockets,Oklahoma City Thunder,112,118,L,regular
+2011-01-14,Houston Rockets,New Orleans Hornets,105,110,L,regular
+2011-01-17,Houston Rockets,Milwaukee Bucks,93,84,W,regular
+2011-01-19,Houston Rockets,New York Knicks,104,89,W,regular
+2011-01-22,Houston Rockets,Orlando Magic,104,118,L,regular
+2011-01-26,Houston Rockets,Los Angeles Clippers,96,83,W,regular
+2011-02-05,Houston Rockets,Memphis Grizzlies,95,93,W,regular
+2011-02-08,Houston Rockets,Minnesota Timberwolves,108,112,L,regular
+2011-02-12,Houston Rockets,Dallas Mavericks,102,106,L,regular
+2011-02-14,Houston Rockets,Denver Nuggets,121,102,W,regular
+2011-02-16,Houston Rockets,Philadelphia 76ers,105,114,L,regular
+2011-02-26,Houston Rockets,New Jersey Nets,123,108,W,regular
+2011-03-05,Houston Rockets,Indiana Pacers,112,95,W,regular
+2011-03-12,Houston Rockets,San Antonio Spurs,107,115,L,regular
+2011-03-14,Houston Rockets,Phoenix Suns,95,93,W,regular
+2011-03-16,Houston Rockets,Charlotte Bobcats,94,78,W,regular
+2011-03-18,Houston Rockets,Boston Celtics,93,77,W,regular
+2011-03-20,Houston Rockets,Utah Jazz,110,108,W,regular
+2011-03-23,Houston Rockets,Golden State Warriors,131,112,W,regular
+2011-04-01,Houston Rockets,San Antonio Spurs,119,114,W,regular
+2011-04-03,Houston Rockets,Atlanta Hawks,114,109,W,regular
+2011-04-05,Houston Rockets,Sacramento Kings,101,104,L,regular
+2011-04-09,Houston Rockets,Los Angeles Clippers,99,78,W,regular
+2011-04-11,Houston Rockets,Dallas Mavericks,91,98,L,regular
+2011-12-29,Houston Rockets,San Antonio Spurs,105,85,W,regular
+2011-12-31,Houston Rockets,Atlanta Hawks,95,84,W,regular
+2012-01-07,Houston Rockets,Oklahoma City Thunder,95,98,L,regular
+2012-01-13,Houston Rockets,Sacramento Kings,103,89,W,regular
+2012-01-14,Houston Rockets,Portland Trail Blazers,107,105,W,regular
+2012-01-17,Houston Rockets,Detroit Pistons,97,80,W,regular
+2012-01-19,Houston Rockets,New Orleans Hornets,90,88,W,regular
+2012-01-21,Houston Rockets,San Antonio Spurs,105,102,W,regular
+2012-01-25,Houston Rockets,Milwaukee Bucks,99,105,L,regular
+2012-01-27,Houston Rockets,Washington Wizards,103,76,W,regular
+2012-01-28,Houston Rockets,New York Knicks,97,84,W,regular
+2012-01-30,Houston Rockets,Minnesota Timberwolves,108,120,L,regular
+2012-02-03,Houston Rockets,Phoenix Suns,99,81,W,regular
+2012-02-15,Houston Rockets,Oklahoma City Thunder,96,95,W,regular
+2012-02-17,Houston Rockets,Minnesota Timberwolves,98,111,L,regular
+2012-02-19,Houston Rockets,Utah Jazz,101,85,W,regular
+2012-02-20,Houston Rockets,Memphis Grizzlies,97,93,W,regular
+2012-02-22,Houston Rockets,Philadelphia 76ers,93,87,W,regular
+2012-02-28,Houston Rockets,Toronto Raptors,88,85,W,regular
+2012-03-02,Houston Rockets,Denver Nuggets,105,117,L,regular
+2012-03-04,Houston Rockets,Los Angeles Clippers,103,105,L,regular
+2012-03-14,Houston Rockets,Charlotte Bobcats,107,87,W,regular
+2012-03-20,Houston Rockets,Los Angeles Lakers,107,104,W,regular
+2012-03-22,Houston Rockets,Golden State Warriors,109,83,W,regular
+2012-03-24,Houston Rockets,Dallas Mavericks,99,101,L,regular
+2012-03-26,Houston Rockets,Sacramento Kings,113,106,W,regular
+2012-03-30,Houston Rockets,Memphis Grizzlies,98,89,W,regular
+2012-04-01,Houston Rockets,Indiana Pacers,102,104,L,regular
+2012-04-11,Houston Rockets,Utah Jazz,91,103,L,regular
+2012-04-13,Houston Rockets,Phoenix Suns,105,112,L,regular
+2012-04-16,Houston Rockets,Denver Nuggets,102,105,L,regular
+2012-04-21,Houston Rockets,Golden State Warriors,99,96,W,regular
+2012-04-26,Houston Rockets,New Orleans Hornets,84,77,W,regular
+2012-11-03,Houston Rockets,Portland Trail Blazers,85,95,L,regular
+2012-11-07,Houston Rockets,Denver Nuggets,87,93,L,regular
+2012-11-10,Houston Rockets,Detroit Pistons,96,82,W,regular
+2012-11-12,Houston Rockets,Miami Heat,110,113,L,regular
+2012-11-14,Houston Rockets,New Orleans Hornets,100,96,W,regular
+2012-11-21,Houston Rockets,Chicago Bulls,93,89,W,regular
+2012-11-23,Houston Rockets,New York Knicks,131,103,W,regular
+2012-11-27,Houston Rockets,Toronto Raptors,117,101,W,regular
+2012-12-01,Houston Rockets,Utah Jazz,124,116,W,regular
+2012-12-04,Houston Rockets,Los Angeles Lakers,107,105,W,regular
+2012-12-08,Houston Rockets,Dallas Mavericks,109,116,L,regular
+2012-12-10,Houston Rockets,San Antonio Spurs,126,134,L,regular
+2012-12-12,Houston Rockets,Washington Wizards,99,93,W,regular
+2012-12-14,Houston Rockets,Boston Celtics,101,89,W,regular
+2012-12-19,Houston Rockets,Philadelphia 76ers,125,103,W,regular
+2012-12-22,Houston Rockets,Memphis Grizzlies,121,96,W,regular
+2012-12-29,Houston Rockets,Oklahoma City Thunder,94,124,L,regular
+2012-12-31,Houston Rockets,Atlanta Hawks,123,104,W,regular
+2013-01-02,Houston Rockets,New Orleans Hornets,104,92,W,regular
+2013-01-08,Houston Rockets,Los Angeles Lakers,125,112,W,regular
+2013-01-15,Houston Rockets,Los Angeles Clippers,109,117,L,regular
+2013-01-23,Houston Rockets,Denver Nuggets,95,105,L,regular
+2013-01-26,Houston Rockets,Brooklyn Nets,119,106,W,regular
+2013-02-02,Houston Rockets,Charlotte Bobcats,109,95,W,regular
+2013-02-05,Houston Rockets,Golden State Warriors,140,109,W,regular
+2013-02-08,Houston Rockets,Portland Trail Blazers,118,103,W,regular
+2013-02-20,Houston Rockets,Oklahoma City Thunder,122,119,W,regular
+2013-02-27,Houston Rockets,Milwaukee Bucks,107,110,L,regular
+2013-03-03,Houston Rockets,Dallas Mavericks,136,103,W,regular
+2013-03-13,Houston Rockets,Phoenix Suns,111,81,W,regular
+2013-03-15,Houston Rockets,Minnesota Timberwolves,108,100,W,regular
+2013-03-17,Houston Rockets,Golden State Warriors,78,108,L,regular
+2013-03-20,Houston Rockets,Utah Jazz,100,93,W,regular
+2013-03-22,Houston Rockets,Cleveland Cavaliers,116,78,W,regular
+2013-03-24,Houston Rockets,San Antonio Spurs,96,95,W,regular
+2013-03-27,Houston Rockets,Indiana Pacers,91,100,L,regular
+2013-03-30,Houston Rockets,Los Angeles Clippers,98,81,W,regular
+2013-04-01,Houston Rockets,Orlando Magic,111,103,W,regular
+2013-04-09,Houston Rockets,Phoenix Suns,101,98,W,regular
+2013-04-12,Houston Rockets,Memphis Grizzlies,78,82,L,regular
+2013-04-14,Houston Rockets,Sacramento Kings,121,100,W,regular
+2013-04-27,Houston Rockets,Oklahoma City Thunder,101,104,L,playoffs
+2013-04-29,Houston Rockets,Oklahoma City Thunder,105,103,W,playoffs
+2013-05-03,Houston Rockets,Oklahoma City Thunder,94,103,L,playoffs
+2013-10-30,Houston Rockets,Charlotte Bobcats,96,83,W,regular
+2013-11-01,Houston Rockets,Dallas Mavericks,113,105,W,regular
+2013-11-07,Houston Rockets,Los Angeles Lakers,98,99,L,regular
+2013-11-09,Houston Rockets,Los Angeles Clippers,94,107,L,regular
+2013-11-11,Houston Rockets,Toronto Raptors,110,104,W,regular
+2013-11-16,Houston Rockets,Denver Nuggets,122,111,W,regular
+2013-11-19,Houston Rockets,Boston Celtics,109,85,W,regular
+2013-11-23,Houston Rockets,Minnesota Timberwolves,112,101,W,regular
+2013-11-27,Houston Rockets,Atlanta Hawks,113,84,W,regular
+2013-11-29,Houston Rockets,Brooklyn Nets,114,95,W,regular
+2013-12-04,Houston Rockets,Phoenix Suns,88,97,L,regular
+2013-12-06,Houston Rockets,Golden State Warriors,105,83,W,regular
+2013-12-08,Houston Rockets,Orlando Magic,98,88,W,regular
+2013-12-18,Houston Rockets,Chicago Bulls,109,94,W,regular
+2013-12-23,Houston Rockets,Dallas Mavericks,104,111,L,regular
+2013-12-26,Houston Rockets,Memphis Grizzlies,100,92,W,regular
+2013-12-28,Houston Rockets,New Orleans Pelicans,107,98,W,regular
+2013-12-31,Houston Rockets,Sacramento Kings,106,110,L,regular
+2014-01-03,Houston Rockets,New York Knicks,102,100,W,regular
+2014-01-08,Houston Rockets,Los Angeles Lakers,113,99,W,regular
+2014-01-16,Houston Rockets,Oklahoma City Thunder,92,104,L,regular
+2014-01-18,Houston Rockets,Milwaukee Bucks,114,104,W,regular
+2014-01-20,Houston Rockets,Portland Trail Blazers,126,113,W,regular
+2014-01-22,Houston Rockets,Sacramento Kings,119,98,W,regular
+2014-01-24,Houston Rockets,Memphis Grizzlies,87,88,L,regular
+2014-01-28,Houston Rockets,San Antonio Spurs,97,90,W,regular
+2014-02-01,Houston Rockets,Cleveland Cavaliers,106,92,W,regular
+2014-02-05,Houston Rockets,Phoenix Suns,122,108,W,regular
+2014-02-12,Houston Rockets,Washington Wizards,113,112,W,regular
+2014-03-01,Houston Rockets,Detroit Pistons,118,110,W,regular
+2014-03-04,Houston Rockets,Miami Heat,106,103,W,regular
+2014-03-07,Houston Rockets,Indiana Pacers,112,86,W,regular
+2014-03-09,Houston Rockets,Portland Trail Blazers,118,113,W,regular
+2014-03-17,Houston Rockets,Utah Jazz,124,86,W,regular
+2014-03-20,Houston Rockets,Minnesota Timberwolves,129,106,W,regular
+2014-03-27,Houston Rockets,Philadelphia 76ers,120,98,W,regular
+2014-03-29,Houston Rockets,Los Angeles Clippers,107,118,L,regular
+2014-04-04,Houston Rockets,Oklahoma City Thunder,111,107,W,regular
+2014-04-06,Houston Rockets,Denver Nuggets,130,125,W,regular
+2014-04-12,Houston Rockets,New Orleans Pelicans,111,104,W,regular
+2014-04-14,Houston Rockets,San Antonio Spurs,104,98,W,regular
+2014-04-20,Houston Rockets,Portland Trail Blazers,120,122,L,playoffs
+2014-04-23,Houston Rockets,Portland Trail Blazers,105,112,L,playoffs
+2014-04-30,Houston Rockets,Portland Trail Blazers,108,98,W,playoffs
+2014-11-01,Houston Rockets,Boston Celtics,104,90,W,regular
+2014-11-06,Houston Rockets,San Antonio Spurs,98,81,W,regular
+2014-11-08,Houston Rockets,Golden State Warriors,87,98,L,regular
+2014-11-14,Houston Rockets,Philadelphia 76ers,88,87,W,regular
+2014-11-19,Houston Rockets,Los Angeles Lakers,92,98,L,regular
+2014-11-22,Houston Rockets,Dallas Mavericks,95,92,W,regular
+2014-11-24,Houston Rockets,New York Knicks,91,86,W,regular
+2014-11-26,Houston Rockets,Sacramento Kings,102,89,W,regular
+2014-11-28,Houston Rockets,Los Angeles Clippers,85,102,L,regular
+2014-12-03,Houston Rockets,Memphis Grizzlies,105,96,W,regular
+2014-12-06,Houston Rockets,Phoenix Suns,100,95,W,regular
+2014-12-13,Houston Rockets,Denver Nuggets,108,96,W,regular
+2014-12-18,Houston Rockets,New Orleans Pelicans,90,99,L,regular
+2014-12-20,Houston Rockets,Atlanta Hawks,97,104,L,regular
+2014-12-22,Houston Rockets,Portland Trail Blazers,110,95,W,regular
+2014-12-29,Houston Rockets,Washington Wizards,103,104,L,regular
+2014-12-31,Houston Rockets,Charlotte Hornets,102,83,W,regular
+2015-01-03,Houston Rockets,Miami Heat,115,79,W,regular
+2015-01-10,Houston Rockets,Utah Jazz,97,82,W,regular
+2015-01-15,Houston Rockets,Oklahoma City Thunder,112,101,W,regular
+2015-01-17,Houston Rockets,Golden State Warriors,106,131,L,regular
+2015-01-19,Houston Rockets,Indiana Pacers,110,98,W,regular
+2015-01-28,Houston Rockets,Dallas Mavericks,99,94,W,regular
+2015-02-04,Houston Rockets,Chicago Bulls,101,90,W,regular
+2015-02-06,Houston Rockets,Milwaukee Bucks,117,111,W,regular
+2015-02-08,Houston Rockets,Portland Trail Blazers,98,109,L,regular
+2015-02-21,Houston Rockets,Toronto Raptors,98,76,W,regular
+2015-02-23,Houston Rockets,Minnesota Timberwolves,113,102,W,regular
+2015-02-25,Houston Rockets,Los Angeles Clippers,110,105,W,regular
+2015-02-27,Houston Rockets,Brooklyn Nets,102,98,W,regular
+2015-03-01,Houston Rockets,Cleveland Cavaliers,105,103,W,regular
+2015-03-04,Houston Rockets,Memphis Grizzlies,100,102,L,regular
+2015-03-06,Houston Rockets,Detroit Pistons,103,93,W,regular
+2015-03-17,Houston Rockets,Orlando Magic,107,94,W,regular
+2015-03-19,Houston Rockets,Denver Nuggets,118,108,W,regular
+2015-03-21,Houston Rockets,Phoenix Suns,102,117,L,regular
+2015-03-27,Houston Rockets,Minnesota Timberwolves,120,110,W,regular
+2015-04-01,Houston Rockets,Sacramento Kings,115,111,W,regular
+2015-04-10,Houston Rockets,San Antonio Spurs,103,104,L,regular
+2015-04-12,Houston Rockets,New Orleans Pelicans,121,114,W,regular
+2015-04-15,Houston Rockets,Utah Jazz,117,91,W,regular
+2015-04-18,Houston Rockets,Dallas Mavericks,118,108,W,playoffs
+2015-04-21,Houston Rockets,Dallas Mavericks,111,99,W,playoffs
+2015-04-28,Houston Rockets,Dallas Mavericks,103,94,W,playoffs
+2015-05-04,Houston Rockets,Los Angeles Clippers,101,117,L,playoffs
+2015-05-06,Houston Rockets,Los Angeles Clippers,115,109,W,playoffs
+2015-05-12,Houston Rockets,Los Angeles Clippers,124,103,W,playoffs
+2015-05-17,Houston Rockets,Los Angeles Clippers,113,100,W,playoffs
+2015-05-23,Houston Rockets,Golden State Warriors,80,115,L,playoffs
+2015-05-25,Houston Rockets,Golden State Warriors,128,115,W,playoffs
+2015-10-28,Houston Rockets,Denver Nuggets,85,105,L,regular
+2015-10-30,Houston Rockets,Golden State Warriors,92,112,L,regular
+2015-11-02,Houston Rockets,Oklahoma City Thunder,110,105,W,regular
+2015-11-04,Houston Rockets,Orlando Magic,119,114,W,regular
+2015-11-11,Houston Rockets,Brooklyn Nets,98,106,L,regular
+2015-11-14,Houston Rockets,Dallas Mavericks,98,110,L,regular
+2015-11-16,Houston Rockets,Boston Celtics,95,111,L,regular
+2015-11-18,Houston Rockets,Portland Trail Blazers,108,103,W,regular
+2015-11-21,Houston Rockets,New York Knicks,102,107,L,regular
+2015-11-25,Houston Rockets,Memphis Grizzlies,93,102,L,regular
+2015-11-27,Houston Rockets,Philadelphia 76ers,116,114,W,regular
+2015-12-02,Houston Rockets,New Orleans Pelicans,108,101,W,regular
+2015-12-05,Houston Rockets,Sacramento Kings,120,113,W,regular
+2015-12-12,Houston Rockets,Los Angeles Lakers,126,97,W,regular
+2015-12-19,Houston Rockets,Los Angeles Clippers,107,97,W,regular
+2015-12-21,Houston Rockets,Charlotte Hornets,102,95,W,regular
+2015-12-25,Houston Rockets,San Antonio Spurs,88,84,W,regular
+2015-12-29,Houston Rockets,Atlanta Hawks,115,121,L,regular
+2015-12-31,Houston Rockets,Golden State Warriors,110,114,L,regular
+2016-01-07,Houston Rockets,Utah Jazz,103,94,W,regular
+2016-01-10,Houston Rockets,Indiana Pacers,107,103,W,regular
+2016-01-13,Houston Rockets,Minnesota Timberwolves,107,104,W,regular
+2016-01-15,Houston Rockets,Cleveland Cavaliers,77,91,L,regular
+2016-01-20,Houston Rockets,Detroit Pistons,114,123,L,regular
+2016-01-22,Houston Rockets,Milwaukee Bucks,102,98,W,regular
+2016-01-24,Houston Rockets,Dallas Mavericks,115,104,W,regular
+2016-01-30,Houston Rockets,Washington Wizards,122,123,L,regular
+2016-02-02,Houston Rockets,Miami Heat,115,102,W,regular
+2016-02-06,Houston Rockets,Portland Trail Blazers,79,96,L,regular
+2016-02-27,Houston Rockets,San Antonio Spurs,94,104,L,regular
+2016-03-02,Houston Rockets,New Orleans Pelicans,100,95,W,regular
+2016-03-14,Houston Rockets,Memphis Grizzlies,130,81,W,regular
+2016-03-16,Houston Rockets,Los Angeles Clippers,106,122,L,regular
+2016-03-18,Houston Rockets,Minnesota Timberwolves,116,111,W,regular
+2016-03-23,Houston Rockets,Utah Jazz,87,89,L,regular
+2016-03-25,Houston Rockets,Toronto Raptors,112,109,W,regular
+2016-03-31,Houston Rockets,Chicago Bulls,100,103,L,regular
+2016-04-03,Houston Rockets,Oklahoma City Thunder,118,110,W,regular
+2016-04-07,Houston Rockets,Phoenix Suns,115,124,L,regular
+2016-04-10,Houston Rockets,Los Angeles Lakers,130,110,W,regular
+2016-04-13,Houston Rockets,Sacramento Kings,116,81,W,regular
+2016-04-21,Houston Rockets,Golden State Warriors,97,96,W,playoffs
+2016-04-24,Houston Rockets,Golden State Warriors,94,121,L,playoffs
+2016-10-30,Houston Rockets,Dallas Mavericks,93,92,W,regular
+2016-11-12,Houston Rockets,San Antonio Spurs,100,106,L,regular
+2016-11-14,Houston Rockets,Philadelphia 76ers,115,88,W,regular
+2016-11-17,Houston Rockets,Portland Trail Blazers,126,109,W,regular
+2016-11-19,Houston Rockets,Utah Jazz,111,102,W,regular
+2016-11-23,Houston Rockets,Toronto Raptors,102,115,L,regular
+2016-12-05,Houston Rockets,Boston Celtics,107,106,W,regular
+2016-12-07,Houston Rockets,Los Angeles Lakers,134,95,W,regular
+2016-12-10,Houston Rockets,Dallas Mavericks,109,87,W,regular
+2016-12-12,Houston Rockets,Brooklyn Nets,122,118,W,regular
+2016-12-14,Houston Rockets,Sacramento Kings,132,98,W,regular
+2016-12-16,Houston Rockets,New Orleans Pelicans,122,100,W,regular
+2016-12-20,Houston Rockets,San Antonio Spurs,100,102,L,regular
+2016-12-26,Houston Rockets,Phoenix Suns,131,115,W,regular
+2016-12-30,Houston Rockets,Los Angeles Clippers,140,116,W,regular
+2016-12-31,Houston Rockets,New York Knicks,129,122,W,regular
+2017-01-02,Houston Rockets,Washington Wizards,101,91,W,regular
+2017-01-05,Houston Rockets,Oklahoma City Thunder,118,116,W,regular
+2017-01-10,Houston Rockets,Charlotte Hornets,121,114,W,regular
+2017-01-13,Houston Rockets,Memphis Grizzlies,105,110,L,regular
+2017-01-18,Houston Rockets,Milwaukee Bucks,111,92,W,regular
+2017-01-20,Houston Rockets,Golden State Warriors,108,125,L,regular
+2017-01-31,Houston Rockets,Sacramento Kings,105,83,W,regular
+2017-02-02,Houston Rockets,Atlanta Hawks,108,113,L,regular
+2017-02-03,Houston Rockets,Chicago Bulls,121,117,W,regular
+2017-02-07,Houston Rockets,Orlando Magic,128,104,W,regular
+2017-02-11,Houston Rockets,Phoenix Suns,133,102,W,regular
+2017-02-15,Houston Rockets,Miami Heat,109,117,L,regular
+2017-02-25,Houston Rockets,Minnesota Timberwolves,142,130,W,regular
+2017-02-27,Houston Rockets,Indiana Pacers,108,117,L,regular
+2017-03-04,Houston Rockets,Memphis Grizzlies,123,108,W,regular
+2017-03-08,Houston Rockets,Utah Jazz,108,115,L,regular
+2017-03-12,Houston Rockets,Cleveland Cavaliers,117,112,W,regular
+2017-03-15,Houston Rockets,Los Angeles Lakers,139,100,W,regular
+2017-03-20,Houston Rockets,Denver Nuggets,125,124,W,regular
+2017-03-24,Houston Rockets,New Orleans Pelicans,117,107,W,regular
+2017-03-26,Houston Rockets,Oklahoma City Thunder,137,125,W,regular
+2017-03-28,Houston Rockets,Golden State Warriors,106,113,L,regular
+2017-04-05,Houston Rockets,Denver Nuggets,110,104,W,regular
+2017-04-07,Houston Rockets,Detroit Pistons,109,114,L,regular
+2017-04-12,Houston Rockets,Minnesota Timberwolves,123,118,W,regular
+2017-04-16,Houston Rockets,Oklahoma City Thunder,118,87,W,playoffs
+2017-04-19,Houston Rockets,Oklahoma City Thunder,115,111,W,playoffs
+2017-04-25,Houston Rockets,Oklahoma City Thunder,105,99,W,playoffs
+2017-05-05,Houston Rockets,San Antonio Spurs,92,103,L,playoffs
+2017-05-07,Houston Rockets,San Antonio Spurs,125,104,W,playoffs
+2017-05-11,Houston Rockets,San Antonio Spurs,75,114,L,playoffs

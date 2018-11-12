@@ -1,0 +1,141 @@
+date,season,home,visitor,hgoal,vgoal,round,winner
+2010-04-01,2010,Houston Dynamo,Real Salt Lake,2,1,regular,home
+2010-04-10,2010,Houston Dynamo,LA Galaxy,0,2,regular,visitor
+2010-04-17,2010,Houston Dynamo,CD Chivas USA,3,0,regular,home
+2010-05-01,2010,Houston Dynamo,Sporting Kansas City,3,0,regular,home
+2010-05-05,2010,Houston Dynamo,FC Dallas,0,1,regular,visitor
+2010-05-22,2010,Houston Dynamo,DC United,2,0,regular,home
+2010-05-29,2010,Houston Dynamo,Philadelphia Union,2,3,regular,visitor
+2010-06-26,2010,Houston Dynamo,Colorado Rapids,2,2,regular,visitor
+2010-07-10,2010,Houston Dynamo,Columbus Crew,0,0,regular,visitor
+2010-07-31,2010,Houston Dynamo,New York Red Bulls,2,2,regular,visitor
+2010-08-21,2010,Houston Dynamo,Chicago Fire,4,3,regular,home
+2010-09-05,2010,Houston Dynamo,San Jose Earthquakes,1,2,regular,visitor
+2010-09-18,2010,Houston Dynamo,Toronto FC,1,2,regular,visitor
+2010-10-10,2010,Houston Dynamo,New England Revolution,1,2,regular,visitor
+2010-10-23,2010,Houston Dynamo,Seattle Sounders,2,1,regular,home
+2011-03-19,2011,Houston Dynamo,Philadelphia Union,0,1,regular,visitor
+2011-04-10,2011,Houston Dynamo,Vancouver Whitecaps,3,1,regular,home
+2011-04-17,2011,Houston Dynamo,New England Revolution,1,0,regular,home
+2011-04-29,2011,Houston Dynamo,DC United,4,1,regular,home
+2011-05-04,2011,Houston Dynamo,Colorado Rapids,1,2,regular,visitor
+2011-05-21,2011,Houston Dynamo,New York Red Bulls,2,2,regular,visitor
+2011-05-28,2011,Houston Dynamo,FC Dallas,2,2,regular,visitor
+2011-06-11,2011,Houston Dynamo,CD Chivas USA,2,1,regular,home
+2011-06-18,2011,Houston Dynamo,Columbus Crew,0,2,regular,visitor
+2011-07-09,2011,Houston Dynamo,Toronto FC,2,0,regular,home
+2011-07-16,2011,Houston Dynamo,Sporting Kansas City,1,1,regular,visitor
+2011-07-30,2011,Houston Dynamo,Seattle Sounders,3,1,regular,home
+2011-08-14,2011,Houston Dynamo,Portland Timbers,2,1,regular,home
+2011-08-20,2011,Houston Dynamo,Real Salt Lake,3,2,regular,home
+2011-09-17,2011,Houston Dynamo,San Jose Earthquakes,2,1,regular,home
+2011-10-01,2011,Houston Dynamo,Chicago Fire,1,1,regular,visitor
+2011-10-23,2011,Houston Dynamo,LA Galaxy,3,1,regular,home
+2011-11-03,2011,Houston Dynamo,Philadelphia Union,1,0,conf_semi,home
+2012-05-12,2012,Houston Dynamo,DC United,1,0,regular,home
+2012-05-15,2012,Houston Dynamo,Portland Timbers,0,0,regular,visitor
+2012-05-26,2012,Houston Dynamo,LA Galaxy,2,1,regular,home
+2012-06-16,2012,Houston Dynamo,FC Dallas,2,1,regular,home
+2012-06-20,2012,Houston Dynamo,Toronto FC,3,3,regular,visitor
+2012-06-30,2012,Houston Dynamo,Philadelphia Union,2,1,regular,home
+2012-07-03,2012,Houston Dynamo,Chicago Fire,0,0,regular,visitor
+2012-07-15,2012,Houston Dynamo,DC United,4,0,regular,home
+2012-07-18,2012,Houston Dynamo,Sporting Kansas City,2,1,regular,home
+2012-07-21,2012,Houston Dynamo,Montreal Impact,3,0,regular,home
+2012-08-03,2012,Houston Dynamo,New York Red Bulls,2,0,regular,home
+2012-08-19,2012,Houston Dynamo,Columbus Crew,2,2,regular,visitor
+2012-08-25,2012,Houston Dynamo,Toronto FC,1,1,regular,visitor
+2012-09-06,2012,Houston Dynamo,Real Salt Lake,1,0,regular,home
+2012-09-29,2012,Houston Dynamo,New England Revolution,2,0,regular,home
+2012-10-06,2012,Houston Dynamo,Montreal Impact,1,1,regular,visitor
+2012-10-20,2012,Houston Dynamo,Philadelphia Union,3,1,regular,home
+2012-11-04,2012,Houston Dynamo,Sporting Kansas City,2,0,conf_semi,home
+2012-11-11,2012,Houston Dynamo,DC United,3,1,conf_final,home
+2013-03-02,2013,Houston Dynamo,DC United,2,0,regular,home
+2013-03-23,2013,Houston Dynamo,Vancouver Whitecaps,2,1,regular,home
+2013-03-30,2013,Houston Dynamo,San Jose Earthquakes,2,0,regular,home
+2013-04-14,2013,Houston Dynamo,Chicago Fire,2,1,regular,home
+2013-04-28,2013,Houston Dynamo,Colorado Rapids,1,1,regular,visitor
+2013-05-12,2013,Houston Dynamo,Sporting Kansas City,0,1,regular,visitor
+2013-05-18,2013,Houston Dynamo,New England Revolution,0,2,regular,visitor
+2013-06-22,2013,Houston Dynamo,Toronto FC,0,0,regular,visitor
+2013-07-06,2013,Houston Dynamo,Philadelphia Union,1,0,regular,home
+2013-07-27,2013,Houston Dynamo,Chicago Fire,1,1,regular,visitor
+2013-08-03,2013,Houston Dynamo,Columbus Crew,3,1,regular,home
+2013-08-17,2013,Houston Dynamo,Seattle Sounders,3,1,regular,home
+2013-09-08,2013,Houston Dynamo,New York Red Bulls,1,4,regular,visitor
+2013-09-21,2013,Houston Dynamo,CD Chivas USA,5,1,regular,home
+2013-10-04,2013,Houston Dynamo,Montreal Impact,1,0,regular,home
+2013-10-09,2013,Houston Dynamo,Sporting Kansas City,0,0,regular,visitor
+2013-10-20,2013,Houston Dynamo,New York Red Bulls,0,3,regular,visitor
+2013-10-31,2013,Houston Dynamo,Montreal Impact,3,0,play_in,home
+2013-11-03,2013,Houston Dynamo,New York Red Bulls,2,2,conf_semi,visitor
+2013-11-09,2013,Houston Dynamo,Sporting Kansas City,0,0,conf_final,visitor
+2014-03-08,2014,Houston Dynamo,New England Revolution,4,0,regular,home
+2014-03-15,2014,Houston Dynamo,Montreal Impact,1,0,regular,home
+2014-04-05,2014,Houston Dynamo,FC Dallas,1,4,regular,visitor
+2014-04-27,2014,Houston Dynamo,Portland Timbers,1,1,regular,visitor
+2014-05-07,2014,Houston Dynamo,Columbus Crew,1,0,regular,home
+2014-05-11,2014,Houston Dynamo,Real Salt Lake,2,5,regular,visitor
+2014-05-17,2014,Houston Dynamo,LA Galaxy,1,0,regular,home
+2014-06-06,2014,Houston Dynamo,Sporting Kansas City,0,2,regular,visitor
+2014-07-04,2014,Houston Dynamo,New York Red Bulls,2,2,regular,visitor
+2014-07-19,2014,Houston Dynamo,Toronto FC,2,2,regular,visitor
+2014-08-03,2014,Houston Dynamo,DC United,1,0,regular,home
+2014-08-15,2014,Houston Dynamo,Philadelphia Union,2,0,regular,home
+2014-09-06,2014,Houston Dynamo,Montreal Impact,3,2,regular,home
+2014-09-13,2014,Houston Dynamo,Columbus Crew,2,2,regular,visitor
+2014-09-28,2014,Houston Dynamo,Chicago Fire,2,0,regular,home
+2014-10-12,2014,Houston Dynamo,DC United,1,3,regular,visitor
+2014-10-16,2014,Houston Dynamo,New England Revolution,1,2,regular,visitor
+2015-03-07,2015,Houston Dynamo,Columbus Crew,1,0,regular,home
+2015-03-13,2015,Houston Dynamo,Orlando City,0,1,regular,visitor
+2015-03-28,2015,Houston Dynamo,Colorado Rapids,0,0,regular,visitor
+2015-04-11,2015,Houston Dynamo,Montreal Impact,3,0,regular,home
+2015-04-25,2015,Houston Dynamo,Sporting Kansas City,4,4,regular,visitor
+2015-05-01,2015,Houston Dynamo,FC Dallas,1,4,regular,visitor
+2015-05-05,2015,Houston Dynamo,San Jose Earthquakes,0,1,regular,visitor
+2015-05-16,2015,Houston Dynamo,Portland Timbers,3,1,regular,home
+2015-06-05,2015,Houston Dynamo,New York Red Bulls,4,2,regular,home
+2015-07-03,2015,Houston Dynamo,Chicago Fire,1,1,regular,visitor
+2015-07-25,2015,Houston Dynamo,LA Galaxy,3,0,regular,home
+2015-08-08,2015,Houston Dynamo,San Jose Earthquakes,2,1,regular,home
+2015-08-29,2015,Houston Dynamo,Vancouver Whitecaps,2,0,regular,home
+2015-09-12,2015,Houston Dynamo,Real Salt Lake,1,3,regular,visitor
+2015-09-23,2015,Houston Dynamo,Sporting Kansas City,1,0,regular,home
+2015-09-26,2015,Houston Dynamo,Colorado Rapids,3,2,regular,home
+2015-10-18,2015,Houston Dynamo,Seattle Sounders,1,1,regular,visitor
+2016-03-06,2016,Houston Dynamo,New England Revolution,3,3,regular,visitor
+2016-03-12,2016,Houston Dynamo,FC Dallas,5,0,regular,home
+2016-04-10,2016,Houston Dynamo,Seattle Sounders,1,1,regular,visitor
+2016-04-15,2016,Houston Dynamo,LA Galaxy,1,4,regular,visitor
+2016-05-07,2016,Houston Dynamo,Sporting Kansas City,2,0,regular,home
+2016-05-15,2016,Houston Dynamo,Real Salt Lake,1,0,regular,home
+2016-06-18,2016,Houston Dynamo,DC United,0,0,regular,visitor
+2016-07-02,2016,Houston Dynamo,Philadelphia Union,1,0,regular,home
+2016-07-23,2016,Houston Dynamo,Vancouver Whitecaps,0,0,regular,visitor
+2016-07-31,2016,Houston Dynamo,San Jose Earthquakes,1,1,regular,visitor
+2016-08-14,2016,Houston Dynamo,Toronto FC,1,1,regular,visitor
+2016-08-24,2016,Houston Dynamo,Seattle Sounders,1,1,regular,visitor
+2016-08-27,2016,Houston Dynamo,FC Dallas,1,3,regular,visitor
+2016-09-24,2016,Houston Dynamo,Portland Timbers,3,1,regular,home
+2016-09-30,2016,Houston Dynamo,New York City FC,0,2,regular,visitor
+2016-10-08,2016,Houston Dynamo,Colorado Rapids,2,3,regular,visitor
+2016-10-16,2016,Houston Dynamo,LA Galaxy,0,1,regular,visitor
+2017-03-04,2017,Houston Dynamo,Seattle,2,1,regular,home
+2017-03-11,2017,Houston Dynamo,Columbus,3,1,regular,home
+2017-04-01,2017,Houston Dynamo,NY Red Bulls,4,1,regular,home
+2017-04-15,2017,Houston Dynamo,Minnesota,2,2,regular,visitor
+2017-04-22,2017,Houston Dynamo,San Jose,2,0,regular,home
+2017-05-06,2017,Houston Dynamo,Orlando,4,0,regular,home
+2017-05-12,2017,Houston Dynamo,Vancouver,2,1,regular,home
+2017-05-31,2017,Houston Dynamo,Real Salt Lake,5,1,regular,home
+2017-06-23,2017,Houston Dynamo,FC Dallas,1,1,regular,visitor
+2017-07-05,2017,Houston Dynamo,Montreal,3,1,regular,home
+2017-07-29,2017,Houston Dynamo,Portland,2,2,regular,visitor
+2017-08-12,2017,Houston Dynamo,San Jose,3,0,regular,home
+2017-09-09,2017,Houston Dynamo,Colorado,0,1,regular,visitor
+2017-09-27,2017,Houston Dynamo,LA Galaxy,3,3,regular,visitor
+2017-09-30,2017,Houston Dynamo,Minnesota,2,1,regular,home
+2017-10-11,2017,Houston Dynamo,Sporting KC,2,1,regular,home
+2017-10-22,2017,Houston Dynamo,Chicago,3,0,regular,home
