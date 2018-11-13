@@ -1,0 +1,1040 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import warnings\n",
+    "warnings.filterwarnings('ignore')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import glob, os\n",
+    "import numpy as np\n",
+    "import matplotlib.pyplot as plt\n",
+    "import datetime  as dt\n",
+    "import seaborn as sns"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "data_folder = 'merge_data'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# data folder path\n",
+    "data_directory = os.path.join('..','data','clean_data/{}/crime_beats_04.csv'.format(data_folder))\n",
+    "data_directory_saves = os.path.join( '..','data','clean_data','merge_data/')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(data_directory)\n",
+    "df.drop(['Unnamed: 0'],axis=1,inplace=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 85578 entries, 0 to 85577\n",
+      "Data columns (total 7 columns):\n",
+      "date                   85578 non-null object\n",
+      "hour                   85578 non-null int64\n",
+      "beat                   85578 non-null object\n",
+      "offense_type           85578 non-null object\n",
+      "premise                85578 non-null object\n",
+      "num_offenses           85578 non-null int64\n",
+      "full_street_address    85578 non-null object\n",
+      "dtypes: int64(2), object(5)\n",
+      "memory usage: 4.6+ MB\n"
+     ]
+    }
+   ],
+   "source": [
+    "df.info()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>1916-05-23</td>\n",
+       "      <td>19</td>\n",
+       "      <td>10H70</td>\n",
+       "      <td>Aggravated Assault</td>\n",
+       "      <td>house</td>\n",
+       "      <td>1</td>\n",
+       "      <td>LIBERTY ROAD</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1917-02-20</td>\n",
+       "      <td>16</td>\n",
+       "      <td>10H70</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>other_parking</td>\n",
+       "      <td>1</td>\n",
+       "      <td>7550 ARDMORE ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1963-02-02</td>\n",
+       "      <td>13</td>\n",
+       "      <td>10H40</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>rehab_center</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3850 MAIN ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1966-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H50</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3350 ALABAMA ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>1971-02-03</td>\n",
+       "      <td>6</td>\n",
+       "      <td>1A10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>house</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1250 TRAVIS</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "         date  hour   beat        offense_type        premise  num_offenses  \\\n",
+       "0  1916-05-23    19  10H70  Aggravated Assault          house             1   \n",
+       "1  1917-02-20    16  10H70               Theft  other_parking             1   \n",
+       "2  1963-02-02    13  10H40               Theft   rehab_center             1   \n",
+       "3  1966-01-01     0  10H50                Rape      apartment             1   \n",
+       "4  1971-02-03     6   1A10               Theft          house             1   \n",
+       "\n",
+       "  full_street_address  \n",
+       "0        LIBERTY ROAD  \n",
+       "1     7550 ARDMORE ST  \n",
+       "2        3850 MAIN ST  \n",
+       "3     3350 ALABAMA ST  \n",
+       "4         1250 TRAVIS  "
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Split beats"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "15E40    16433\n",
+       "1A10     15451\n",
+       "10H70    11455\n",
+       "10H40    10485\n",
+       "10H50     8041\n",
+       "10H60     7717\n",
+       "10H80     7504\n",
+       "10H30     4409\n",
+       "10H10     4083\n",
+       "Name: beat, dtype: int64"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.beat.value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df10H10 = df.groupby('beat').get_group('10H10')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "Int64Index: 4083 entries, 32 to 85570\n",
+      "Data columns (total 7 columns):\n",
+      "date                   4083 non-null object\n",
+      "hour                   4083 non-null int64\n",
+      "beat                   4083 non-null object\n",
+      "offense_type           4083 non-null object\n",
+      "premise                4083 non-null object\n",
+      "num_offenses           4083 non-null int64\n",
+      "full_street_address    4083 non-null object\n",
+      "dtypes: int64(2), object(5)\n",
+      "memory usage: 255.2+ KB\n"
+     ]
+    }
+   ],
+   "source": [
+    "df10H10.info()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>2003-10-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 LATHAM ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>61</th>\n",
+       "      <td>2005-09-11</td>\n",
+       "      <td>8</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Burglary</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>350 YORK</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>2006-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>garage_carport</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 ENNIS ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>78</th>\n",
+       "      <td>2006-08-26</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>unknown</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2850 CANAL ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>176</th>\n",
+       "      <td>2009-04-20</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>house</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2450 COMMERCE ST</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "           date  hour   beat offense_type         premise  num_offenses  \\\n",
+       "32   2003-10-01     0  10H10         Rape       apartment             1   \n",
+       "61   2005-09-11     8  10H10     Burglary       apartment             1   \n",
+       "73   2006-01-01     0  10H10         Rape  garage_carport             1   \n",
+       "78   2006-08-26     0  10H10        Theft         unknown             1   \n",
+       "176  2009-04-20     0  10H10        Theft           house             1   \n",
+       "\n",
+       "    full_street_address  \n",
+       "32         50 LATHAM ST  \n",
+       "61             350 YORK  \n",
+       "73          50 ENNIS ST  \n",
+       "78        2850 CANAL ST  \n",
+       "176    2450 COMMERCE ST  "
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df10H10.head()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## get lat lon"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import geopy\n",
+    "from geopy.geocoders import Nominatim\n",
+    "from tqdm import tqdm\n",
+    "from geopy.extra.rate_limiter import RateLimiter\n",
+    "tqdm.pandas()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### test"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test = df10H10.loc[:150].copy()  # test dataset"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>2003-10-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 LATHAM ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>61</th>\n",
+       "      <td>2005-09-11</td>\n",
+       "      <td>8</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Burglary</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>350 YORK</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>2006-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>garage_carport</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 ENNIS ST</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>78</th>\n",
+       "      <td>2006-08-26</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>unknown</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2850 CANAL ST</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "          date  hour   beat offense_type         premise  num_offenses  \\\n",
+       "32  2003-10-01     0  10H10         Rape       apartment             1   \n",
+       "61  2005-09-11     8  10H10     Burglary       apartment             1   \n",
+       "73  2006-01-01     0  10H10         Rape  garage_carport             1   \n",
+       "78  2006-08-26     0  10H10        Theft         unknown             1   \n",
+       "\n",
+       "   full_street_address  \n",
+       "32        50 LATHAM ST  \n",
+       "61            350 YORK  \n",
+       "73         50 ENNIS ST  \n",
+       "78       2850 CANAL ST  "
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "100%|██████████| 4/4 [00:04<00:00,  1.15s/it]\n"
+     ]
+    }
+   ],
+   "source": [
+    "geolocator = Nominatim(user_agent=\"specify_your_app_name_here\",\n",
+    "                       format_string=\"%s, Houston, TX\")\n",
+    "\n",
+    "from geopy.extra.rate_limiter import RateLimiter\n",
+    "geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)\n",
+    "test['location'] = test['full_street_address'].progress_apply(geocode)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "      <th>location</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>2003-10-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 LATHAM ST</td>\n",
+       "      <td>(50, Latham Street, Houston, Harris County, Te...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>61</th>\n",
+       "      <td>2005-09-11</td>\n",
+       "      <td>8</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Burglary</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>350 YORK</td>\n",
+       "      <td>(West Little York Road, Estates of Highland Cr...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>2006-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>garage_carport</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 ENNIS ST</td>\n",
+       "      <td>(Ennis Street, Houston, Harris County, Texas, ...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>78</th>\n",
+       "      <td>2006-08-26</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>unknown</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2850 CANAL ST</td>\n",
+       "      <td>(2850, Canal Street, Houston, Harris County, T...</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "          date  hour   beat offense_type         premise  num_offenses  \\\n",
+       "32  2003-10-01     0  10H10         Rape       apartment             1   \n",
+       "61  2005-09-11     8  10H10     Burglary       apartment             1   \n",
+       "73  2006-01-01     0  10H10         Rape  garage_carport             1   \n",
+       "78  2006-08-26     0  10H10        Theft         unknown             1   \n",
+       "\n",
+       "   full_street_address                                           location  \n",
+       "32        50 LATHAM ST  (50, Latham Street, Houston, Harris County, Te...  \n",
+       "61            350 YORK  (West Little York Road, Estates of Highland Cr...  \n",
+       "73         50 ENNIS ST  (Ennis Street, Houston, Harris County, Texas, ...  \n",
+       "78       2850 CANAL ST  (2850, Canal Street, Houston, Harris County, T...  "
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Location(50, Latham Street, Houston, Harris County, Texas, 77011, USA, (29.7447415, -95.3181345, 0.0))"
+      ]
+     },
+     "execution_count": 24,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test.location.loc[32]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CPU times: user 0 ns, sys: 0 ns, total: 0 ns\n",
+      "Wall time: 899 µs\n"
+     ]
+    }
+   ],
+   "source": [
+    "%%time\n",
+    "test['address'] = test['location'].apply(lambda loc: loc.address if loc else None)\n",
+    "test['lat_lon'] = test['location'].apply(lambda loc: tuple(loc.point[:2]) if loc else None)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "      <th>location</th>\n",
+       "      <th>address</th>\n",
+       "      <th>lat_lon</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>2003-10-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 LATHAM ST</td>\n",
+       "      <td>(50, Latham Street, Houston, Harris County, Te...</td>\n",
+       "      <td>50, Latham Street, Houston, Harris County, Tex...</td>\n",
+       "      <td>(29.7447415, -95.3181345)</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>61</th>\n",
+       "      <td>2005-09-11</td>\n",
+       "      <td>8</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Burglary</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>350 YORK</td>\n",
+       "      <td>(West Little York Road, Estates of Highland Cr...</td>\n",
+       "      <td>West Little York Road, Estates of Highland Cre...</td>\n",
+       "      <td>(29.8607499, -95.7227816)</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>2006-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>garage_carport</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 ENNIS ST</td>\n",
+       "      <td>(Ennis Street, Houston, Harris County, Texas, ...</td>\n",
+       "      <td>Ennis Street, Houston, Harris County, Texas, 7...</td>\n",
+       "      <td>(29.7219243, -95.3673591)</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>78</th>\n",
+       "      <td>2006-08-26</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>unknown</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2850 CANAL ST</td>\n",
+       "      <td>(2850, Canal Street, Houston, Harris County, T...</td>\n",
+       "      <td>2850, Canal Street, Houston, Harris County, Te...</td>\n",
+       "      <td>(29.7553520816327, -95.3425036326531)</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "          date  hour   beat offense_type         premise  num_offenses  \\\n",
+       "32  2003-10-01     0  10H10         Rape       apartment             1   \n",
+       "61  2005-09-11     8  10H10     Burglary       apartment             1   \n",
+       "73  2006-01-01     0  10H10         Rape  garage_carport             1   \n",
+       "78  2006-08-26     0  10H10        Theft         unknown             1   \n",
+       "\n",
+       "   full_street_address                                           location  \\\n",
+       "32        50 LATHAM ST  (50, Latham Street, Houston, Harris County, Te...   \n",
+       "61            350 YORK  (West Little York Road, Estates of Highland Cr...   \n",
+       "73         50 ENNIS ST  (Ennis Street, Houston, Harris County, Texas, ...   \n",
+       "78       2850 CANAL ST  (2850, Canal Street, Houston, Harris County, T...   \n",
+       "\n",
+       "                                              address  \\\n",
+       "32  50, Latham Street, Houston, Harris County, Tex...   \n",
+       "61  West Little York Road, Estates of Highland Cre...   \n",
+       "73  Ennis Street, Houston, Harris County, Texas, 7...   \n",
+       "78  2850, Canal Street, Houston, Harris County, Te...   \n",
+       "\n",
+       "                                  lat_lon  \n",
+       "32              (29.7447415, -95.3181345)  \n",
+       "61              (29.8607499, -95.7227816)  \n",
+       "73              (29.7219243, -95.3673591)  \n",
+       "78  (29.7553520816327, -95.3425036326531)  "
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def correct(row):\n",
+    "    '''checks if addres is good by checking \n",
+    "    if col address contains a street number\n",
+    "    returns bad if  not'''\n",
+    "    if row['address']!= None:\n",
+    "        a = row['address'].split(',')[0] # address number\n",
+    "        if a.isdigit():\n",
+    "            return 'good'\n",
+    "        else:\n",
+    "            return 'bad'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "100%|██████████| 4/4 [00:00<00:00, 161.91it/s]\n"
+     ]
+    }
+   ],
+   "source": [
+    "test['good_bad'] = test.progress_apply(correct,axis=1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>date</th>\n",
+       "      <th>hour</th>\n",
+       "      <th>beat</th>\n",
+       "      <th>offense_type</th>\n",
+       "      <th>premise</th>\n",
+       "      <th>num_offenses</th>\n",
+       "      <th>full_street_address</th>\n",
+       "      <th>location</th>\n",
+       "      <th>address</th>\n",
+       "      <th>lat_lon</th>\n",
+       "      <th>good_bad</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>2003-10-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 LATHAM ST</td>\n",
+       "      <td>(50, Latham Street, Houston, Harris County, Te...</td>\n",
+       "      <td>50, Latham Street, Houston, Harris County, Tex...</td>\n",
+       "      <td>(29.7447415, -95.3181345)</td>\n",
+       "      <td>good</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>61</th>\n",
+       "      <td>2005-09-11</td>\n",
+       "      <td>8</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Burglary</td>\n",
+       "      <td>apartment</td>\n",
+       "      <td>1</td>\n",
+       "      <td>350 YORK</td>\n",
+       "      <td>(West Little York Road, Estates of Highland Cr...</td>\n",
+       "      <td>West Little York Road, Estates of Highland Cre...</td>\n",
+       "      <td>(29.8607499, -95.7227816)</td>\n",
+       "      <td>bad</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>2006-01-01</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Rape</td>\n",
+       "      <td>garage_carport</td>\n",
+       "      <td>1</td>\n",
+       "      <td>50 ENNIS ST</td>\n",
+       "      <td>(Ennis Street, Houston, Harris County, Texas, ...</td>\n",
+       "      <td>Ennis Street, Houston, Harris County, Texas, 7...</td>\n",
+       "      <td>(29.7219243, -95.3673591)</td>\n",
+       "      <td>bad</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>78</th>\n",
+       "      <td>2006-08-26</td>\n",
+       "      <td>0</td>\n",
+       "      <td>10H10</td>\n",
+       "      <td>Theft</td>\n",
+       "      <td>unknown</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2850 CANAL ST</td>\n",
+       "      <td>(2850, Canal Street, Houston, Harris County, T...</td>\n",
+       "      <td>2850, Canal Street, Houston, Harris County, Te...</td>\n",
+       "      <td>(29.7553520816327, -95.3425036326531)</td>\n",
+       "      <td>good</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "          date  hour   beat offense_type         premise  num_offenses  \\\n",
+       "32  2003-10-01     0  10H10         Rape       apartment             1   \n",
+       "61  2005-09-11     8  10H10     Burglary       apartment             1   \n",
+       "73  2006-01-01     0  10H10         Rape  garage_carport             1   \n",
+       "78  2006-08-26     0  10H10        Theft         unknown             1   \n",
+       "\n",
+       "   full_street_address                                           location  \\\n",
+       "32        50 LATHAM ST  (50, Latham Street, Houston, Harris County, Te...   \n",
+       "61            350 YORK  (West Little York Road, Estates of Highland Cr...   \n",
+       "73         50 ENNIS ST  (Ennis Street, Houston, Harris County, Texas, ...   \n",
+       "78       2850 CANAL ST  (2850, Canal Street, Houston, Harris County, T...   \n",
+       "\n",
+       "                                              address  \\\n",
+       "32  50, Latham Street, Houston, Harris County, Tex...   \n",
+       "61  West Little York Road, Estates of Highland Cre...   \n",
+       "73  Ennis Street, Houston, Harris County, Texas, 7...   \n",
+       "78  2850, Canal Street, Houston, Harris County, Te...   \n",
+       "\n",
+       "                                  lat_lon good_bad  \n",
+       "32              (29.7447415, -95.3181345)     good  \n",
+       "61              (29.8607499, -95.7227816)      bad  \n",
+       "73              (29.7219243, -95.3673591)      bad  \n",
+       "78  (29.7553520816327, -95.3425036326531)     good  "
+      ]
+     },
+     "execution_count": 27,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

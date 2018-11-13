@@ -62,6 +62,3 @@ scratch/
 # Misc
 .DS_Store
 .vscode
-
-# personal addons
-/data/clean_data/merge_data
